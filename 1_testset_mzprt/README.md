@@ -10,25 +10,25 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
 
 .
 
-├──scripts
+    ├──scripts
 
-├──raw                                                         # Our Benchamrk testset without any processing
+    ├──raw                                                         # Our Benchamrk testset without any processing
 
-├──processed                                              # Our processed testset(tokenized, BPE)
+    ├──processed                                              # Our processed testset(tokenized, BPE)
 
-│    ├──context-agnostic                            # Processed testset for sent-level MT
+    │    ├──context-agnostic                            # Processed testset for sent-level MT
 
-│    │    ├──original                                      # Testset that omitted ZPs
+    │    │    ├──original                                      # Testset that omitted ZPs
 
-│    │    ├──oracle                                        # Testset contains ZPs that recovered by human
+    │    │    ├──oracle                                        # Testset contains ZPs that recovered by human
 
-│    ├──context-aware                                # Processed testset for Doc-level MT, hear we only provide previous sentences (only one)
+    │    ├──context-aware                                # Processed testset for Doc-level MT, hear we only provide previous sentences (only one)
 
-│    │    ├──original                                      # Same as the context-agnostic version   
+    │    │    ├──original                                      # Same as the context-agnostic version   
 
-│    │    ├──oracle                                        # Same as the context-agnostic version   
+    │    │    ├──oracle                                        # Same as the context-agnostic version   
 
-└── README.md
+    └── README.md
 
 
 
