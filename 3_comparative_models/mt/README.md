@@ -37,22 +37,24 @@ All our models are trained on 8xV100 32Gb, fairseq toolkits.
 2. Preparing data bin files:
 
    ```bash
-   fairseq-preprocess -s zh -t en --trainpref training_set  --validpref valid_set --testpref test_set --destdir Output_dir --workers 20 
-   ```
-
-3. Training parameters for Movie Subtitle, Deep model
-
-   ```bash
    #!/usr/bin/bash
    
    set -x
    data_dir=data_bin
    save_dir=where_to_save
    log_dir=where_to_log
+   #preprocessing the data
+   fairseq-preprocess -s zh -t en --trainpref training_set  --validpref valid_set --testpref test_set --destdir ${data_dir} --workers 20 
+   ```
+
+3. Training parameters for Movie Subtitle, Deep model
+
+   ```bash
+   #training sentence-level MT model
+   # Deep model is shown here
    
    mkdir ${log_dir}
-   
-   # cosine max-lr ==> lr 1.0 updated
+   # cosine max-lr ==> lr fairseq-1.0 updated
    fairseq-train $data_dir \
    	--save-dir $save_dir \
    	-s zh -t en \
@@ -75,17 +77,17 @@ All our models are trained on 8xV100 32Gb, fairseq toolkits.
        --tensorboard-logdir ${log_dir} \
    	--ddp-backend=no_c10d |tee ${log_dir}/log_file
    ```
-
+   
    Note that:
-
+   
    1.  Our models are trained on 8 x V100 32Gb, therefore the batch size is 4800x12x8 approximate 460K tokens/batch
    2.  This the parameter for **Deep** model, **Big** model just remove the '--encoder-layers 12 --decoder-layers 12' or set them to 6.
    3.  For **base** model, set '--arch transformer', others are same as **Big** model
-
+   
 4. Generation:
 
    ```bash
-   fairseq-generate . --path path/checkpoint_best.pt -s zh -t en --lenpen 1.2 --remove-bpe --beam 5 > output
+   fairseq-generate ${data_dir} --path path/checkpoint_best.pt -s zh -t en --lenpen 1.2 --remove-bpe --beam 5 > output
    sh ~/mZPRT/scripts/get_hyp.sh output  #  extract hypothesis
    # output.hyp is the generated translations
    perl ~/mZPRT/scripts/get_hyp.sh reference < output.hyp
