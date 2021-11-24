@@ -22,9 +22,17 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
 Note that: the processed data are tokenized and contain BPE tag.  In details:
 
 * English dataset are tokenized by tokenizer.pl from Moses;
-  * sh ./scripts/preprocess_en.sh dir_path prefix_of_file
+  
+  ````
+  sh ./scripts/preprocess_en.sh dir_path prefix_of_file
+  ````
+  
 * Chinese dataset are tokenized by jieba toolkit with a userdict.txt (ZPs);
-  * sh ./scripts/preprocess_zh.sh dir_path prefix_of_file
+  
+  ```
+  sh ./scripts/preprocess_zh.sh dir_path prefix_of_file
+  ```
+  
 * Same as Chinese-Bert, we lowercase the English word in Chinese dataset
 
 * For the BPE, we use fastbpe
@@ -32,14 +40,22 @@ Note that: the processed data are tokenized and contain BPE tag.  In details:
 ---
 ## How to use:
 
-* Raw dataset need to tokenized first than
 * Processed data can be used directly
   * About Context-Aware dataset, we only provide a previous sentence as context.
   * Here,  take 'Baidu_knows.ctx.zh' in Context-Aware dir as an instance, this is the context file of 'Baidu_knows.bpe.zh' in Context-agnositc dir. 
 
+* From Raw to Original or Oracle, take Movie_Subtitle_test.zh as example:
+
+  ```bash
+  python ./scripts/make_mt_data.py -i Movie_Subtitle_test.zh -o M.S.original.zh
+  python ./scripts/make_mt_data.py -i Movie_Subtitle_test.zh -o M.S.oracle.zh -z
+  sh ./scripts/preprocess_zh.sh path_of_M.S.original.zh M.S.original
+  sh ./scripts/preprocess_zh.sh path_of_M.S.oracle.zh M.S.oracle
+  ```
+
   
 
-
+  
 
 
 
