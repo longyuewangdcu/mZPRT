@@ -1,6 +1,6 @@
 # mZPRT
 
-Multi-domain Zero Pronoun Recovery and Translation Dataset
+Multi-domain Zero Pronoun Recovery and Translation Dataset, MT data for Movie Subtitle
 
 ### Detail
 
@@ -29,7 +29,10 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
    ```python
    # make context data for movie subtitle
    python ../scrips/make_doc_context.py -i train.bpe.zh -o train.ctx.zh -n 1
+   # -n is the num_of_ctxs
    ```
-
-   1. The number of sentences in the ctx file should be the same as the sent-level file
+   
+   1. The number of sentences in the output file should be the same as the sent-level file
+   
+3. 
 
