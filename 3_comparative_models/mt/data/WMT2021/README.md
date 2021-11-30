@@ -22,10 +22,10 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
 
 1. For doc-level MT, the context file could be generate by our scripts:
 
-```python
-# make context data for movie subtitle
-python ../scrips/make_doc_context.py -i train.bpe.zh -o train.ctx.zh -n 1 -w True
-```
+   ```python
+   # make context data for movie subtitle
+   python ../scrips/make_doc_context.py -i train.bpe.zh -o train.ctx.zh -n 1 -w True
+   ```
 
 ​	The number of sentences in ctx file should be the same as the  input file
 
