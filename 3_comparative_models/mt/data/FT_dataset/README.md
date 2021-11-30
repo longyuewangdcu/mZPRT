@@ -39,23 +39,23 @@ Pseudo dataset from Forward Translation
    cp ./WMT_ZhEn/checkpoint_best.pt ${save_dir}/  # checkpoint_best.pt is the baseline model
    
    fairseq-train $data_dir \
-   	--save-dir $save_dir \
-   	-s zh -t en \
-   	--arch transformer_vaswani_wmt_en_de_big \
-   	--optimizer adam --adam-betas '(0.9, 0.98)' --adam-eps 1e-06 \
-       --clip-norm 0.0 \
-   	--lr-scheduler cosine --lr 1e-07 --max-lr 7e-5 --min-lr 1e-9 \
-       --warmup-init-lr 1e-07 --warmup-updates 10000 --lr-shrink 1 --lr-period-updates 50000 \
-   	--criterion label_smoothed_cross_entropy --label-smoothing 0.1 \
-   	--max-tokens 4800 --update-freq 1 \
-       --fp16 --fp16-scale-tolerance 0.3 \
-   	--encoder-normalize-before  --decoder-normalize-before  \
-   	--dropout 0.3 --attention-dropout 0.1 --weight-decay 0.0 \
-   	--max-update 60000 \
-   	--keep-interval-updates 100 --save-interval-updates 500  --log-interval 100 \
-       --log-format simple \
-       --patience 5 --reset-dataloader \  
-       --tensorboard-logdir ${log_dir} \
-   	--ddp-backend=no_c10d |tee ${log_dir}/log_file
+      --save-dir $save_dir \
+      -s zh -t en \
+      --arch transformer_vaswani_wmt_en_de_big \
+      --optimizer adam --adam-betas '(0.9, 0.98)' --adam-eps 1e-06 \
+      --clip-norm 0.0 \
+      --lr-scheduler cosine --lr 1e-07 --max-lr 7e-5 --min-lr 1e-9 \
+      --warmup-init-lr 1e-07 --warmup-updates 10000 --lr-shrink 1 --lr-period-updates 50000 \
+      --criterion label_smoothed_cross_entropy --label-smoothing 0.1 \
+      --max-tokens 4800 --update-freq 1 \
+      --fp16 --fp16-scale-tolerance 0.3 \
+      --encoder-normalize-before  --decoder-normalize-before  \
+      --dropout 0.3 --attention-dropout 0.1 --weight-decay 0.0 \
+      --max-update 60000 \
+      --keep-interval-updates 100 --save-interval-updates 500  --log-interval 100 \
+      --log-format simple \
+      --patience 5 --reset-dataloader \  
+      --tensorboard-logdir ${log_dir} \
+      --ddp-backend=no_c10d |tee ${log_dir}/log_file
    ```
 
