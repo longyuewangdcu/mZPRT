@@ -12,6 +12,7 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
     │   ├── aZPT                   # evaluation toolkit
     │   ├── aZPT_output            # output files in details of aZPT
     │   ├── human_score            # human judgements on 6 systems
+    │   ├── scirpts                # scripts for getting alignment
     ├── 3_comparative_models       # Bechmark related resources
     │   ├── mt                     # Machine translation task
     │   │   ├── data               # training data for MT baseline
