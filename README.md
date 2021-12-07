@@ -1,5 +1,30 @@
-# mZPRT
+# **mZPRT**
 Multi-domain Zero Pronoun Recovery and Translation Dataset
+
+### **Citation**
+
+Title: [A Benchmark for Zero Pronoun Recovery and Translation]()
+
+If you use this benchmark, Please cite our paper:
+
+```bibtex
+@inproceedings{xxxxx,
+  title={A Benchmark for Zero Pronoun Recovery and Translation},
+  author={Mingzhou Xu  and Longyue Wong, Derek F. Wong, Hongye Liu Linfeng Song, Lidia S. Chao,Shuming Shi and Zhaopeng Tu},
+  booktitle={xxxx},
+  year={2022},
+}
+```
+
+### LICENSE
+See `LICENSE`. We follow the data licensing plan as the same as the WMT benchmark. 
+
+### **Statistic**
+![](./Benchmark.png)
+
+We release a benchmark for Zero Pronoun Recovery and Translation, this benchmark contains the zero pronoun annotations (handcraft) from five different source. 
+
+### **Catalog** 
 
     .
     ├── 1_testset_mzprt            # Our benchmark testset
@@ -40,5 +65,7 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
     │   │   │   ├── codes          # training codes for reconstructor
     └── README.md
 
+### **Contact information**
 
-
+Xu, Mingzhou : nlp2ct.mzxu@gmail.com
+Wang, Longyue : vinnylywang@tencent.com
