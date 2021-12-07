@@ -10,7 +10,7 @@ If you use this benchmark, Please cite our paper:
 ```bibtex
 @inproceedings{xxxxx,
   title={A Benchmark for Zero Pronoun Recovery and Translation},
-  author={Mingzhou Xu  and Longyue Wong, Derek F. Wong, Hongye Liu Linfeng Song, Lidia S. Chao,Shuming Shi and Zhaopeng Tu},
+  author={Mingzhou Xu  and Longyue Wong, Derek F. Wong, Hongye Liu, Linfeng Song, Lidia S. Chao,Shuming Shi and Zhaopeng Tu},
   booktitle={xxxx},
   year={2022},
 }
