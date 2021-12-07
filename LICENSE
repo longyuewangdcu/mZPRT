@@ -1,0 +1,7 @@
+LICENSE
+
+Note: The variance-aware test set (VAT) were created based on the original WMT test set. Thus, we follow the original data licensing plan already stated by WMT organizers:
+
+The data released for the WMT news translation task can be freely used for research purposes, we just ask that you cite the WMT shared task overview paper, and respect any additional citation requirements on the individual data sets. For other uses of the data, you should consult with original owners of the data sets.
+
+(quoted from the ``LICENSING OF DATA'' part in the WMT official website. e.g., http://www.statmt.org/wmt21/translation-task.html).
