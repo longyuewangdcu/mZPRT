@@ -67,5 +67,5 @@ We release a benchmark for Zero Pronoun Recovery and Translation, this benchmark
 
 ### **Contact information**
 
-Xu, Mingzhou : nlp2ct.mzxu@gmail.com
+Xu, Mingzhou : nlp2ct.mzxu@gmail.com   
 Wang, Longyue : vinnylywang@tencent.com
