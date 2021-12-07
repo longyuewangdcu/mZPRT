@@ -4,7 +4,9 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
 
     .
     ├── aZPT                    # aZPT score
+    ├── aZPT_output             # aZPT_output in details
     ├── human_score             # human evaluation results
+    ├── sample                  # runing sample for aZPT
     ├── scripts                 # scripts for training and applying aligment 
     └── README.md
 
