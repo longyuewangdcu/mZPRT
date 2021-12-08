@@ -1,7 +1,7 @@
 # mZPRT
 Multi-domain Zero Pronoun Recovery and Translation Dataset
 
-Path:  /apdcephfs/share_916081/mingzhouxu/mZPRT-main/train_zpr/BK
+Path:  /apdcephfs/share_916081/mingzhouxu/data/mZPRT-main/train_zpr/BK
 
 ### Training dataset for Q&A Forum ZPR
 
