@@ -1,4 +1,4 @@
-### MT Baseline for G.R. P.P.
-1.Base: /apdcephfs/share_916081/mingzhouxu/models/WMT_ZhEn_base
-2.Big: /apdcephfs/share_916081/mingzhouxu/models/WMT_ZhEn
-3.Deep: /apdcephfs/share_916081/mingzhouxu/models/WMT_ZhEn_deep_12_12
+### MT Baseline for G.R. P.P.   
+1.Base: /apdcephfs/share_916081/mingzhouxu/models/WMT_ZhEn_base/checkpoint_best.pt   
+2.Big: /apdcephfs/share_916081/mingzhouxu/models/WMT_ZhEn/checkpoint_best.pt   
+3.Deep: /apdcephfs/share_916081/mingzhouxu/models/WMT_ZhEn_deep/checkpoint_best.pt   
