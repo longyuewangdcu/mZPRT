@@ -88,9 +88,9 @@ All our models are trained on 8xV100 32Gb, fairseq toolkits.
 
    ```bash
    fairseq-generate ${data_dir} --path path/checkpoint_best.pt -s zh -t en --lenpen 1.2 --remove-bpe --beam 5 > output
-   sh ~/mZPRT/scripts/get_hyp.sh output  #  extract hypothesis
+   sh ..//scripts/get_hyp.sh output  #  extract hypothesis
    # output.hyp is the generated translations
-   perl ~/mZPRT/scripts/get_hyp.sh reference < output.hyp
+   perl ../scripts/get_hyp.sh reference < output.hyp
    # reference is test_set english side without BPE
    ```
 
