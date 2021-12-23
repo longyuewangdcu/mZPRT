@@ -2,14 +2,17 @@
 
 ### Models
 1. ReConstructor, a model proposed by Wang et al. AAAI 2018
-
+![](./rec.png)
 
 ### Usage:
 
 #### Preparation
-1. Data for Zhang model and unified model (the data of cache model is same with baseline). 
+1. Data for ReConstructor model. We use the weaklable data to train our ReConstructor model. Data is release by Wang, and can be found [here](https://github.com/longyuewangdcu/tvsub) 
 ```bach
-1. python ../scripts/make_doc_context.py -i [inputs] -o [outputs] -n [num_of_ctx] -w [making noise data for wmt]
+# make data
+1. python ../scripts/turn_dp_back2original.py -i [original] -o [outputs] -z [data_dp] 
+1.1 python ~/1_testset_mzprt/scripts/make_mt_data.py -i [input] -o [output] -z # get the target data of reconstructor.
+
 
 2. fairseq-preprocess -s zh -t en --trainpref train_zp --validpref valid_zp --testpref test_zp --only-source --workers 20 --destdir TMP
 # rename and move to the data dir for training baseline system. e.g.
@@ -37,7 +40,12 @@ The context-aware models are trained on two-stage training process. Therefore, w
 #### Training model
 1. To get the Reconstructor model, we could follow this training step, `train a MT model -> tuning to Reconstructor -> tuning back to MT'.
 ```bash
-
+# training on MT data
+sh start_mv_zpt.sh
+# tuning on Reconstructor data
+sh start_mv.sh
+# tuning on MT data
+sh start_mv_zpt.sh
 ````
 
 However, this training process is not stable. Sometime may lead to lower quality on translation. Therefore, we switch to the follow training process:
