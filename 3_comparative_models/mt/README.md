@@ -3,30 +3,17 @@
 Multi-domain Zero Pronoun Recovery and Translation Dataset
 
     .
-    ├── 1_testset_mzprt         # Our benchmark testset
-    ├── 2_metric_azpt           # Our evaluation metric
-    │   ├── script              # evaluation toolkit
-    │   ├── human_score         # human judgements on 6 systems
-    ├── 3_comparative_models    # Bechmark related resources
-    │   ├── mt                  # Machine translation task
-    │   │   ├── data
-    │   │   ├── code
-    │   │   ├── model
-    │   ├── zpr                 # Zero pronoun recovery task
-    │   │   ├── data
-    │   │   ├── code
-    │   │   ├── model
-    │   └── zpt                 # Zero pronoun translation task
-    │   │   ├── data
-    │   │   ├── code
-    │   │   ├── model
+    ├── mt                      # MT baseline
+    │   ├── script              # metrics
+    │   ├── data                # Training data
+    │   ├── model               # Machine translation checkpoints
     └── README.md
 
 
 
 ### Training MT Baseline
 
-All our models are trained on 8xV100 32Gb, fairseq toolkits.
+All our models are trained on fairseq toolkits.
 
 1. fairseq version is 0.10.2
 
