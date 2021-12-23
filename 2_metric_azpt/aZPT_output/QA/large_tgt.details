@@ -1,0 +1,733 @@
+Sent	SRC_ZP_Pos.	SRC_ZP	Ref_ZP	TGT_ZPT_Pos.	TGT_ZPT	Case
+0	4	<你>_S	you	[2, 3, 4, 5, 6, 7, 8]	['automatic', ',', 'make', 'sure', 'the', 'clutch', 'is', 'in']	-1
+1	10	<你>_S_n	None	[8]	[',', 'cut', 'him', ',', 'hang', 'up', 'parked', 'oil', 'immediately', 'to', 'follow', ',', 'parked', 'refueling', 'do', 'not', 'do', 'more']	-1
+1	15	<你>_S	you	[11]	[',', 'hang', 'up', 'parked', 'oil', 'immediately', 'to', 'follow', ',', 'parked', 'refueling', 'do', 'not', 'do', 'more']	-1
+2	0	<你>_S	you	1	you	1
+3	7	<它>_S	it	[4, 5]	['boarding', 'pass', 'if', 'i', 'have', 'a', 'driver', "'s", 'license']	-1
+3	11	<它>_O_n	None	[10, 11]	['driver', "'s", 'license']	-1
+4	0	<它>_S_n	None	[0, 1, 2, 3, 4, 5, 6]	['should', 'be', 'able', 'to', ',', 'take', 'the', 'high-speed']	-1
+4	5	<我>_S	i	[2, 3, 4, 5, 6, 7, 8]	['able', 'to', ',', 'take', 'the', 'high-speed', 'rail', ',']	-1
+4	13	<我>_S	i	[13]	[',', 'by', 'plane', 'has', 'not', 'tried', ',', 'you', 'look', 'for', 'station', 'staff', ',', 'there', 'should', 'be', 'that', 'kind', 'of', 'public', 'security', 'window', ',', 'do', 'temporary', 'identity', 'card', ',', 'you', 'go', 'to', 'ask', '.']	-1
+4	31	<它>_S_n	None	[35]	[',', 'do', 'temporary', 'identity', 'card', ',', 'you', 'go', 'to', 'ask', '.']	-1
+4	40	<他>_O_n	None	[41, 42, 43, 44, 45]	['you', 'go', 'to', 'ask', '.']	-1
+5	20	<我>_S	i	24	i	1
+6	0	<你>_S	you	1	you	1
+7	6	<我>_S	i	8	i	1
+8	3	<你>_S	you	[4, 5, 6, 7, 8, 9, 10]	['long', 'way', 'to', 'go', ',', 'must', 'have', 'perseverance']	-1
+9	2	<我>_S	i	[0, 1, 2, 3, 4, 5]	['b', ':', 'well', ',', 'thank', 'you']	-1
+10	20	<我>_S	i	24	i	1
+11	7	<你>_S	you	[7, 8, 9, 10, 11, 12, 13]	[',', 'the', 'main', 'thing', 'is', 'to', 'exercise', ',']	-1
+11	12	<你>_S	you	[14, 15, 16]	[',', 'eat', 'a', 'reasonable', 'diet', '.']	-1
+12	0	<我>_S	i	[]	['walking', 'is', 'very', 'tired', ',', 'not', 'to', 'mention', 'exercise', ',', 'it', 'will', 'kill', 'me']	-1
+12	11	<它>_S	it	10	it	1
+13	1	<我>_S_n	None	[0, 1, 2]	['but', 'thank', 'you']	-1
+14	20	<我>_S	i	24	i	1
+15	0	<我>_S	i	[0, 1, 2, 3]	['is', 'there', 'salvation', '?']	-1
+16	0	<你>_S	you	[0, 1, 2, 3]	['yes', ',', 'how', 'high']	-1
+16	3	<你>_S	you	[0, 1, 2, 3]	['yes', ',', 'how', 'high']	-1
+17	20	<你>_S	you	51	you	1
+17	23	<你>_S	you	51	you	1
+18	21	<我>_S	i	22	i	1
+19	0	<你>_S_n	None	[0]	['think', 'about', 'the', 'way', 'your', 'wife', 'sees', 'your', 'tummy', ',', 'the', 'way', 'your', 'sweetheart', 'dislikes', 'you', ',', 'and', 'you', "'ll", 'be', 'motivated', 'to', 'lose', 'weight']	-1
+19	8	<你>_S_n	None	[9, 10, 11]	[',', 'the', 'way', 'your', 'sweetheart', 'dislikes', 'you', ',', 'and', 'you', "'ll", 'be', 'motivated', 'to', 'lose', 'weight']	-1
+20	21	<我>_S	i	22	i	1
+21	7	<你>_S	you	[8, 9, 10]	[',', 'step', 'by', 'step', ',', 'restraint', 'ah']	-1
+21	13	<你>_S	you	[11, 12, 13, 14]	['step', ',', 'restraint', 'ah']	-1
+22	0	<你>_S	you	1	you	1
+22	25	<你>_S	you	[26, 27, 28, 29, 30, 31, 32]	['.', '.', 'don', "'t", 'eat', ',', 'stop', 'now']	-1
+22	28	<它们>_O	them	[9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]	['are', 'not', 'saved', '.', '.', '.', 'it', 'depends', 'on', 'how', 'much', 'motivation', 'you', 'want', 'to', 'lose', 'weight', '.', '.', 'don', "'t", 'eat', ',', 'stop', 'now', '!']	-1
+22	31	<你>_S	you	[30, 31, 32, 33, 34]	['eat', ',', 'stop', 'now', '!']	-1
+23	21	<我>_S	i	22	i	1
+24	4	<你>_S	you	[0, 1, 2, 3, 4, 5, 6]	['weight', 'loss', 'requires', 'perseverance', '!', 'must', 'insist', '!']	-1
+24	8	<它>_O	it	[3, 4, 5, 6, 7]	['perseverance', '!', 'must', 'insist', '!']	-1
+25	21	<我>_S	i	22	i	1
+26	2	<你>_S_n	None	[1, 2, 3, 4, 5]	[',', 'i', "'m", 'not', 'afraid', '.', 'fried', 'beans', 'and', 'wine', '.']	-1
+27	0	<我>_S	i	[0, 1, 2]	['it', "'s", 'hard']	-1
+28	21	<我>_S	i	22	i	1
+29	0	<你>_S	you	2	you	1
+30	21	<我>_S	i	22	i	1
+31	0	<我>_S	i	[0, 1, 2, 3, 4]	['what', 'could', 'he', 'do', '?']	-1
+32	0	<你>_S_n	None	[0, 1, 2, 3]	['play', 'on', 'the', 'computer', 'and']	-1
+33	4	<它们>_O	them	[0, 1, 2, 3, 4, 5, 6]	['i', 'play', 'every', 'day', ',', 'eating', 'and', 'playing']	-1
+33	7	<我>_S	i	[2, 3, 4, 5, 6, 7]	['every', 'day', ',', 'eating', 'and', 'playing']	-1
+34	0	<它>_S	it	[0, 1, 2, 3, 4]	['yes', ',', 'i', 'can', '.']	-1
+35	0	<它>_S_n	None	[0, 1]	['too', 'expensive']	-1
+36	18	<它>_O	it	[16, 17, 18, 19]	['dare', 'not', 'open', '!']	-1
+37	0	<它>_S	it	0	it	1
+38	3	<你>_S	you	[4, 5, 6, 7, 8, 9, 10]	['.', 'it', 'can', "'t", 'be', 'done', '!']	-1
+39	16	<我>_S	i	[21, 22]	['!', 'just', 'call', 'and', 'say', 'as', 'soon', 'as', 'possible']	-1
+40	0	<我>_S	i	[0, 1, 2, 3]	['what', 'kind', 'of', 'hairstyle', 'do']	-1
+41	0	<我>_S_n	None	[0, 1]	['thank', 'you']	-1
+42	4	<你>_S	you	[4, 5, 6, 7, 8, 9, 10]	['belongs', 'to', 'the', 'long', 'face', 'i', 'recommend', 'staying']	-1
+42	9	<你>_O	you	[12, 13, 14]	['recommend', 'staying', 'qi', 'liu', 'hai', 'and', 'curly', 'hair', 'or', 'straight', 'hair', 'will', 'be', 'wrong']	-1
+43	2	<我>_S	i	[0, 1, 2, 3]	['oh', ',', 'yeah', '?']	-1
+44	9	<我>_S	i	9	i	1
+44	21	<我>_S	i	[23, 24, 25, 26]	['me', ',', 'thank', 'you']	-1
+45	1	<你>_S	you	[0, 1, 2, 3, 4, 5]	['it', "'s", 'going', 'to', 'be', 'a', 'long']	-1
+45	5	<我>_S	i	[0, 1, 2, 3, 4, 5]	['it', "'s", 'going', 'to', 'be', 'a', 'long']	-1
+46	9	<我>_S	i	9	i	1
+46	21	<我>_S	i	[23, 24, 25, 26]	['me', ',', 'thank', 'you']	-1
+47	0	<你>_S	you	[0, 1, 2, 3]	['it', "'s", 'so', 'beautiful']	-1
+48	2	<我>_S_n	None	[1]	[',', 'yeah', '?', 'but', 'i', 'don', "'t", 'like', 'it', ',']	-1
+49	0	<你>_S	you	[0, 1]	['very', 'good']	-1
+50	9	<我>_S	i	9	i	1
+50	21	<我>_S	i	[23, 24, 25, 26]	['me', ',', 'thank', 'you']	-1
+51	0	<你>_S	you	[0, 1, 2, 3]	['be', 'a', 'wave', 'head']	-1
+52	3	<你>_S	you	[0, 1]	['what', 'material', 'are', 'the', 'middle', 'part', ',', 'the', 'brown', 'part', 'and', 'the', 'flower', 'parts', 'on', 'each', 'side', '?', 'urgent', 'and', 'urgent']	-1
+53	11	<它>_O	it	[10, 11]	['available', 'online', '!']	-1
+54	28	<她>_S	she	38	she	1
+55	0	<你>_S_n	None	[]	['buy', 'bicycles', 'to', 'go', 'to', 'subsidies', '88']	-1
+56	1	<你>_S	you	[0, 1, 2, 3, 4, 5]	['don', "'t", 'look', 'down', 'upon', 'nobody']	-1
+57	0	<你>_S	you	[0]	['buy', 'a', 'second', 'hand', 'qq', 'cheapest']	-1
+58	0	<它>_S	it	0	it	1
+59	0	<你>_S	you	[0, 1, 2]	['buy', 'an', 'electric', 'car', ',', 'more', 'than', 'ten', 'thousand', 'is', 'not', 'yet', 'on', 'the', 'card', '.']	-1
+60	0	<它们>_S	they	[0, 1]	['too', 'expensive']	-1
+61	5	<它>_S_n	None	[0, 1, 2, 3, 4, 5, 6]	['a', ':', 'what', 'kind', 'of', 'company', 'is', 'this']	-1
+62	0	<我>_S	i	0	i	1
+63	2	<你>_S	you	11	you	1
+63	8	<它>_S	it	[2, 3, 4, 5, 6, 7, 8]	['old', 'scooter', 'and', 'burn', 'four', 'rounds', 'of', 'petrol']	-1
+64	7	<它>_O	it	[5]	['do', 'you', 'sell', 'motorbikes']	-1
+65	0	<我>_S	i	[]	['no', 'way', ',', 'just', 'help', 'me', 'think', 'about', 'it']	-1
+65	4	<你>_S	you	[0, 1, 2, 3, 4, 5, 6]	['no', 'way', ',', 'just', 'help', 'me', 'think', 'about']	-1
+66	0	<我>_S	i	[0, 1, 2, 3]	['to', 'be', 'brand', 'new']	-1
+67	0	<它>_S	it	0	it	1
+67	9	<我>_S	i	[9, 10, 11, 12, 13, 14, 15]	['than', 'ten', 'thousand', 'dollars', ',', 'including', 'a', 'license']	-1
+68	0	<它>_S	it	[0, 1]	['the', 'cheapest']	-1
+69	0	<你>_S	you	[0, 1]	['buy', 'second-hand']	-1
+70	0	<我>_S	i	[0, 1, 2, 3]	['want', 'a', 'new', 'car']	-1
+71	0	<你>_S	you	[0]	['eat', 'more', 'fruit', ',', 'puberty', 'development', 'is', 'ok']	-1
+72	0	<你>_S	you	[0, 1, 2, 3]	['what', 'little', 'trick', '.', 'can']	-1
+73	6	<你>_S	you	[6]	[',', 'with', 'traditional', 'chinese', 'medicine']	-1
+74	0	<我>_S	i	[0, 1, 2, 3]	['no', 'medicine', 'is', 'needed', '.']	-1
+75	0	<你>_S_n	None	[0]	['addition']	-1
+76	6	<它>_S	it	[6]	['?', 'refund', 'how', 'much', '.']	-1
+77	1	<你>_S	you	[]	['the', 'labour', 'bureau', 'for', 'advice']	-1
+78	0	<你>_S	you	1	you	1
+79	1	<它>_S_n	None	[0, 1, 2, 3]	['it', "'s", 'all', 'right', 'anyway']	-1
+80	0	<我>_S	i	[]	['no', '!', 'have', 'you', 'had', 'it', '?']	-1
+80	3	<它>_O	it	5	it	1
+80	8	<它>_O	it	5	it	1
+81	0	<它>_S	it	[0, 1, 2, 3]	['all', 'right', ',', 'all', 'right']	-1
+82	0	<我>_S	i	0	i	1
+83	0	<你>_S	you	[0, 1, 2, 3]	['quit', 'and', 'try', 'again']	-1
+84	2	<我>_S	i	[1, 2]	[',', 'not', 'even', 'shutting', 'down', 'and', 'restarting']	-1
+85	0	<你>_S	you	[0, 1, 2, 3]	['try', 'a', 'different', 'phone']	-1
+86	3	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['my', 'last', 'name', 'is', 'shang', ',', 'please', 'give']	-1
+86	18	<我>_S	i	[17, 18, 19, 20, 21, 22, 23]	['the', 'name', ',', 'please', ',', 'very', 'anxious', ',']	-1
+86	21	<我>_S	i	[20, 21, 22, 23, 24, 25, 26]	['please', ',', 'very', 'anxious', ',', 'thank', 'you']	-1
+86	24	<我>_S	i	[23, 24, 25, 26]	['anxious', ',', 'thank', 'you']	-1
+87	3	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['my', 'last', 'name', 'is', 'shang', ',', 'please', 'give']	-1
+87	18	<我>_S	i	[17, 18, 19, 20, 21, 22, 23]	['the', 'name', ',', 'please', ',', 'very', 'anxious', ',']	-1
+87	21	<我>_S	i	[20, 21, 22, 23, 24, 25, 26]	['please', ',', 'very', 'anxious', ',', 'thank', 'you']	-1
+87	24	<我>_S	i	[23, 24, 25, 26]	['anxious', ',', 'thank', 'you']	-1
+88	8	<我>_S	i	10	i	1
+89	4	<你>_S	you	[4, 5, 6, 7, 8, 9, 10]	[',', 'but', 'i', "'ve", 'seen', 'or', 'heard', 'some']	-1
+90	0	<你>_S	you	[0, 1, 2, 3]	['how', 'to', 'apply', 'for', 'download']	-1
+91	0	<你>_S	you	[0]	['on', 'the', 'official', 'website', 'and', 'then', 'have', 'android', 'and', 'apple', 'version', 'ah', 'download']	-1
+91	5	<它>_S_n	None	[1, 2, 3, 4, 5, 6, 7]	['the', 'official', 'website', 'and', 'then', 'have', 'android', 'and']	-1
+91	11	<你>_S_n	None	[8, 9, 10, 11, 12]	['and', 'apple', 'version', 'ah', 'download']	-1
+92	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['of', 'course', 'it', "'s", 'called', 'salvation']	-1
+93	1	<我>_S	i	2	i	1
+94	0	<他>_S	he	[0, 1, 2]	['call', 'for', 'help']	-1
+95	0	<它>_S_n	None	[0, 1]	['requires', 'router']	-1
+96	2	<我>_S	i	[0, 1, 2, 3, 4, 5]	['well', ',', 'it', "'s", 'already', 'there']	-1
+97	6	<我的>_Pa	my	[]	[',', 'the', 'waist', 'is', 'not', 'comfortable', ',', 'the', 'woman', "'s", 'comments', 'have', 'done', 'a', 'lot', 'of', 'bad', 'things', ',', 'mom', ',', 'i', 'am', 'wrong', 'ah', ',', 'i', 'am', 'going', 'to', 'chase', 'her', ',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+98	1	<你>_S	you	26	you	1
+98	17	<她>_S	she	36	she	1
+99	0	<我>_S	i	[0, 1, 2]	['be', 'sure', 'and', 'sure', '!', 'if', 'you', 'don', "'t", 'feel', 'like', 'you', 'need', 'to', 'take', 'the', 'initiative', 'to', 'comment', '!', 'not', 'to', 'find', 'the', 'topic', 'of', 'love', 'before', 'they', 'are', 'making', 'fun', 'of', 'each', 'other']	-1
+99	7	<她>_S	she	[5, 6, 7, 8, 9, 10, 11, 12]	['if', 'you', 'don', "'t", 'feel', 'like', 'you', 'need', 'to', 'take', 'the', 'initiative', 'to', 'comment', '!', 'not', 'to', 'find', 'the', 'topic', 'of', 'love', 'before', 'they', 'are', 'making', 'fun', 'of', 'each', 'other']	-1
+99	12	<她>_S	she	[5, 6, 7, 8, 9, 10, 11]	['if', 'you', 'don', "'t", 'feel', 'like', 'you', 'need']	-1
+99	18	<她>_S	she	[19]	['!', 'not', 'to', 'find', 'the', 'topic', 'of', 'love', 'before', 'they', 'are', 'making', 'fun', 'of', 'each', 'other']	-1
+100	6	<我的>_Pa	my	[]	[',', 'the', 'waist', 'is', 'not', 'comfortable', ',', 'the', 'woman', "'s", 'comments', 'have', 'done', 'a', 'lot', 'of', 'bad', 'things', ',', 'mom', ',', 'i', 'am', 'wrong', 'ah', ',', 'i', 'am', 'going', 'to', 'chase', 'her', ',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+100	31	<我>_S	i	[34, 35]	[',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+101	16	<你们>_S	you	[16, 17]	['close', 'and', 'easy', 'to', 'get', 'along', 'with', '.', '.', 'go', 'ahead', ',', 'there', 'is', 'a', 'chance', 'of', 'success', '.']	-1
+101	21	<你>_S	you	[20, 21, 22, 23, 24]	['get', 'along', 'with', '.', '.', 'go', 'ahead', ',', 'there', 'is', 'a', 'chance', 'of', 'success', '.']	-1
+101	25	<你>_S	you	[27, 28, 29, 30]	[',', 'there', 'is', 'a', 'chance', 'of', 'success', '.']	-1
+102	0	<你>_S	you	2	you	1
+103	6	<我的>_Pa	my	[]	[',', 'the', 'waist', 'is', 'not', 'comfortable', ',', 'the', 'woman', "'s", 'comments', 'have', 'done', 'a', 'lot', 'of', 'bad', 'things', ',', 'mom', ',', 'i', 'am', 'wrong', 'ah', ',', 'i', 'am', 'going', 'to', 'chase', 'her', ',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+103	31	<我>_S	i	[34, 35]	[',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+104	0	<她>_S	she	[0, 1]	['apparently', 'joking']	-1
+105	2	<她>_S	she	[0, 1, 2, 3]	['oh', ',', 'you', "'re", 'kidding']	-1
+106	6	<我的>_Pa	my	[]	[',', 'the', 'waist', 'is', 'not', 'comfortable', ',', 'the', 'woman', "'s", 'comments', 'have', 'done', 'a', 'lot', 'of', 'bad', 'things', ',', 'mom', ',', 'i', 'am', 'wrong', 'ah', ',', 'i', 'am', 'going', 'to', 'chase', 'her', ',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+106	31	<我>_S	i	[34, 35]	[',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+107	0	<你>_S	you	7	you	1
+108	0	<我们>_S	we	[0, 1, 2, 3, 4]	['i', "'ve", 'known', 'you', 'for', 'two']	-1
+109	0	<你>_S	you	1	you	1
+110	0	<我>_S_n	None	[0]	['no']	-1
+111	1	<她>_S	she	[0, 1, 2, 3, 4, 5]	['i', 'asked', 'her', 'to', 'help', 'me', 'to']	-1
+112	0	<她>_S	she	[0, 1, 2, 3]	['it', "'s", 'been', 'a', 'month']	-1
+113	0	<你>_S	you	[0]	['make', 'an', 'appointment', 'and', 'tell', 'her', 'not', 'to', 'call', 'or', 'send', 'messages']	-1
+114	0	<我>_Pa	my	[0, 1, 2, 3]	['is', 'there', 'a', 'good', 'chance']	-1
+115	2	<你>_S	you	[0, 1, 2, 3, 4, 5]	['since', 'i', 'like', 'to', 'speak', 'boldly', ',']	-1
+116	4	<你>_S_n	None	[4, 5, 6, 7]	[',', 'can', "'t", 'hurry', 'after', 'her']	-1
+117	9	<你>_S	you	21	you	1
+117	22	<你>_S	you	[28, 29]	[',', 'is', 'not', 'suitable', 'for', 'now', 'to', 'make', 'a', 'confession', ',']	-1
+118	11	<你>_S_n	None	[13]	['and', 'then', 'let', 'her', 'think', 'about', 'it', ',', 'you', 'have', 'to', 'be', 'very', 'serious', ',', 'very', 'sincere', 'oh', ',', 'mainly', 'to', 'see', 'how', 'she', 'recovered']	-1
+119	2	<她>_S	she	[0, 1, 2, 3, 4, 5]	['recovery', '?', 'still', 'in', 'the', 'heartbreak', 'phase']	-1
+120	6	<我的>_Pa	my	[]	[',', 'the', 'waist', 'is', 'not', 'comfortable', ',', 'the', 'woman', "'s", 'comments', 'have', 'done', 'a', 'lot', 'of', 'bad', 'things', ',', 'mom', ',', 'i', 'am', 'wrong', 'ah', ',', 'i', 'am', 'going', 'to', 'chase', 'her', ',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+120	31	<我>_S	i	[34, 35]	[',', 'there', 'is', 'hope', '?', 'what', 'does', 'she', 'mean', '?']	-1
+121	12	<它>_S	it	[14, 15, 16, 17, 18, 19]	['!', 'is', 'there', 'a', 'direct', 'line']	-1
+122	0	<你>_S	you	[0, 1, 2]	['do', 'the', 'subway']	-1
+123	1	<它>_S	it	[0, 1, 2, 3]	['what', 'do', 'you', 'think']	-1
+124	0	<它>_S	it	1	it	1
+124	6	<它>_S	it	[5, 6, 7]	['?', 'yes', ',', 'after', 'buying', 'space', 'service', 'providers', 'will', 'give', 'you', 'a', 'management', 'account', ',', 'he', 'will', 'give', 'you', 'an', 'address', 'and', 'account', 'password', ',']	-1
+125	1	<它>_S	it	[2]	['you', 'were', 'looking', 'for', 'doesn', "'t", 'exist', '.']	-1
+126	0	<它>_S	it	[0, 1, 2]	['no', ',', 'or', 'no', 'money', 'to', 'play', ',', 'recommend', 'you', 'next', 'money', 'software', '!', '.', '.', 'called', 'money', 'saving', 'assistant', '!']	-1
+126	17	<它>_S	it	[13, 14, 15, 16, 17, 18, 19]	['!', '.', '.', 'called', 'money', 'saving', 'assistant', '!']	-1
+127	5	<我>_S	i	[2, 3, 4, 5, 6, 7]	['that', 'serve', ',', 'first', 'time', 'answered']	-1
+128	14	<你>_S	you	18	you	1
+129	20	<你>_S	you	10	you	1
+130	11	<它>_S_n	None	[2, 3, 4, 5, 6, 7, 8]	['i', "'ve", 'tried', 'to', 'remove', 'time', 'run', ',']	-1
+131	15	<我>_S	i	[14]	['and', 'then', 'add', 'a', '=', '1', 'to', 'timer0', ',']	-1
+132	9	<它>_S	it	44	it	1
+132	36	<我>_S	i	[43, 44, 45]	['so', 'it', 'is', 'not', 'very', 'good', '.']	-1
+133	0	<它>_S	it	[0, 1, 2, 3]	['how', "'s", 'that', 'gonna', 'work']	-1
+134	0	<我>_S	i	[0, 1, 2, 3]	['seeing', 'some', 'reviews', ',', 'the']	-1
+135	21	<它>_S	it	[22, 23, 24, 25, 26, 27, 28]	[',', 'and', 'now', 'has', 'been', 'discontinued', ',', 'is']	-1
+136	0	<你>_S	you	5	you	1
+137	0	<它>_S_n	None	[0, 1]	['just', 'over', '650']	-1
+138	5	<它>_S	it	[0, 1, 2, 3, 4, 5]	['thank', 'you', 'for', 'your', 'feedback', '.']	-1
+139	12	<它>_S_n	None	[6, 7]	['(', 'special', 'effects', 'do', 'not', 'open', ',', 'fluent', 'on', 'the', 'line', ')', ',', 'and', 'mold', 'drawing', '?', 'how', 'much', 'does', 'it', 'cost', 'to', 'start']	-1
+139	17	<它>_S_n	None	[23, 24, 25, 26, 27, 28, 29]	['how', 'much', 'does', 'it', 'cost', 'to', 'start']	-1
+140	0	<它>_S	it	[0, 1, 2, 3]	['no', 'problem', 'with', 'the', 'graphics']	-1
+141	0	<它>_S_n	None	[0, 1]	['b', ':', 'almost']	-1
+142	1	<你>_S	you	[0, 1, 2, 3, 4]	['i', 'don', "'t", 'want', 'to', 'talk']	-1
+143	0	<我>_S	i	0	i	1
+144	0	<我>_S	i	[0]	['righteousness']	-1
+145	0	<你>_S	you	[0, 1, 2, 3]	['next', 'lbe', 'safety', 'wire']	-1
+146	4	<它>_S	it	2	it	1
+147	0	<它>_S	it	1	it	1
+148	8	<我>_S	i	[3, 4, 5, 6, 7, 8, 9]	['root', 'ah', '!', 'try', 'a', 'variety', 'of', 'key']	-1
+149	0	<它>_S	it	[0, 1, 2, 3, 4]	['should', 'be', 'memory', 'is', 'not', 'enough']	-1
+150	2	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['no', '!', 'the', 'first', 'one', 'is', 'baidu']	-1
+151	0	<我>_S	i	21	i	1
+151	8	<它>_S	it	[13, 14, 15, 16, 17, 18, 19]	['corresponding', 'hack', 'program', 'has', 'not', 'been', 'developed', ',']	-1
+152	16	<它>_S	it	[16]	['?', 'what', 'harm', '.']	-1
+153	0	<你>_S	you	[0, 1, 2, 3]	['good', 'beautiful', 'eyes', 'myopia', 'i']	-1
+153	3	<你的>_Pa	your	[0, 1, 2, 3, 4, 5]	['good', 'beautiful', 'eyes', 'myopia', 'i', 'also', 'pay']	-1
+154	6	<他们>_S	they	[4, 5, 6, 7, 8, 9, 10]	['ah', ',', 'but', 'are', 'double', 'eyelids', '.', 'only']	-1
+155	12	<它的>_Pa	its	[0, 1, 2, 3, 4]	['is', 'it', 'fake', 'that', 'i', 'buy']	-1
+156	1	<他>_S	he	[0, 1, 2, 3]	['do', 'not', 'answer', 'the', 'phone']	-1
+157	4	<他>_S	he	[3, 4, 5]	['message', 'and', 'don', "'t", 'return', 'it']	-1
+158	1	<你>_S	you	[0, 1, 2, 3, 4]	['then', 'complain', 'to', 'him', '.']	-1
+159	7	<它>_S	it	[10, 11, 12, 13, 14, 15, 16]	['better', ',', 'can', 'be', 'used', 'baidu', 'cloud', 'collection']	-1
+159	10	<我>_S	i	[9, 10, 11, 12, 13, 14, 15]	['the', 'better', ',', 'can', 'be', 'used', 'baidu', 'cloud']	-1
+160	1	<它>_S	it	0	it	1
+161	1	<它>_S	it	9	it	1
+162	6	<它>_S	it	10	it	1
+163	14	<它>_O	it	[13, 14, 15, 16, 17, 18, 19]	['not', 'supported', ',', 'to', 'change', 'the', 'processor', 'motherboard']	-1
+163	16	<你>_S	you	[15]	[',', 'to', 'change', 'the', 'processor', 'motherboard', 'to', 'be', 'replaced', ',', 'so', 'that', 'a', 'full', 'set', 'of', 'replacement', ',', 'as', 'well', 'as', 'a', 'brand', 'new', 'assembly', 'of', 'a', '~']	-1
+163	33	<你>_S	you	[29, 30, 31, 32, 33, 34, 35]	['set', 'of', 'replacement', ',', 'as', 'well', 'as', 'a']	-1
+164	0	<你>_S	you	16	you	1
+164	4	<你>_S	you	16	you	1
+165	0	<你>_S	you	[0, 1, 2, 3]	['need', 'to', 'restore', 'the', 'system']	-1
+166	0	<你>_S	you	[]	['log', 'in', 'to', 'your', 'account']	-1
+167	0	<我>_S	i	0	i	1
+168	0	<你>_S	you	[0, 1, 2, 3]	['go', 'apply', 'for', 'one']	-1
+169	1	<它>_S	it	1	it	1
+169	6	<我>_S	i	[7, 8, 9]	[',', 'and', 'a', 'debt', 'of', '400,000', 'interest', 'puts', 'pressure', 'on', 'it']	-1
+170	8	<你>_S	you	11	you	1
+170	16	<你的>_Pa	your	[15, 16, 17, 18, 19, 20, 21]	['by', 'phone', '?', 'insincerity', 'is', 'not', 'enough', '.']	-1
+171	0	<它>_S	it	[]	['play', 'league', 'of', 'legends', 'super', 'card', ',', 'i', 'do', 'not', 'want', 'the', 'video', 'card', 'too', 'garbage', ',', 'originally', 'my', 'graphics', 'card', 'has', 'more', 'than', '500', ',']	-1
+171	6	<它>_S	it	[6, 7, 8, 9]	[',', 'i', 'do', 'not', 'want', 'the', 'video', 'card', 'too', 'garbage', ',', 'originally', 'my', 'graphics', 'card', 'has', 'more', 'than', '500', ',']	-1
+172	5	<你>_O	you	[1, 2, 3, 4, 5, 6, 7]	['card', 'table', 'is', 'old', 'advice', 'to', 'play', 'lol']	-1
+173	9	<他>_S	he	[6, 7, 8, 9, 10, 11, 12]	['computer', ',', 'also', 'took', 'my', '100', 'quick', 'wipe']	-1
+173	30	<它>_S	it	29	it	1
+174	0	<你>_S	you	[]	['change', 'the', 'graphics', 'card', 'is', 'not', 'possible', 'your', 'entire', 'machine', 'configuration', 'is', 'not', 'high', 'change', 'the', 'graphics', 'card', 'is', 'relatively', 'much', 'better']	-1
+175	13	<它>_S	it	[11, 12, 13, 14, 15, 16, 17]	['?', 'why', 'can', "'t", 'i', 'open', 'anything', '?']	-1
+176	0	<它>_S	it	[0, 1, 2, 3, 4]	['may', 'be', 'network', 'signal', 'difference']	-1
+177	13	<它>_S	it	[11, 12, 13, 14, 15, 16, 17]	['?', 'why', 'can', "'t", 'i', 'open', 'anything', '?']	-1
+178	0	<你>_S	you	[0, 1, 2]	['change', 'a', 'browser']	-1
+179	0	<它>_S	it	[0, 1, 2, 3]	['why', 'open', 'this', 'is', 'this']	-1
+180	0	<它>_S	it	[0]	['poisoned']	-1
+181	0	<你>_S	you	[0, 1, 2, 3]	['ask', 'the', 'master', 'to', 'fix']	-1
+182	0	<它>_S	it	1	it	1
+183	0	<它>_S	it	[0, 1, 2, 3]	['why', 'open', 'this', 'is', 'this']	-1
+184	0	<它>_S	it	[0]	['bad']	-1
+185	4	<它>_O	it	[3]	['the', 'connection', 'isn', "'t", 'good']	-1
+186	0	<你>_S	you	[0, 1, 2, 3, 4]	['learn', 'about', 'liao', 'ke', 'da']	-1
+187	0	<我>_S	i	0	i	1
+187	4	<它>_S	it	6	it	1
+188	0	<它>_S	it	[0, 1, 2, 3]	['there', 'is', 'also', 'a']	-1
+189	0	<它>_S	it	[]	['why', 'play', 'lol', 'has', 'been', 'stuck', 'in', 'a', 'crash', ',', 'and', 'has', 'been', 'the', 'virtual', 'memory', 'shortage']	-1
+189	9	<它>_S	it	[8, 9, 10, 11, 12, 13, 14]	['crash', ',', 'and', 'has', 'been', 'the', 'virtual', 'memory']	-1
+190	12	<它>_S	it	32	it	1
+190	27	<它>_S	it	32	it	1
+191	0	<你>_S	you	[0, 1, 2]	['think', 'about', 'it', 'and', 'be', 'afraid', 'to', 'spend', 'a', 'little', 'money', 'to', 'cut', 'carbon']	-1
+192	8	<它>_S	it	[8, 9]	[',', 'you', 'can', 'use', 'a', 'separate', 'graphics', 'card', '.']	-1
+193	3	<你>_S	you	[4, 5, 6, 7, 8, 9, 10, 11]	['but', 'it', 'doesn', "'t", 'make', 'any', 'sense', 'to', 'change', 'it', '.', 'a', ':', 'b', ':', 'rotten', 'up']	-1
+194	2	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['b', ':', 'yes', ',', 'we', 'suggest', 'we', 'change']	-1
+195	0	<你>_S	you	[0, 1, 2, 3, 4]	['take', 'your', 'id', 'card', 'to', 'the']	-1
+196	0	<我>_S	i	[0, 1, 2, 3]	['home', 'in', 'the', 'countryside', ',']	-1
+196	6	<他>_S	he	[3, 4, 5, 6, 7, 8, 9]	['countryside', ',', 'fear', 'not', 'to', 'give', 'a', 'line']	-1
+197	0	<你>_S	you	[0, 1, 2, 3, 4, 5]	['go', 'to', 'your', 'local', 'county', 'business', 'office']	-1
+198	13	<我>_S	i	[14, 15]	['desktop', 'phone', 'will', 'quickly', 'send', 'you', 'a', 'selection', 'of', 'personalized', 'desktop', 'phones', '.']	-1
+199	8	<它>_S	it	10	it	1
+200	0	<它们>_S	they	[0, 1, 2]	['not', 'at', 'all']	-1
+201	0	<它的>_Pa	its	[0, 1, 2, 3]	['it', "'s", 'all', 'in', 'english']	-1
+201	6	<我>_S	i	6	i	1
+202	1	<我>_S	i	[0, 1, 2, 3, 4]	['there', "'s", 'no', 'way', '.', 'this']	-1
+203	3	<我>_S	i	[1, 2, 3, 4, 5, 6, 7]	["'re", 'welcome', '.', 'didn', "'t", 'solve', 'the', 'problem']	-1
+204	3	<它>_S	it	3	it	1
+205	16	<你>_S	you	[17, 18, 19]	['not', 'on', 'the', 'computer', 'to', 'do', ',', 'get', 'ready', 'to', 'turn', 'the', 'phone', 'ah', '!']	-1
+205	22	<你>_S	you	[19, 20, 21, 22, 23, 24, 25]	['the', 'computer', 'to', 'do', ',', 'get', 'ready', 'to']	-1
+206	22	<我的>_Pa	my	[20]	['.', 'positioning', 'is', 'turned', 'on', '.']	-1
+207	0	<你>_S	you	[0, 1, 2, 3]	['try', 'it', 'again', '.']	-1
+208	5	<它>_O	it	[4, 5, 6, 7, 8, 9, 10]	['delete', 'and', 'reinstall', 'into', 'the', 'updated', 'version', '.']	-1
+209	17	<我>_S	i	[19]	['internet', 'so', 'that', 'other', 'devices', 'even', 'better']	-1
+210	4	<它>_S	it	10	it	1
+211	17	<我>_S	i	[19]	['internet', 'so', 'that', 'other', 'devices', 'even', 'better']	-1
+212	0	<你>_S	you	[]	['restart', 'it', '.', '.', '.', 'in', 'front', 'of', 'can', "'t", 'get', 'wifi', '.', '.', 'still', 'can', "'t", '.', '.', 'brush', 'off', 'the', 'machine', '.', '.']	-1
+212	8	<你>_S	you	[6, 7, 8, 9, 10, 11, 12]	['front', 'of', 'can', "'t", 'get', 'wifi', '.', '.']	-1
+213	0	<我>_S	i	[0, 1, 2, 3, 4]	['the', 'machine', 'that', 'just', 'brushed', 'today']	-1
+214	0	<我>_S	i	[0, 1, 2, 3]	['just', 'try', 'it', 'and', 'it']	-1
+214	7	<它>_S	it	4	it	1
+215	13	<你>_S	you	[11]	['is', 'to', 'restore', 'the', 'router', 'reset', 'it', '.', '.', 'resend', 'wifi']	-1
+215	21	<你>_S	you	[19]	['.', '.', 'resend', 'wifi']	-1
+216	17	<我>_S	i	[19]	['internet', 'so', 'that', 'other', 'devices', 'even', 'better']	-1
+217	7	<它>_S	it	8	it	1
+218	13	<它>_S	it	[13, 14, 15, 16, 17, 18, 19]	['is', 'too', 'low', 'to', 'play', 'as', 'much', 'as']	-1
+219	8	<我>_S	i	5	i	1
+219	12	<我>_S	i	[9, 10, 11, 12, 13, 14]	['a', 'woman', 'in', 'my', 'life', '.']	-1
+220	4	<你>_S	you	[0, 1, 2, 3, 4, 5, 6]	['no', 'way', ',', 'throw', 'it', 'away', '.', 'the']	-1
+220	9	<它的>_Pa	its	[1, 2, 3, 4, 5, 6, 7]	['way', ',', 'throw', 'it', 'away', '.', 'the', 'hardware']	-1
+220	23	<它的>_Pa	its	[20, 21, 22]	['.', 'the', 'original', 'is', 'poor', ',', 'i', 'suggest', 'to', 'buy', 'other']	-1
+220	29	<你>_O	you	[27, 28]	['suggest', 'to', 'buy', 'other']	-1
+221	3	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['"', 'there', "'s", 'a', 'problem', 'with', 'that', '.']	-1
+222	2	<你>_S	you	[2, 3]	['a', 'tablet', 'is', 'best', 'to', 'buy', 'a', 'new', 'one', '.', 'android', 'tablet', 'hardware', 'is', 'not', 'expected', 'to', 'be', 'updated', 'much', 'now', ',', 'these', 'updates', 'will', 'not', 'make', 'the', 'software', 'also', 'updated', ',', 'so', 'currently', 'buy', 'a', 'tablet', 'best', 'eight', 'core', ',', 'can', 'be', 'used', 'for', 'a', 'long', 'time', '.']	-1
+222	32	<它>_S	it	[41, 42]	[',', 'can', 'be', 'used', 'for', 'a', 'long', 'time', '.']	-1
+223	8	<它>_O	it	17	it	1
+223	14	<它的>_Pa	its	[14, 15, 16, 17, 18, 19, 20]	['?', 'i', 'think', 'it', 'is', 'talking', 'about', 'indifferent']	-1
+224	0	<你>_S	you	2	you	1
+225	0	<你>_S	you	[]	['click', 'on', 'it', 'and', 'it', 'will', 'automatically', 'install']	-1
+226	0	<它>_S	it	[0, 1, 2, 3, 4]	['there', 'was', 'no', 'answer', '.']	-1
+227	0	<它>_S	it	[]	['download', 'incomplete', 're-go', 'to', 'the', 'official', 'website', 'to', 'download', ',']	-1
+228	0	<你>_S	you	[]	['double-click', 'the', 'icon', 'to', 'open', 'it']	-1
+229	3	<它>_S	it	[]	['after', 'double-clicking', 'to', 'continue']	-1
+230	0	<你>_S	you	[0, 1, 2, 3, 4]	['first', 'look', 'at', 'the', 'start', 'menu']	-1
+231	0	<你>_S	you	[]	['reinstalling', 'office', '2007', ',', 'that', "'s", 'it', '.']	-1
+231	5	<它>_S	it	6	it	1
+232	8	<我>_S	i	[7, 8, 9, 10, 11, 12, 13]	['step', ',', 'and', 'then', 'the', 'decompression', 'or', 'what']	-1
+233	8	<你>_S	you	7	you	1
+234	0	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['the', 'requested', 'page', 'was', 'not', 'found', '.']	-1
+235	5	<我>_S	i	[2, 3, 4, 5, 6, 7, 8]	['wn8', 'system', '.', 'now', 'want', 'to', 'change', 'win7']	-1
+236	9	<它>_S	it	[8, 9, 10, 11, 12, 13, 14]	['the', 'same', ',', 'to', 'format', ',', 'repartition', ',']	-1
+237	0	<你的>_Pa	your	[0, 1, 2, 3]	['is', 'the', 'system', 'installed', '?']	-1
+238	0	<它>_S	it	[0, 1]	['no', 'system']	-1
+239	0	<它>_S	it	[0, 1, 2, 3]	['this', 'site', 'is', 'temporarily', 'unavailable']	-1
+240	5	<它>_S	it	[6, 7, 8, 9, 10, 11]	['how', 'can', 'you', 'get', 'in', '?']	-1
+241	20	<我>_S	i	[18, 19, 20]	[',', 'can', 'there', 'be', 'anything', 'wrong']	-1
+242	0	<你>_S	you	[0, 1, 2, 3]	['rest', 'assured', 'that', 'the', 'school']	-1
+243	0	<它>_S	it	0	it	1
+244	8	<我>_S	i	[]	[',', 'where', 'to', 'buy', 'the', 'most', 'cost-effective', 'best', 'it', 'can', 'be', 'guaranteed', 'to', 'be', 'genuine', '!', '!']	-1
+244	20	<它>_O	it	19	it	1
+245	4	<它>_S	it	[1, 2, 3, 4, 5, 6]	['contract', 'machine', ',', 'the', 'most', 'cost-effective']	-1
+246	1	<它>_S	it	[0, 1, 2, 3, 4]	['pity', 'to', 'have', 'a', 'lock']	-1
+247	1	<你>_S	you	[0, 1, 2, 3, 4]	['then', 'go', 'to', 'the', 'physical', 'store']	-1
+247	16	<它>_O	it	[21, 22, 23, 24, 25, 26, 27]	['not', 'be', 'guaranteed', 'to', 'be', 'real', 'goods', ',']	-1
+248	8	<我>_S	i	[]	[',', 'where', 'to', 'buy', 'the', 'most', 'cost-effective', 'best', 'it', 'can', 'be', 'guaranteed', 'to', 'be', 'genuine', '!', '!']	-1
+248	20	<它>_O	it	19	it	1
+249	1	<它>_S	it	[]	['now']	-1
+250	5	<它>_S	it	[3]	[',', 'restart', 'can', 'not', 'be']	-1
+251	0	<它>_S	it	[0, 1, 2, 3]	['there', 'is', 'windows', 'in', 'the']	-1
+252	0	<你>_S	you	3	you	1
+253	0	<你>_S	you	[0, 1, 2, 3, 4]	['specific', 'want', 'to', 'play', 'what', 'game']	-1
+253	6	<你>_S	you	[6, 7, 8]	[',', 'according', 'to', 'the', 'game', "'s", 'official', 'website', 'recommended', 'configuration', 'to', 'find']	-1
+254	0	<它>_S	it	[0, 1, 2, 3, 4]	['can', 'be', 'installed', ',', 'but', 'there']	-1
+254	8	<它>_S	it	[5, 6, 7, 8, 9, 10, 11]	['there', 'may', 'be', 'a', 'card', 'situation', 'when', 'running']	-1
+255	0	<它>_S	it	11	it	1
+255	9	<它>_S	it	11	it	1
+256	0	<它>_S	it	[0, 1, 2, 3]	['yes', ',', 'you', 'can', 'install']	-1
+256	3	<它>_S	it	[0, 1, 2, 3, 4, 5]	['yes', ',', 'you', 'can', 'install', '64-bit', 'win7']	-1
+257	0	<你>_S	you	[]	['online', 'download', 'a', 'put', 'in', 'the', 'last', 'disk', ',', 'and', 'then', 'download', 'a', 'software', 'key', 'to', 'restore', 'the', 'wizard', 'also', 'installed', 'in', 'the', 'last', 'disk', ',']	-1
+257	11	<你>_S	you	[10]	['and', 'then', 'download', 'a', 'software', 'key', 'to', 'restore', 'the', 'wizard', 'also', 'installed', 'in', 'the', 'last', 'disk', ',']	-1
+258	0	<你>_S	you	[]	['first', 'put', 'the', 'downloaded', 'files', 'in', 'a', 'folder', ',', 'pay', 'attention', 'to', 'remember', 'the', 'name', 'of', 'the', 'folder', ',', 'and', 'then', 'unzip', 'it', 'in', 'this', 'folder', ',', 'and', 'then', 'open', 'a', 'key', 'to', 'restore', 'the', 'wizard', ',', 'restore', 'the', 'system', 'can', 'be']	-1
+259	18	<我>_S	i	[21, 22, 23, 24, 25, 26, 27]	['a', 'yellow', 'line', 'can', 'take', 'a', 'cable', 'tv']	-1
+260	0	<它们>_S	they	[0, 1]	['it', "'s", 'not', 'the', 'same', 'kind', 'of', 'cable', '!', 'it', "'s", 'the', 'old', 'cable', '!', 'can', 'you', 'be', 'used', 'as', 'the', 'yellow', 'line', 'of', 'the', 'av', 'tricolor', '?']	-1
+260	6	<它>_S	it	9	it	1
+260	12	<它>_S	it	[14, 15]	['!', 'can', 'you', 'be', 'used', 'as', 'the', 'yellow', 'line', 'of', 'the', 'av', 'tricolor', '?']	-1
+261	0	<它>_S	it	[0]	['yes']	-1
+262	18	<我>_S	i	[21, 22, 23, 24, 25, 26, 27]	['a', 'yellow', 'line', 'can', 'take', 'a', 'cable', 'tv']	-1
+263	12	<我>_S	i	9	i	1
+263	34	<它>_S	it	[35]	[',', 'ok']	-1
+264	6	<它>_S	it	[8, 9, 10, 11, 12, 13, 14]	['is', 'not', 'connected', 'to', 'the', 'broadband', ',', 'show']	-1
+264	12	<它>_S	it	[14]	[',', 'show', '651', ',', 'even', 'the', 'router', ',', 'gross', 'pull', 'down', 'the', 'connection', 'line', 'is', 'still', 'not', 'good', ',', 'but', 'even', 'the', 'route']	-1
+265	0	<你>_S	you	0	you	1
+266	5	<它的>_Pa	its	[4, 5]	['the', 'name', 'of', 'the', 'english', 'name', ',', 'the', 'old', 'elder', "'s", ',', 'you', 'baidu', 'try', 'to', 'recover', 'deleted', 'files', 'software', ',', 'there', 'should', 'be', 'a', 'lot', 'of']	-1
+266	8	<它>_S	it	[8, 9]	[',', 'the', 'old', 'elder', "'s", ',', 'you', 'baidu', 'try', 'to', 'recover', 'deleted', 'files', 'software', ',', 'there', 'should', 'be', 'a', 'lot', 'of']	-1
+266	24	<它>_S	it	[23, 24, 25, 26, 27, 28]	['there', 'should', 'be', 'a', 'lot', 'of']	-1
+267	0	<你>_S	you	[0]	['ask', 'for', 'your', 'real', 'name', 'and', 'username', '.']	-1
+267	4	<它>_S	it	[]	['your', 'real', 'name', 'and', 'username', '.']	-1
+268	1	<它>_S	it	[0, 1, 2, 3]	['so', 'why', 'do', 'i', 'get']	-1
+269	14	<它>_S	it	[13, 14, 15, 16, 17, 18, 19]	['is', 'loose', ',', 'to', 'use', 'things', 'to', 'be']	-1
+269	22	<它>_S	it	[22, 23, 24, 25, 26, 27, 28]	['to', 'connect', 'to', 'the', 'internet', ',', 'how', 'to']	-1
+270	15	<你>_O	you	[7, 8, 9, 10]	['standard', 'crystal', 'head', 'network', 'cable', 'test']	-1
+271	0	<我>_S	i	0	i	1
+271	3	<它>_O	it	5	it	1
+271	9	<我>_S	i	[]	['.', '.', '.', 'just', 'bought', 'one', 'in', 'the', 'school', 'store', 'at', 'random', '.', 'can', 'you', 'ask', 'the', 'general', 'where', 'to', 'sell', 'the', 'line', 'of', 'crystal', 'head', 'comparison', 'standard', '?']	-1
+272	8	<它>_S	it	[4, 5, 6, 7, 8, 9, 10]	[',', 'why', 'download', 'the', 'theme', 'after', 'the', 'pet']	-1
+273	0	<它>_S	it	[0, 1, 2, 3, 4, 5]	['there', "'s", 'something', 'wrong', 'with', 'the', 'escape']	-1
+274	6	<它>_S	it	21	it	1
+274	15	<它>_S	it	21	it	1
+275	0	<它>_S	it	[0, 1, 2, 3, 4, 5]	['what', 'do', 'you', 'mean', 'by', 'untying', 'without', 'paying', 'the', 'bill']	-1
+276	2	<我>_S	i	2	i	1
+277	5	<你>_S	you	[5, 6]	['tomorrow', 'at', 'the', 'phone']	-1
+278	6	<它>_S	it	21	it	1
+278	15	<它>_S	it	21	it	1
+279	2	<我>_S	i	[2, 3, 4, 5, 6, 7, 8]	['it', "'s", 'been', 'restarted', 'more', 'than', 'once']	-1
+279	4	<它>_O	it	[5, 6, 7, 8]	['restarted', 'more', 'than', 'once']	-1
+280	6	<它>_S	it	21	it	1
+280	15	<它>_S	it	21	it	1
+281	2	<它>_S	it	4	it	1
+282	9	<我>_S	i	[]	['used', 'to', 'look', 'at', 'other', 'people', "'s", 'computers']	-1
+283	6	<它>_S	it	[5, 6, 7, 8, 9]	['everything', '.', 'not', 'bad', '.']	-1
+284	12	<她>_S	she	[9, 10, 11, 12]	['then', 'called', 'the', 'traffic', 'police', ',', 'to', 'mediate', ',', 'the', 'other', 'party', 'has', 'taken', 'a', 'large', 'number', 'of', 'agreements', 'waiting', 'outside', 'the', 'door', ',', 'i', 'did', 'not', 'think', 'much']	-1
+284	17	<她>_S	she	[]	[',', 'to', 'mediate', ',', 'the', 'other', 'party', 'has', 'taken', 'a', 'large', 'number', 'of', 'agreements', 'waiting', 'outside', 'the', 'door', ',', 'i', 'did', 'not', 'think', 'much']	-1
+285	3	<我>_S	i	16	i	1
+286	10	<它>_S	it	[5, 6, 7, 8, 9, 10, 11]	['?', 'i', 'used', 'to', 'be', 'in', 'yi', 'xun']	-1
+287	0	<它>_S	it	3	it	1
+288	0	<你>_S	you	[]	['even', 'the', 'computer', "'s", '360-cell', 'phone', 'butler', 'can', 'be', 'changed', ',', 'today', 'i', 'will', 'do', '.']	-1
+289	7	<它>_S	it	[0, 1, 2, 3, 4, 5, 6]	['make', 'the', 'memory', 'stick', '8g', 'better', 'if', 'you']	-1
+290	0	<它>_S	it	[0, 1, 2, 3]	['play', 'the', 'game', 'on', 'the']	-1
+291	0	<我>_S	i	[0, 1, 2, 3, 4]	['can', "'t", 'find', 'the', 'download']	-1
+292	5	<你>_S	you	6	you	1
+292	11	<你>_S	you	[12, 13]	[',', 'download', 'to', 'the', 'download', 'center', 'on', 'it', '.', 'or', 'ask', 'customer', 'service', 'to', 'link', '.']	-1
+292	22	<你>_S	you	[19, 20, 21, 22, 23, 24, 25]	['it', '.', 'or', 'ask', 'customer', 'service', 'to', 'link']	-1
+293	8	<我>_S	i	[6, 7, 8, 9, 10, 11, 12]	['graduation', 'project', ',', 'want', 'to', 'refer', 'to', 'the']	-1
+294	0	<你>_S	you	2	you	1
+295	3	<我>_S	i	[2]	[',', 'no', 'idea', ',', 'want', 'that', 'project', 'reference', '.']	-1
+295	7	<我>_S	i	[3, 4, 5, 6, 7, 8, 9]	['no', 'idea', ',', 'want', 'that', 'project', 'reference', '.']	-1
+296	6	<我>_S	i	[7]	[',', 'exit', 'at', 'the', 'point', 'to', 'open', ',', 'the', 'order', 'on', 'the', 'disorder', '?']	-1
+296	11	<它>_S	it	[10, 11, 12, 13, 14, 15, 16]	['the', 'point', 'to', 'open', ',', 'the', 'order', 'on']	-1
+297	0	<它>_S	it	[0, 1, 2, 3, 4, 5, 6]	['what', 'the', 'hell', 'was', 'going', 'on', '?']	-1
+298	0	<你的>_Pa	your	[0, 1, 2, 3, 4, 5]	['there', "'s", 'a', 'virus', 'in', 'the', 'computer', '.', 'don', "'t", 'keep', 'looking', 'at', 'it', '.', 'you', 'guys', 'are', 'the', 'same']	-1
+298	5	<你>_S	you	[5, 6, 7, 8, 9, 10, 11]	['the', 'computer', '.', 'don', "'t", 'keep', 'looking', 'at']	-1
+299	0	<你>_S	you	[0]	['neuropathy']	-1
+300	0	<它>_S	it	[0, 1, 2]	['yes', 'mobile', 'phone']	-1
+301	2	<你>_S	you	[0, 1, 2, 3, 4, 5, 6]	['if', 'the', 'phone', 'is', 'deleted', 'from', 'the', 'bottom']	-1
+302	0	<我>_S	i	0	i	1
+303	18	<它>_S	it	[17, 18, 19, 20, 21, 22]	['.', 'what', 'is', 'the', 'difference', 'between', 'calling', 'in', 'a', 'bank', 'card', '.', 'why', 'is', 'my', 'mobile', 'phone']	-1
+304	0	<它>_S	it	[0]	['bound']	-1
+305	11	<它>_O	it	[6, 7, 8, 9, 10, 11, 12]	['of', 'purchase', 'history', 'to', 'see', 'what', 'the', 'status']	-1
+306	14	<它的>_Pa	its	[16, 17]	['but', 'the', 'balance', 'is', 'still', '0']	-1
+307	18	<它>_S	it	[17, 18, 19, 20, 21, 22]	['.', 'what', 'is', 'the', 'difference', 'between', 'calling', 'in', 'a', 'bank', 'card', '.', 'why', 'is', 'my', 'mobile', 'phone']	-1
+308	18	<它>_S	it	21	it	1
+308	28	<它>_S	it	37	it	1
+309	3	<它>_S	it	10	it	1
+310	0	<我>_S	i	[0]	['no', 'mention', 'of', 'it', '.']	-1
+311	0	<它>_S	it	[0]	['you', 'should', 'have', 'refunded', '8', 'yuan', ',', 'and', 'then', 'you', 'charged', '10', 'yuan', 'for', 'the', 'call', '.', 'in', 'fact', ',', 'you', 'only', 'paid', '2', 'yuan', ',', 'so', 'the', '8', 'yuan', 'refund', 'was', 'used', 'to', 'charge', 'you', 'for', 'the', 'call']	-1
+312	1	<我>_S	i	2	i	1
+313	18	<它>_S	it	[17, 18, 19, 20, 21, 22]	['.', 'what', 'is', 'the', 'difference', 'between', 'calling', 'in', 'a', 'bank', 'card', '.', 'why', 'is', 'my', 'mobile', 'phone']	-1
+314	33	<它>_S	it	37	it	1
+315	0	<我>_S	i	0	i	1
+316	0	<你>_S	you	1	you	1
+317	1	<它>_S	it	[0, 1, 2, 3, 4, 5]	['but', 'there', 'was', 'no', 'hint', '.', 'i']	-1
+318	0	<你>_S	you	8	you	1
+318	8	<它>_S	it	[7, 8, 9]	[',', 'you', 'will', 'be', 'prompted', ',', 'you', 'can', 'pay', 'through', 'the', 'quick', 'way', '.']	-1
+318	14	<你>_S	you	8	you	1
+318	21	<我>_S	i	[]	['.']	-1
+319	18	<它>_S	it	[17, 18, 19, 20, 21, 22]	['.', 'what', 'is', 'the', 'difference', 'between', 'calling', 'in', 'a', 'bank', 'card', '.', 'why', 'is', 'my', 'mobile', 'phone']	-1
+320	0	<它>_S	it	0	it	1
+321	0	<我>_S	i	[0]	['work', 'in', 'the', 'field', '.', 'today', 'is', 'my', 'birthday', ',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+321	10	<我的>_Pa	my	[9, 10]	[',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+321	15	<我>_S	i	[14, 15, 16]	['.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+321	21	<我>_S	i	[22]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+321	26	<我>_S	i	[22, 23, 24, 25, 26, 27, 28]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.']	-1
+322	0	<我>_S	i	[0]	['work', 'in', 'the', 'field', '.', 'today', 'is', 'my', 'birthday', ',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+322	10	<我的>_Pa	my	[9, 10]	[',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+322	15	<我>_S	i	[14, 15, 16]	['.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+322	21	<我>_S	i	[22]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+322	26	<我>_S	i	[22, 23, 24, 25, 26, 27, 28]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.']	-1
+323	0	<我>_S	i	[0]	['work', 'in', 'the', 'field', '.', 'today', 'is', 'my', 'birthday', ',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+323	10	<我的>_Pa	my	[9, 10]	[',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+323	15	<我>_S	i	[14, 15, 16]	['.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+323	21	<我>_S	i	[22]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+323	26	<我>_S	i	[22, 23, 24, 25, 26, 27, 28]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.']	-1
+324	0	<我>_S	i	[0]	['work', 'in', 'the', 'field', '.', 'today', 'is', 'my', 'birthday', ',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+324	10	<我的>_Pa	my	[9, 10]	[',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+324	15	<我>_S	i	[14, 15, 16]	['.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+324	21	<我>_S	i	[22]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+324	26	<我>_S	i	[22, 23, 24, 25, 26, 27, 28]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.']	-1
+325	0	<我>_S	i	[0]	['work', 'in', 'the', 'field', '.', 'today', 'is', 'my', 'birthday', ',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+325	10	<我的>_Pa	my	[9, 10]	[',', 'the', 'phone', 'is', 'off', '.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+325	15	<我>_S	i	[14, 15, 16]	['.', 'do', 'not', 'want', 'to', 'talk', 'to', 'friends', ',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+325	21	<我>_S	i	[22]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.', 'bought', 'a', 'cake', 'of', 'their', 'own', '!']	-1
+325	26	<我>_S	i	[22, 23, 24, 25, 26, 27, 28]	[',', 'do', 'not', 'want', 'to', 'be', 'ignored', '.']	-1
+326	11	<它>_S	it	[9, 10, 11, 12, 13, 14, 15]	['?', 'better', 'have', 'a', 'detailed', 'address', ',', 'is']	-1
+326	18	<他>_S	he	[15]	[',', 'is', 'a', 'cheater', 'to', 'come', ',', 'cheated', 'me', '200', 'yuan', '!', '!']	-1
+326	25	<他>_S	he	[19, 20, 21, 22, 23, 24, 25]	['to', 'come', ',', 'cheated', 'me', '200', 'yuan', '!']	-1
+327	1	<他>_S	he	[0, 1, 2, 3, 4, 5]	['looks', 'like', 'it', "'s", 'still', 'working']	-1
+328	11	<它>_S	it	[9, 10, 11, 12, 13, 14, 15]	['?', 'better', 'have', 'a', 'detailed', 'address', ',', 'is']	-1
+328	18	<他>_S	he	[15]	[',', 'is', 'a', 'cheater', 'to', 'come', ',', 'cheated', 'me', '200', 'yuan', '!', '!']	-1
+328	25	<他>_S	he	[19, 20, 21, 22, 23, 24, 25]	['to', 'come', ',', 'cheated', 'me', '200', 'yuan', '!']	-1
+329	5	<它>_S	it	8	it	1
+330	0	<你>_S	you	[0, 1, 2, 3]	['check', 'your', 'firewall', 'settings']	-1
+331	0	<我>_S	i	[0, 1, 2, 3, 4, 5, 6]	['where', 'to', 'set', 'it', 'up', '?', 'in', 'the']	-1
+332	7	<它>_O	it	[6, 7, 8, 9, 10, 11, 12]	['see', 'if', 'you', 'have', 'firewall', 'software', 'installed', '.']	-1
+333	4	<它>_S	it	8	it	1
+334	0	<它>_S	it	[0, 1, 2]	['no', ',', '3g']	-1
+335	0	<你>_S	you	[]	['restart', 'and', 'see', ',', 'or', 'change', 'a', 'browser', ',', 'uc', 'can', 'not', 'try', 'oppeng']	-1
+336	12	<它>_S	it	[13]	[',', 'is', 'unlocked', 'by', 'accumulating', 'flash', ',', 'the', 'android', 'version']	-1
+337	16	<你>_S	you	[]	['brush', 'master', ',', 'then', 'turn', 'on', 'the', 'phone', 'usb', 'debugging', ',', 'the', 'phone', 'is', 'connected', 'to', 'the', 'computer', ',', 'then', 'the', 'brush', 'master', 'will', 'automatically', 'download', 'the', 'driver', ',', 'download', 'it', ',', 'go', 'to', 'find', 'the', 'want', 'to', 'brush', 'the', 'rom', 'package', '(', 'that', 'is', ',', 'brush', 'the', 'bag', ')', 'to', 'download', 'to', 'the', 'computer', ',', 'and', 'then', 'to', 'brush', 'a', 'brush', 'machine', 'on', 'the', 'master', 'open', 'the', 'rom', 'package', ',', 'and', 'then', 'click', 'on', 'the', 'brush', 'machine', ',', 'ok', ',', 'master', 'will', 'brake', 'the', 'machine']	-1
+337	23	<你>_S	you	[15]	['then', 'turn', 'on', 'the', 'phone', 'usb', 'debugging', ',', 'the', 'phone', 'is', 'connected', 'to', 'the', 'computer', ',', 'then', 'the', 'brush', 'master', 'will', 'automatically', 'download', 'the', 'driver', ',', 'download', 'it', ',', 'go', 'to', 'find', 'the', 'want', 'to', 'brush', 'the', 'rom', 'package', '(', 'that', 'is', ',', 'brush', 'the', 'bag', ')', 'to', 'download', 'to', 'the', 'computer', ',', 'and', 'then', 'to', 'brush', 'a', 'brush', 'machine', 'on', 'the', 'master', 'open', 'the', 'rom', 'package', ',', 'and', 'then', 'click', 'on', 'the', 'brush', 'machine', ',', 'ok', ',', 'master', 'will', 'brake', 'the', 'machine']	-1
+337	42	<它>_S	it	42	it	1
+337	48	<你>_S	you	[41, 42, 43]	['download', 'it', ',', 'go', 'to', 'find', 'the', 'want', 'to', 'brush', 'the', 'rom', 'package', '(', 'that', 'is', ',', 'brush', 'the', 'bag', ')', 'to', 'download', 'to', 'the', 'computer', ',', 'and', 'then', 'to', 'brush', 'a', 'brush', 'machine', 'on', 'the', 'master', 'open', 'the', 'rom', 'package', ',', 'and', 'then', 'click', 'on', 'the', 'brush', 'machine', ',', 'ok', ',', 'master', 'will', 'brake', 'the', 'machine']	-1
+337	68	<你>_S	you	[69]	['then', 'to', 'brush', 'a', 'brush', 'machine', 'on', 'the', 'master', 'open', 'the', 'rom', 'package', ',', 'and', 'then', 'click', 'on', 'the', 'brush', 'machine', ',', 'ok', ',', 'master', 'will', 'brake', 'the', 'machine']	-1
+337	84	<你>_S	you	[84]	['then', 'click', 'on', 'the', 'brush', 'machine', ',', 'ok', ',', 'master', 'will', 'brake', 'the', 'machine']	-1
+337	88	<它>_S	it	[88, 89, 90]	['brush', 'machine', ',', 'ok', ',', 'master', 'will', 'brake', 'the', 'machine']	-1
+338	1	<它>_O	it	1	it	1
+338	4	<它>_S	it	3	it	1
+339	0	<你>_S	you	[0, 1, 2, 3]	['just', 'reinstall', 'the', 'system']	-1
+340	0	<你>_S	you	[0, 1, 2, 3]	['go', 'and', 'get', 'someone', 'else']	-1
+341	2	<它>_O	it	3	it	1
+342	0	<它们>_S	they	[0, 1]	['there', 'is', 'no', 'difference', ',', 'is', 'one', 'is', 'not', 'packaged', 'a', 'package', ',', 'loose', 'pieces', 'are', 'easy', 'to', 'fake']	-1
+342	4	<它们>_S	they	[4]	[',', 'is', 'one', 'is', 'not', 'packaged', 'a', 'package', ',', 'loose', 'pieces', 'are', 'easy', 'to', 'fake']	-1
+343	6	<它>_S	it	[10, 11, 12]	['bags', '?', 'that', "'s", 'not', 'enough', '.']	-1
+344	4	<我>_S	i	[2, 3, 4, 5, 6, 7, 8]	['this', 'configuration', ',', 'to', 'be', 'able', 'to', 'play']	-1
+344	11	<我>_S	i	[11, 12, 13, 14, 15]	['large', 'stand-alone', ',', 'watch', 'hd']	-1
+345	2	<它>_S	it	[0, 1, 2, 3, 4, 5, 6]	['general', 'enough', 'should', 'be', 'much', 'worse', 'than', 'the']	-1
+346	0	<你>_S	you	0	you	1
+347	4	<我>_S	i	[2, 3, 4, 5, 6, 7, 8]	['this', 'configuration', ',', 'to', 'be', 'able', 'to', 'play']	-1
+347	11	<我>_S	i	[11, 12, 13, 14, 15]	['large', 'stand-alone', ',', 'watch', 'hd']	-1
+348	16	<它>_S	it	[13, 14, 15, 16, 17, 18, 19]	['allowed', ',', 'but', 'to', 'watch', 'hd', 'movies', 'absolutely']	-1
+349	0	<我>_S	i	[0]	['no', 'special', 'effects', ',', 'just', 'a', 'taste']	-1
+349	4	<我>_S	i	[1, 2, 3, 4, 5, 6]	['special', 'effects', ',', 'just', 'a', 'taste']	-1
+350	10	<它的>_Pa	its	[7, 8, 9, 10, 11, 12, 13]	[',', 'there', 'is', 'a', 'new', 'internet', 'cafe', 'nearby']	-1
+350	17	<它>_S	it	[15, 16, 17, 18, 19, 20]	[',', 'the', 'equipment', 'is', 'new', ',', 'play', 'the', 'best', '14', ',', 'special', 'effects', 'to', 'the', 'highest', ',', 'no', 'card', ',', 'that', 'computer', 'configuration', 'parameters']	-1
+350	22	<它>_S	it	[25]	[',', 'special', 'effects', 'to', 'the', 'highest', ',', 'no', 'card', ',', 'that', 'computer', 'configuration', 'parameters']	-1
+350	28	<它>_S	it	[31, 32]	[',', 'no', 'card', ',', 'that', 'computer', 'configuration', 'parameters']	-1
+351	10	<它的>_Pa	its	[7, 8, 9, 10, 11, 12, 13]	[',', 'there', 'is', 'a', 'new', 'internet', 'cafe', 'nearby']	-1
+351	17	<它>_S	it	[15, 16, 17, 18, 19, 20]	[',', 'the', 'equipment', 'is', 'new', ',', 'play', 'the', 'best', '14', ',', 'special', 'effects', 'to', 'the', 'highest', ',', 'no', 'card', ',', 'that', 'computer', 'configuration', 'parameters']	-1
+351	22	<它>_S	it	[25]	[',', 'special', 'effects', 'to', 'the', 'highest', ',', 'no', 'card', ',', 'that', 'computer', 'configuration', 'parameters']	-1
+351	28	<它>_S	it	[31, 32]	[',', 'no', 'card', ',', 'that', 'computer', 'configuration', 'parameters']	-1
+352	0	<它>_S	it	[0, 1, 2, 3]	['is', 'the', 'amount', 'of', 'system']	-1
+353	5	<它>_S	it	[0, 1, 2, 3, 4, 5, 6]	['what', 'is', 'the', 'storage', 'capacity', 'of', 'the', 'system', ',', 'which', 'disk', 'or', 'what']	-1
+354	0	<我>_S	i	[0]	['know']	-1
+355	0	<你>_S	you	[0, 1, 2, 3, 4]	['i', 'don', "'t", 'know', '.', 'i']	-1
+356	0	<它>_S	it	[0, 1, 2, 3]	['no', 'client', 'can', 'only', 'use']	-1
+357	10	<它>_O	it	9	it	1
+357	12	<它>_S	it	15	it	1
+357	20	<它>_O	it	20	it	1
+358	0	<它>_S	it	[0, 1, 2, 3]	['you', 'can', 'only', 'access', 'the']	-1
+359	7	<我>_S	i	[6]	['?', 'no', 'torrents', 'to', 'download', 'directly', ',', 'no', 'thunderbolts', 'to', 'download', ',', 'fuckin', "'", 'slow']	-1
+359	14	<我>_S	i	[12]	[',', 'no', 'thunderbolts', 'to', 'download', ',', 'fuckin', "'", 'slow']	-1
+360	3	<它的>_Pa	its	[2, 3, 4]	[',', 'the', 'speed', 'is', 'clearly', 'hundreds', 'of', 'k', 'per', 'second', ',', 'thunderbolt', 'download', 'actually', 'a', 'few', 'k', 'a', 'few', 'k', 'download', ',', 'the', 'recumbent', 'roar']	-1
+361	0	<它>_S	it	[0, 1, 2, 3]	['what', 'should', 'i', 'do', '?']	-1
+362	0	<它>_S	it	11	it	1
+362	4	<你>_S	you	[2, 3, 4, 5, 6, 7, 8]	['screen', '!', 'turn', 'off', 'the', 'display', 'power', 'and']	-1
+362	14	<它>_S	it	[19, 20, 21, 22, 23, 24]	['black', 'again', 'in', 'a', 'minute', '.']	-1
+363	9	<他>_S	he	[4, 5, 6, 7, 8, 9, 10, 11, 12, 13]	[',', 'my', 'friend', "'s", 'computer', 'did', 'the', 'same', ',', 'and', 'finally', 'a', 'new', 'screen', ',', 'ok']	-1
+364	8	<你>_S	you	8	you	1
+365	24	<它>_S	it	32	it	1
+366	4	<它>_S	it	3	it	1
+367	0	<你>_S	you	[0, 1, 2, 3]	['go', 'to', 'the', 'computer', 'repair']	-1
+368	2	<它>_S	it	4	it	1
+369	24	<它>_S	it	32	it	1
+370	0	<它们>_S	they	[0, 1, 2, 3]	['it', "'s", 'all', 'right', '.']	-1
+371	0	<它>_S	it	11	it	1
+371	4	<你>_S	you	[2, 3, 4, 5, 6, 7, 8]	['screen', '!', 'turn', 'off', 'the', 'display', 'power', 'and']	-1
+371	14	<它>_S	it	[19, 20, 21, 22, 23, 24]	['black', 'again', 'in', 'a', 'minute', '.']	-1
+372	24	<它>_S	it	32	it	1
+373	0	<它>_S	it	11	it	1
+373	4	<你>_S	you	[2, 3, 4, 5, 6, 7, 8]	['screen', '!', 'turn', 'off', 'the', 'display', 'power', 'and']	-1
+373	14	<它>_S	it	[19, 20, 21, 22, 23, 24]	['black', 'again', 'in', 'a', 'minute', '.']	-1
+374	24	<它>_S	it	32	it	1
+375	0	<它>_S	it	0	it	1
+376	0	<它>_S	it	11	it	1
+376	15	<它>_S	it	16	it	1
+377	6	<我>_S	i	11	i	1
+378	10	<你>_S	you	8	you	1
+378	18	<你>_S	you	[16]	[',', 'with', 'the', 'computer', '360', 'key', 'root', ',', 'my', 'phone', 'is', 'doing', 'so', ',', 'successful', ',', 'uninstalled', 'a', 'lot', 'of', 'preinstalled', 'programs', ',', 'try', 'it']	-1
+378	32	<它>_S	it	40	it	1
+378	36	<它>_S	it	40	it	1
+379	9	<我>_S	i	[7, 8]	[',', 'did', 'not', 'help', 'you', '~']	-1
+380	0	<你>_S	you	[0, 1, 2, 3]	['go', 'to', 'the', 'home', 'page']	-1
+381	1	<它>_S	it	[1, 2, 3, 4, 5]	['they', 'have', 'all', 'been', 'upgraded']	-1
+382	1	<你>_S	you	[0, 1, 2, 3]	['then', 'don', "'t", 'root']	-1
+383	1	<它>_S	it	[0, 1, 2, 3, 4, 5, 6]	['this', 'is', 'not', 'a', 'good', 'idea', '.']	-1
+384	2	<它>_S	it	[0, 1, 2, 3, 4]	['9', '.', 'there', 'are', 'lots', 'of']	-1
+384	7	<它>_S	it	[]	['of', 'startup', 'programs']	-1
+385	10	<它>_O	it	[13]	['root', 'card']	-1
+386	0	<你的>_Pa	your	[0, 1, 2, 3]	['cell', 'phone', 'or', 'computer']	-1
+387	0	<你>_S	you	[0, 1, 2, 3]	['open', 'with', 're', 'manager']	-1
+388	5	<它们>_S	they	[2, 3, 4, 5, 6]	['ok', ',', 'but', 'the', 'heat', 'is', 'not', 'so', 'good']	-1
+389	0	<我>_S	i	[0, 1, 2, 3]	['only', 'see', 'network', 'limitations']	-1
+390	0	<我>_S	i	0	i	1
+391	0	<你>_S	you	2	you	1
+392	3	<他们>_S	they	[1, 2, 3, 4, 5, 6, 7]	['sites', ',', 'just', 'to', 'make', 'money', '.']	-1
+393	4	<它>_S	it	[0, 1, 2, 3, 4]	['according', 'to', 'your', 'description', ',', 'should']	-1
+393	10	<你>_S	you	31	you	1
+393	20	<它>_S	it	[21]	[',', 'very', 'easy', '.', 'if', 'there', 'are', 'any', 'questions', ',', 'you', 'can', 'always', 'ask', 'me', ',', 'or', 'add', 'me', 'buckle', '.']	-1
+393	27	<它>_S	it	[25, 26]	['if', 'there', 'are', 'any', 'questions', ',', 'you', 'can', 'always', 'ask', 'me', ',', 'or', 'add', 'me', 'buckle', '.']	-1
+393	31	<你>_S	you	31	you	1
+393	38	<你>_S	you	[35, 36, 37, 38, 39, 40, 41]	['me', ',', 'or', 'add', 'me', 'buckle', '.']	-1
+394	11	<我们>_S	we	[11, 12, 13, 14, 15, 16, 17]	['time', ',', 'went', 'to', 'two', 'pet', 'hospitals', 'one']	-1
+394	29	<你>_S	you	[30, 31]	[',', 'to', 'see', 'if', 'there', 'are', 'small', 'red', 'spots', 'on', 'the', 'skin', ',', 'may', 'be', 'mites', ',', 'with', '886887', 'or', 'amitraz']	-1
+394	36	<它>_S	it	[]	['small', 'red', 'spots', 'on', 'the', 'skin', ',', 'may', 'be', 'mites', ',', 'with', '886887', 'or', 'amitraz']	-1
+394	42	<你>_S	you	[43, 44, 45, 46, 47, 48, 49]	['may', 'be', 'mites', ',', 'with', '886887', 'or', 'amitraz']	-1
+395	0	<它>_S	it	[0, 1, 2, 3]	['no', 'little', 'red', 'dot']	-1
+396	0	<我>_S	i	[]	['is', 'do', 'not', 'want', 'to', 'switch', 'the', 'machine', 'to', 'plug', 'and', 'unplug', 'the', 'portable', 'hard', 'disk', ',', 'often', 'boot', 'found', 'that', 'the', 'portable', 'hard', 'disk', 'also', 'plug', 'and', 'start', ',', 'and', 'have', 'to', 'be', 'forced', 'to', 'restart', '.']	-1
+396	9	<我>_S	i	[16]	[',', 'often', 'boot', 'found', 'that', 'the', 'portable', 'hard', 'disk', 'also', 'plug', 'and', 'start', ',', 'and', 'have', 'to', 'be', 'forced', 'to', 'restart', '.']	-1
+397	0	<你>_S	you	[]	['boot', 'into', 'the', 'bios', 'to', 'change', 'the', 'hard', 'disk', 'mode', 'to', 'ide', 'or', 'compatible', 'mode', 'do', 'not', 'use', 'the', 'achi', 'pe', 'to', 'recognize', 'or']	-1
+397	14	<你>_S	you	[12, 13, 14, 15, 16, 17, 18]	['or', 'compatible', 'mode', 'do', 'not', 'use', 'the', 'achi']	-1
+398	7	<它>_S	it	25	it	1
+398	18	<它>_S	it	25	it	1
+399	7	<你>_S	you	[1, 2, 3, 4, 5, 6, 7]	['that', "'s", 'how', 'your', 'kingston', 'usb', 'flash', 'drive']	-1
+399	34	<你>_S	you	[30]	['pe', 'to', 'see', 'the', 'hard', 'drive', '.']	-1
+400	29	<它的>_Pa	its	[36, 37, 38]	[',', 'but', 'the', 'performance', 'is', 'not', 'better', 'than', 'a', 'high-end', 'unique', 'display', '.']	-1
+401	0	<你>_S	you	[0, 1, 2, 3, 4]	['i', 'don', "'t", 'know', 'what', 'to']	-1
+401	3	<你>_S	you	[1, 2, 3, 4, 5, 6, 7]	['don', "'t", 'know', 'what', 'to', 'do', '.']	-1
+402	0	<你>_S	you	[0, 1, 2, 3, 4]	['i', 'don', "'t", 'believe', 'it', '.']	-1
+403	29	<我>_S	i	[41]	[',', 'is', 'to', 'see', 'the', 'graphics', 'chip', 'and', 'stream', 'processor', '.']	-1
+404	0	<你>_S	you	1	you	1
+405	3	<你>_S	you	19	you	1
+405	8	<你>_S	you	19	you	1
+405	18	<你>_S	you	19	you	1
+406	0	<你的>_Pa	your	[4, 5, 6, 7, 8, 9, 10]	['good', 'enough', 'i', 'am', 'the', 'same', 'as', 'long']	-1
+407	0	<你>_S	you	22	you	1
+407	22	<你>_S	you	22	you	1
+408	2	<你>_S	you	8	you	1
+409	0	<它的>_Pa	its	[0, 1, 2, 3, 4]	['do', 'you', 'have', 'a', 'title']	-1
+410	0	<我>_S	i	11	i	1
+410	5	<你>_S	you	[2]	['anyway', 'into', 'that', 'site', 'to', 'see', 'it', 'yourself', ',', 'i', 'also', 'saw', 'a', 'long', 'time', 'ago', ',', 'the', 'memory', 'is', 'not', 'good']	-1
+410	21	<我>_S	i	[18, 19, 20]	[',', 'the', 'memory', 'is', 'not', 'good']	-1
+411	12	<它的>_Pa	its	[10, 11, 12, 13, 14, 15, 16]	['basically', 'rapping', ',', 'a', 'lyric', 'for', 'me', 'half']	-1
+412	0	<我>_S	i	[0, 1, 2]	['graduate', 'student', 'in', 'computer', ',', 'but', 'not', 'good', 'at', 'programming']	-1
+412	6	<我的>_Pa	my	[6, 7, 8, 9]	['not', 'good', 'at', 'programming']	-1
+413	6	<我>_S	i	7	i	1
+414	0	<我>_S	i	[0, 1, 2, 3, 4, 5]	['you', 'can', 'search', 'msdn', 'itell', 'you', ',', 'but', 'the', 'original', 'version', 'means', 'the', 'premium', 'version']	-1
+415	14	<它>_S	it	16	it	1
+416	0	<你>_S	you	0	you	1
+416	11	<它>_S	it	12	it	1
+417	0	<我>_S	i	[0, 1]	['how', 'does', 'it', 'feel', 'to', 'use', 'it', 'when', 'it', "'s", 'finished', '?']	-1
+418	0	<它>_S	it	2	it	1
+419	9	<我>_S	i	[143]	['.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.']	-1
+420	0	<它>_S	it	[0, 1, 2, 3]	['very', 'bull', "'s", 'fork']	-1
+421	0	<我>_S	i	[0, 1, 2, 3]	['feeling', 'enough', 'to', 'drag', ',']	-1
+421	2	<它>_O	it	[0, 1, 2, 3, 4, 5]	['feeling', 'enough', 'to', 'drag', ',', 'application', 'memory']	-1
+422	0	<它>_S	it	[0, 1, 2, 3]	['the', 'configuration', 'is', 'ok', ',']	-1
+422	4	<我>_S	i	5	i	1
+423	0	<它>_S	it	[0]	['can', 'you', 'play', 'big', 'games', '?', 'do', 'you', 'play', 'cf', 'games', 'with', 'moves', '?']	-1
+424	0	<我>_S	i	[0, 1, 2, 3]	['just', 'bought', 'a', 'wireless', 'network']	-1
+424	9	<我>_S	i	8	i	1
+425	0	<你>_S	you	[0, 1, 2, 3]	['just', 'download', 'the', 'driver', 'online', '!']	-1
+425	5	<它>_S	it	[0, 1, 2, 3]	['just', 'download', 'the', 'driver', 'online']	-1
+426	0	<它>_S	it	1	it	1
+427	0	<你>_S	you	[0, 1, 2, 3, 4, 5]	['how', 'nice', 'it', 'is', 'to', 'go', 'to', 'beijing']	-1
+428	4	<我>_S	i	[8, 9, 10, 11, 12, 13]	[',', 'and', 'it', "'s", 'the', 'second', 'day', 'of', 'junior', 'high', 'school']	-1
+429	0	<你>_S	you	[0, 1, 2, 3]	['the', 'second', 'year', 'of', 'junior']	-1
+430	0	<我>_S	i	[0]	['second', 'year', ',', 'it', "'s", 'too', 'late', 'to', 'study', 'until', 'high', 'school', '.']	-1
+431	1	<你>_S	you	[0, 1, 2, 3, 4]	['then', 'go', 'to', 'beijing', 'to', 'study']	-1
+432	0	<我>_S	i	1	i	1
+433	0	<我>_S	i	[0, 1, 2, 3]	['didn', "'t", 'find', 'the', 'option']	-1
+433	8	<它>_S	it	14	it	1
+434	0	<它的>_Pa	its	[0]	['the', 'screen', 'is', 'broken', 'or', 'the', 'screen', 'inside', 'is', 'loose', ',', 'the', 'identification', 'is', 'complete', '.']	-1
+435	0	<你>_S	you	[0, 1, 2, 3]	['search', 'for', ':', 'search', 'engine']	-1
+436	11	<它的>_Pa	its	[11, 12]	['but', 'the', 'appearance', 'is', 'relatively', 'new', ',', 'the', 'machine', 'is', 'aluminum', 'alloy', 'shell', ',', 'can', 'you', 'sell', '3500', '?']	-1
+436	22	<它>_S	it	[24]	[',', 'can', 'you', 'sell', '3500', '?']	-1
+437	0	<它>_S	it	4	it	1
+438	0	<我>_S	i	[0, 1, 2, 3]	['this', 'is', 'not', 'the', 'case']	-1
+439	0	<你>_S	you	[0, 1, 2, 3, 4]	['set', 'up', 'the', 'main', 'account', ',']	-1
+439	5	<你>_S	you	[5, 6]	[',', 'set', 'the', 'account', 'number', 'to', 'non-numeric', 'on', 'the', 'line']	-1
+440	0	<我>_S	i	[0, 1, 2, 3]	['this', 'is', 'not', 'the', 'case']	-1
+441	8	<我>_S	i	[4, 5, 6, 7, 8, 9, 10]	['fiber-optic', 'cat', ',', 'looking', 'for', 'the', 'administrator', 'password']	-1
+442	8	<我>_S	i	[6, 7, 8, 9, 10, 11, 12]	[',', 'had', 'been', 'thought', 'that', 'the', 'router', 'has']	-1
+442	17	<我>_S	i	[18, 19, 20]	['and', 'then', 'bought', 'a', 'new', ',', 'and', 'then', 'the', 'network', 'is', 'unstable', ',', 'but']	-1
+443	6	<他们>_S	they	[3, 4, 5, 6, 7, 8, 9]	['find', 'an', 'operator', 'to', 'help', 'you', 'solve', 'the']	-1
+444	0	<我>_S	i	11	i	1
+445	7	<我>_S	i	[6]	[',', 'had', 'been', 'thought', 'that', 'the', 'router', 'has', 'a', 'problem', ',', 'and', 'then', 'bought', 'a', 'new', ',', 'and', 'then', 'the', 'network', 'is', 'unstable', ',', 'but']	-1
+445	17	<我>_S	i	[18, 19, 20]	['and', 'then', 'bought', 'a', 'new', ',', 'and', 'then', 'the', 'network', 'is', 'unstable', ',', 'but']	-1
+446	9	<你>_S	you	[4, 5, 6, 7, 8]	['problem', 'with', 'that', 'line', '.', 'call', 'the', 'operator', '.']	-1
+447	4	<你>_S	you	[1, 2, 3, 4, 5, 6, 7]	['fibre', '?', 'inbound', 'routing', 'interface', 'setup', 'wizard', ',']	-1
+448	0	<他们>_S	they	[0, 1, 2, 3, 4]	['i', 'didn', "'t", 'have', 'anything', 'to']	-1
+449	9	<我>_S	i	[6, 7, 8, 9, 10, 11, 12]	[',', 'had', 'been', 'thought', 'that', 'the', 'router', 'has']	-1
+449	17	<我>_S	i	[18, 19, 20]	['and', 'then', 'bought', 'a', 'new', ',', 'and', 'then', 'the', 'network', 'is', 'unstable', ',', 'but']	-1
+450	0	<我>_S	i	[0, 1, 2, 3]	['kneeling', 'for', 'a', 'master', 'in']	-1
+451	6	<我>_S	i	6	i	1
+452	9	<我>_S	i	[10]	['.', '.', '.', 'if', 'you', 'change', 'the', 'motherboard', ',', 'is', 'it', 'better', 'to', 'change', 'a', 'new', 'computer', '?']	-1
+453	0	<我>_S	i	2	i	1
+454	1	<你>_S	you	20	you	1
+454	29	<你>_S	you	30	you	1
+454	35	<你>_S	you	38	you	1
+454	59	<你>_S	you	[67]	[',', 'in', 'the', 'disk', 'processing', '.']	-1
+455	11	<我>_S	i	[9, 10, 11, 12, 13, 14, 15]	['!', 'the', 'main', 'want', 'to', 'explore', 'the', 'bottom']	-1
+456	1	<我>_S	i	0	i	1
+457	1	<我>_S	i	[0, 1, 2, 3]	['my', 'forehead', 'is', 'dizzy', '.']	-1
+458	7	<它们>_S	they	[3, 4, 5, 6, 7, 8, 9]	['selling', 'swarovski', ',', 'only', 'more', 'than', '700', ',']	-1
+458	12	<它们>_S	they	[7, 8, 9, 10, 11, 12, 13]	['more', 'than', '700', ',', 'is', 'it', 'true', '?']	-1
+459	7	<它们>_S	they	[3, 4, 5, 6, 7, 8, 9]	['selling', 'swarovski', ',', 'only', 'more', 'than', '700', ',']	-1
+459	12	<它们>_S	they	[7, 8, 9, 10, 11, 12, 13]	['more', 'than', '700', ',', 'is', 'it', 'true', '?']	-1
+460	5	<你>_S	you	8	you	1
+460	15	<你>_S	you	[16, 17, 18, 19, 20]	[',', 'go', 'to', 'the', 'mall', 'to', 'buy', ',', 'tall', 'ah']	-1
+461	0	<它们>_S	they	[2, 3, 4, 5, 6, 7, 8]	['cheaper', 'if', 'you', 'cut', 'the', 'price', '..']	-1
+462	0	<你>_S	you	[0, 1, 2, 3]	['redo', 'the', 'system', 'or', 'file']	-1
+463	17	<我>_S	i	[14, 15, 16, 17, 18]	['.', 'why', 'disable', 'print', 'spooler', 'is', 'no', 'problem', '.']	-1
+464	2	<你>_S	you	[0, 1, 2, 3, 4, 5]	['permission', 'issues', 'with', 'superuser', 'access', 'to', 'disk']	-1
+465	5	<我>_S	i	[5, 6]	['hungry', 'after', 'modifying', 'the', 'permissions', 'or', 'the', 'same']	-1
+466	10	<你>_S	you	[11]	['?', 'select', 'one', ',', 'click', 'the', 'button', 'to', 'fill', 'in', 'the', 'box', '?']	-1
+466	14	<你>_S	you	[14]	[',', 'click', 'the', 'button', 'to', 'fill', 'in', 'the', 'box', '?']	-1
+467	0	<我>_S	i	0	i	1
+467	3	<它>_S	it	[0, 1, 2, 3, 4]	['i', 'was', 'looking', 'for', 'this', 'blog']	-1
+468	2	<你>_S	you	[1]	['disconnect', 'first', 'router', 'into', 'the', 'network', 'cable', 'pull', 'out', 'plug', 'directly', 'into', 'the', 'computer', 'test', 'dialing', 'can', 'not', 'be', 'connected', 'to', 'the', 'internet', 'router', 'problem', 'to', 'the', 'router', 'power', 'off', 'and', 'then', 'connect', 'the', 'power', 'to', 'restart', 'the', 'network', 'no', 'problem', 'router', 'often', 'disconnect', 'router', 'quality', 'problems', 'as', 'good', 'as', 'stable', 'i', 'router', 'years', 'before', 'the', 'network', 'i', 'use', 'fast', 'wireless', 'router', 'home', 'expensive', '90', 'blocks', 'ha', 'ha', 'ha', 'according', 'to', 'my', 'method', 'i', 'hope', 'to', 'help']	-1
+468	59	<你>_S	you	[69]	['ha', 'ha', 'ha', 'according', 'to', 'my', 'method', 'i', 'hope', 'to', 'help']	-1
+469	0	<你>_S	you	[0, 1, 2, 3]	['inbound', 'routing', 'interface', '-', 'network']	-1
+470	0	<它>_S	it	[0, 1, 2]	['always', 'automatically', 'connected']	-1
+471	0	<你>_S	you	[0, 1, 2, 3]	['what', 'is', 'the', 'router', 'interface']	-1
+472	16	<我>_S	i	[10, 11, 12, 13, 14]	['people', 'who', 'know', 'me', '.']	-1
+473	0	<它>_S	it	[0, 1, 2, 3, 4, 5]	['didn', "'t", 'turn', 'off', 'automatically', '?', 'what']	-1
+473	7	<我>_S	i	[3, 4, 5, 6, 7, 8, 9]	['off', 'automatically', '?', 'what', 'would', 'you', 'do', '?']	-1
+474	20	<你>_S	you	32	you	1
+475	2	<我>_S	i	9	i	1
+476	0	<你>_S	you	[]	['call', 'customer', 'service', 'phone', 'to', 'ask', 'about', 'it', ',', 'to', 'avoid', 'missing', 'the', 'repayment', 'date', '!']	-1
+477	18	<它>_S	it	24	it	1
+478	7	<你>_S	you	[11, 12, 13, 14, 15, 16, 17]	['?', 'plug', 'the', 'cat', "'s", 'wire', 'back', 'into', 'the', 'router', '.']	-1
+479	7	<它>_S	it	12	it	1
+480	0	<你>_S	you	2	you	1
+480	18	<你>_S	you	[22]	[',', 'restart', 'the', 'router', '.', 'that', 'is', ',', 'unplug', 'the', 'router', 'and', 'try', 'again', '.', '(', 'this', 'is', 'more', 'common', ')']	-1
+481	7	<它>_S	it	[7, 8]	['but', 'not', 'working', 'properly', '.']	-1
+482	1	<你>_S	you	[]	['so', 'restart', 'the', 'router', 'to', 'try', 'ah', ',', 'in', 'addition', ',', 'your', 'router', 'has', 'an', 'external', 'connection', 'ah', '?', 'that', 'is', ',', 'set', 'up', 'no', 'internet', 'account', '?']	-1
+483	7	<你>_S	you	15	you	1
+483	14	<你>_S	you	15	you	1
+484	3	<你>_S	you	2	you	1
+484	11	<你>_S	you	14	you	1
+484	18	<你>_S	you	[20, 21, 22]	['.', 'don', "'t", 'worry', 'too', 'much', '.', 'just', 'do', 'it', 'once', '.']	-1
+485	7	<它>_S	it	12	it	1
+486	0	<你>_S	you	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	['put', 'the', 'cat', 'out', 'of', 'the', 'wire', 'into', 'the', 'computer', 'to', 'dial', 'first', 'try']	-1
+487	7	<它>_S	it	12	it	1
+488	0	<你>_S	you	[0]	['try', 'changing', 'your', 'password', 'or', 'plugging', 'in', 'the', 'router', 'again', '.']	-1
+488	7	<你>_S	you	[4, 5]	['or', 'plugging', 'in', 'the', 'router', 'again', '.']	-1
+489	8	<我>_S	i	[5, 6, 7, 8, 9, 10, 11]	['is', 'bad', '?', 'get', 'friends', 'home', 'can', 'not']	-1
+490	8	<你>_S	you	[6, 7, 8]	['router', 'and', 'see', 'if', 'the', 'plug', 'is', 'right', '.']	-1
+491	7	<它>_S	it	12	it	1
+492	0	<你>_S	you	[0, 1, 2, 3, 4]	['turn', 'it', 'off', 'and', 'have', 'a']	-1
+493	0	<我>_S	i	0	i	1
+493	4	<我>_S	i	5	i	1
+494	1	<你>_S	you	[0, 1]	['wait', 'a', 'minute', ',', 'there', 'are', 'too', 'many', 'people', ',', 'good', 'and', 'bad', 'out']	-1
+495	5	<它>_S	it	[7, 8, 9]	[',', 'there', 'is', 'no', 'record', 'of', 'the', 'transaction', 'order', '?']	-1
+496	0	<我>_S	i	[0, 1, 2, 3]	['click', 'on', 'one', 'of', 'the']	-1
+497	8	<我>_S	i	8	i	1
+498	12	<它们>_S	they	[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]	['drive', 'with', 'sata', '37200', 'rpm', '.', 'how', 'do', 'i', 'connect', 'it', '?']	-1
+499	0	<你的>_Pa	your	[0]	['this', 'means', 'that', 'by', 'default', ',', 'the', 'motherboard', 'comes', 'with', 'two', 'black', '6g', '/', 's', 'data', 'lines', ',', 'an', 'l', 'type', 'of', 'a', 'straight', 'plug', ',', 'the', 'hard', 'disk', 'also', 'sent', 'a', 'red', ',', 'with', 'which', 'one', '?']	-1
+499	36	<我>_S	i	[32, 33, 34, 35, 36, 37]	['red', ',', 'with', 'which', 'one', '?']	-1
+500	1	<我>_S	i	1	i	1
+501	6	<它>_S	it	[9, 10]	[',', 'can', 'not', 'solve', 'the', 'physical', 'bad', 'sectors', ',', 'in', 'fact', ',', 'the', 'logical', 'bad', 'sectors', ',', 'as', 'long', 'as', 'you', 'delete', 'all', 'partitions', ',']	-1
+502	0	<你>_S	you	[0, 1, 2, 3, 4]	['set', 'up', 'a', 'wireless', 'network2', 'setting']	-1
+503	7	<我>_S	i	[8, 9, 10]	[',', 'how', 'can', 'you', 'set', 'up', 'the', 'cellular']	-1
+504	5	<它>_S	it	[6]	[',', 'must', 'use', 'wifi', '.', 'or', 'use', 'the', 'computer', 'to', 'update', '.']	-1
+504	10	<你>_S	you	[10]	['.', 'or', 'use', 'the', 'computer', 'to', 'update', '.']	-1
+505	0	<你>_S	you	5	you	1
+505	8	<它>_S	it	[5, 6, 7, 8, 9, 10, 11]	['you', 'can', 'connect', 'a', 'lot', 'of', 'hosts', '.']	-1
+506	14	<她们>_S	they	[11, 12, 13, 14]	['been', 'fighting', 'over', 'things', 'for', 'more', 'than', 'two', 'weeks', 'now', 'and', 'i', 'buy', 'them', 'clothes', 'and', 'toys']	-1
+507	13	<她们>_S	they	[10]	[',', 'nodding', 'my', 'head', 'and', 'saying', 'yes', ',', 'it', "'s", 'totally', 'out', 'of', 'the', 'question']	-1
+507	18	<她们>_S	they	[]	[',', 'it', "'s", 'totally', 'out', 'of', 'the', 'question']	-1
+508	14	<她们>_S	they	[11, 12, 13, 14]	['been', 'fighting', 'over', 'things', 'for', 'more', 'than', 'two', 'weeks', 'now', 'and', 'i', 'buy', 'them', 'clothes', 'and', 'toys']	-1
+509	7	<我>_S	i	[5, 6, 7, 8, 9, 10, 11]	[',', 'but', 'let', 'me', 'tell', 'you', 'one', 'thing']	-1
+509	14	<你>_S	you	10	you	1
+509	25	<你>_S	you	[23, 24, 25]	['them', 'directly', '.', 'let', 'each', 'of', 'them', 'do', 'something', 'that', 'isn', "'t", 'easy', 'for', 'them', 'to', 'do', ',', 'but', 'it', 'can', "'t", 'be', 'too', 'hard', '.']	-1
+510	14	<她们>_S	they	[11, 12, 13, 14]	['been', 'fighting', 'over', 'things', 'for', 'more', 'than', 'two', 'weeks', 'now', 'and', 'i', 'buy', 'them', 'clothes', 'and', 'toys']	-1
+511	3	<她们>_S	they	2	they	1
+512	0	<你>_S	you	[0, 1, 2, 3]	['take', 'them', 'to', 'the', 'morning']	-1
+512	15	<你>_S	you	[13, 14, 15, 16, 17, 18, 19]	['period', ',', 'to', 'teach', 'well', ',', 'my', 'daughter']	-1
+512	27	<她的>_Pa	her	[25]	[',', 'temper', 'is', 'also', 'bad', '.']	-1
+513	0	<你>_S	you	[1, 2, 3, 4]	['the', 'doctor', 'at', 'once']	-1
+514	3	<你>_S	you	[2, 3]	["'ll", 'go', '.', 'it', "'s", 'eczema', '.']	-1

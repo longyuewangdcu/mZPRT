@@ -1,0 +1,450 @@
+Sent	SRC_ZP_Pos.	SRC_ZP	Ref_ZP	TGT_ZPT_Pos.	TGT_ZPT	Case
+0	3	<它>_S	it	3	it	1
+0	10	<你>_O	you	13	you	1
+1	0	<你们>_S	you	[0, 1]	['shall', 'we', 'go', 'to', 'the', 'movies', '?']	-1
+2	3	<我的>_Pa	my	4	my	1
+3	0	<你>_S	you	0	you	1
+4	6	<你>_O	you	8	you	1
+5	4	<我>_S	i	3	i	1
+6	0	<我们>_S	we	0	we	1
+7	3	<我的>_P	mine	[3, 4, 5, 6, 7, 8, 9]	['.', 'oh', ',', 'my', 'god', '!', 'get', 'in']	-1
+7	7	<你>_S	you	[8]	['!', 'get', 'in', 'the', 'car', '.']	-1
+8	6	<它>_S	it	4	it	1
+9	4	<我>_S	i	10	i	1
+9	6	<我的>_Pa	my	[4]	['the', 'lawyer', "'s", 'building', 'was', 'all', 'i', 'could', 'hear', '.']	-1
+10	3	<你的>_Pa	your	[2, 3, 4]	['worry', 'about', 'the', 'tombstone', '.', 'you', 'can', 'carve', 'whatever', 'you', 'want', '.']	-1
+11	0	<它>_S	it	0	it	1
+12	0	<你>_S	you	0	you	1
+13	7	<它>_O	it	[]	['know', '?']	-1
+14	7	<它>_O	it	[6, 7, 8]	['do', 'yet', '.', 'please', 'don', "'t", 'tell', 'rachel', '.']	-1
+15	8	<它>_O	it	[2, 3, 4, 5]	['was', 'the', 'movie']	-1
+16	1	<你>_S	you	[]	['then', '.', 'the', 'angelique', 'theater', '.', 'drive', '.']	-1
+17	4	<我>_S	i	6	i	1
+18	5	<你>_O	you	[4, 5, 6]	["'t", 'let', 'me', '?']	-1
+19	2	<它>_S	it	[0, 1, 2, 3, 4, 5]	['yeah', ',', 'speaking', 'of', 'sweets', ',', 'he']	-1
+20	0	<你>_S	you	1	you	1
+21	4	<我的>_Pa	my	[2, 3, 4, 5, 6, 7, 8]	['i', 'lost', 'the', 'nerve', 'to', 'say', ',', '"']	-1
+22	0	<我>_S	i	0	i	1
+23	4	<它>_O	it	[3, 4]	['dragging', 'this', 'out', '.']	-1
+24	1	<我们>_S	we	[0, 1, 2]	['next', 'time', 'you', 'see', 'them', ',', 'tell', 'them', '.']	-1
+24	5	<我们>_S	we	[5]	[',', 'tell', 'them', '.']	-1
+25	3	<它>_O	it	[3, 4]	['deal']	-1
+26	1	<它>_S	it	4	it	1
+27	0	<你>_S	you	[0]	['feeling', 'better', '?']	-1
+28	0	<我的>_P	mine	[0, 1, 2, 3, 4, 5]	['oh', ',', 'my', 'god', '.', 'you', "'re"]	-1
+29	0	<我>_S	i	0	i	1
+30	5	<我>_S	i	4	i	1
+31	9	<你>_O	you	[10, 11]	['promise']	-1
+32	6	<我>_S	i	[6, 7, 8, 9, 10]	['broke', 'up', ',', 'we', 'moved', 'back', 'in', '.']	-1
+33	8	<它>_O	it	9	it	1
+33	10	<我的>_Pa	my	11	my	1
+34	3	<他>_S	he	[2, 3]	['forget', '...', 'always', '...', 'always', '...']	-1
+34	6	<他>_S	he	[4, 5]	['always', '...', 'always', '...']	-1
+36	6	<你>_S	you	[5, 6]	['baby', ',', 'what', "'s", 'your', 'name', '?']	-1
+36	9	<它>_O	it	[5, 6]	['baby', ',', 'what', "'s", 'your', 'name', '?']	-1
+37	0	<我的>_P	mine	[0, 1, 2, 3, 4, 5]	['oh', ',', 'my', 'god', ',', 'my', 'sister']	-1
+38	1	<你们>_S	you	1	you	1
+38	4	<你们>_S	you	6	you	1
+38	12	<我的>_P	mine	[12, 13, 14, 15, 16, 17]	['so', 'she', 'doesn', "'t", 'look', 'too', 'bad', '?']	-1
+39	0	<你>_S	you	[]	['can', 'we', 'not', 'talk', 'about', 'it', 'anymore', '?']	-1
+40	0	<它>_S	it	0	it	1
+41	4	<你>_S	you	7	you	1
+41	10	<你>_S	you	14	you	1
+42	0	<我>_S	i	2	i	1
+43	2	<你>_S	you	7	you	1
+44	1	<你>_S	you	0	you	1
+45	0	<你们>_S	you	[0, 1, 2]	['hold', 'on', '.', 'i', "'m", 'gonna', 'go', 'get', 'ross', '.']	-1
+46	0	<我>_S	i	0	i	1
+47	4	<它>_O	it	[2, 3, 4, 5]	['knows', 'we', "'re", 'moving', 'in', 'together', ',', 'so', 'we', 'can', "'t", 'back', 'out', '.']	-1
+48	4	<你>_S	you	1	you	1
+49	0	<我>_S	i	[0]	['no', '.']	-1
+50	8	<你的>_Pa	your	[7, 8, 9, 10, 11]	['attention', ',', 'and', 'then', 'the', 'boss', 'calls', 'you', 'raquel', '.']	-1
+51	3	<我的>_Pa	my	[3, 4]	['years', 'of', 'work', ',', 'people', 'called', 'me', 'shayla', '.']	-1
+52	2	<你>_O	you	[1, 2]	['do']	-1
+53	0	<它>_S	it	[0]	['there', 'was', 'a', 'staff', 'meeting', ',', 'and', 'of', 'course', 'no', 'one', 'was', 'going', 'to', 'correct', 'her', '.']	-1
+54	9	<我>_O	me	[11, 12]	['name', 'is', 'rocky', '.']	-1
+55	0	<我的>_P	mine	[0, 1, 2, 3, 4, 5]	['oh', ',', 'my', 'god', ',', 'this', 'is']	-1
+56	0	<我>_S	i	0	i	1
+57	0	<我们>_S	we	[]	['yeah', '.']	-1
+58	8	<你>_S	you	13	you	1
+59	1	<你>_S	you	[6, 7]	['once', 'we', 'know', 'what', "'s", 'going', 'on', '.']	-1
+59	4	<它>_S	it	0	it	1
+60	0	<我的>_Pa	my	3	my	1
+60	4	<我的>_Pa	my	3	my	1
+60	7	<她的>_Pa	her	9	her	1
+60	9	<它>_S	it	0	it	1
+61	0	<我的>_Pa	my	5	my	1
+61	6	<我>_S	i	[]	['swearing', 'in', 'the', 'wrong', 'person', '.']	-1
+61	9	<它>_S	it	3	it	1
+62	0	<我的>_Pa	my	[0]	['the', 'third', 'marriage', '.']	-1
+63	0	<他们>_S	they	[0, 1, 2, 3, 4, 5, 6]	['it', "'s", 'nevada', "'s", 'fault', 'you', 'can', "'t", 'get', 'married', 'and', 'drink', 'and', 'paint', 'on', 'your', 'face', '.']	-1
+63	5	<你>_S	you	5	you	1
+63	13	<它>_S	it	0	it	1
+64	1	<我>_S	i	5	i	1
+64	9	<他>_S	he	[10]	['but', 'not', 'without', 'a', 'divorce', '.']	-1
+66	0	<它>_S	it	[0, 1]	['-', 'he', "'s", 'obviously', 'still', 'in', 'love', 'with', 'this', 'rachel', '.', '-', 'what', '?']	-1
+67	0	<我>_S	i	0	i	1
+68	2	<你>_S	you	3	you	1
+69	0	<我>_S	i	0	i	1
+70	5	<我的>_Pa	my	[3, 4, 5]	['go', 'see', 'a', 'lawyer', 'about', 'an', 'annulment', 'right', 'now', '.']	-1
+71	1	<我>_S	i	0	i	1
+72	3	<我>_S	i	2	i	1
+73	3	<它>_O	it	[3, 4]	['bear', 'to', 'be', 'my', 'best', 'friend', '.']	-1
+74	0	<它们>_S	they	[0, 1]	['it', "'s", 'not', 'for', 'you', '.', 'aren', "'t", 'you', 'happy', '?']	-1
+74	5	<你>_S	you	4	you	1
+75	0	<我>_S	i	0	i	1
+76	0	<我>_S	i	0	i	1
+77	0	<我的>_Pa	my	2	my	1
+78	14	<我>_S	i	18	i	1
+79	3	<你的>_Pa	your	3	your	1
+80	1	<你>_S	you	1	you	1
+81	0	<你>_S	you	2	you	1
+82	3	<它们>_O	them	[1, 2, 3]	['made', 'it']	-1
+83	0	<我的>_Pa	my	2	my	1
+83	4	<它们>_S	they	[4, 5, 6, 7]	[',', 'that', "'s", 'good', '.']	-1
+84	0	<我们>_S	we	4	we	1
+85	1	<我>_S	i	[1]	['wonder', 'it', "'s", 'so', 'thick', '.']	-1
+85	3	<它>_O	it	2	it	1
+86	0	<它>_S	it	0	it	1
+87	1	<你>_S	you	[0]	['"', 'want', 'to', 'go', 'to', 'joey', 'and', 'chandler', "'s", '?', '"', '"', 'no', ',', 'it', "'s", 'gone', '.', '"']	-1
+87	11	<我>_S	i	[10, 11, 12]	['"', '"', 'no', ',', 'it', "'s", 'gone', '.', '"']	-1
+87	14	<它>_S	it	14	it	1
+88	5	<我们>_S	we	[3, 4, 5, 6, 7, 8, 9]	['across', 'the', 'street', ',', 'and', 'i', 'can', 'still', 'do', 'what', 'i', 'always', 'do', '.']	-1
+89	2	<我们>_S	we	[0, 1, 2, 3, 4, 5, 6]	['but', 'from', 'now', 'on', ',', 'you', 'can', "'t", 'get', 'up', 'in', 'the', 'middle', 'of', 'the', 'night', 'and', 'have', 'a', 'long', 'talk', 'about', 'feelings', 'and', 'the', 'future', '.']	-1
+89	8	<我们的>_Pa	our	[20, 21]	['talk', 'about', 'feelings', 'and', 'the', 'future', '.']	-1
+90	0	<我>_S	i	0	i	1
+91	3	<它>_O	it	3	it	1
+91	15	<它>_O	it	[7, 8, 9, 10, 11, 12]	['the', 'two', 'of', 'us', ',', 'right', '?']	-1
+92	0	<她>_S	she	[]	['no', 'tears', ',', 'no', 'anger', ',', 'no', 'grief', '.']	-1
+92	4	<她>_S	she	[2, 3, 4, 5]	[',', 'no', 'anger', ',', 'no', 'grief', '.']	-1
+93	4	<你>_S	you	4	you	1
+93	7	<你>_Pa	your	8	your	1
+94	13	<我们>_S	we	14	we	1
+95	8	<他的>_Pa	his	5	his	1
+96	7	<我>_S	i	11	i	1
+97	0	<你>_S	you	3	you	1
+98	0	<我>_S	i	0	i	1
+99	5	<我>_S	i	8	i	1
+99	8	<它>_O	it	10	it	1
+100	0	<它>_S	it	0	it	1
+101	0	<我们>_S	we	0	we	1
+102	0	<它>_S	it	[0]	['no', 'problem', '.']	-1
+103	0	<我们>_S	we	[0, 1, 2]	['you', 'and', 'rachel', 'need', 'to', 'talk', 'to', 'the', 'judge', '.']	-1
+104	2	<我们>_S	we	2	we	1
+104	6	<我们的>_Pa	our	[5]	['dividing', 'things', 'up', '.']	-1
+105	0	<它>_S	it	[0, 1, 2, 3, 4, 5]	['there', "'s", 'no', 'point', 'dragging', 'this', 'out', '.']	-1
+106	7	<它>_O	it	[10]	['want', 'too', 'many', 'memories', '.']	-1
+106	8	<它>_S	it	[10]	['want', 'too', 'many', 'memories', '.']	-1
+107	0	<你>_S	you	[0, 1]	['it', "'s", 'not', 'like', 'i', "'m", 'dying', '.', 'i', "'m", 'just', 'moving', 'out', '.']	-1
+108	0	<我们>_S	we	2	we	1
+109	1	<它>_S	it	[0, 1, 2, 3]	['but', 'a', 'big', 'change', 'is', ',', 'you', 'know', ',', 'the', 'end', 'of', 'an', 'era', '.']	-1
+109	6	<你>_S	you	6	you	1
+110	4	<你>_Pa	your	[0, 1, 2, 3, 4]	['are', 'you', 'all', 'right', '?']	-1
+111	3	<我>_S	i	4	i	1
+112	1	<我>_S	i	5	i	1
+113	0	<它>_S	it	0	it	1
+113	6	<它>_S	it	8	it	1
+114	7	<我们>_S	we	7	we	1
+115	0	<你>_S	you	0	you	1
+116	0	<它>_S	it	5	it	1
+117	0	<我的>_Pa	my	[0]	['it', 'means', 'you', 'guys', '.', 'that', "'s", 'what', 'you', 'are', ',', 'you', 'know', '?']	-1
+117	11	<你>_S	you	11	you	1
+118	7	<你们>_S	you	12	you	1
+119	10	<我>_S	i	[13, 14, 15, 16]	['moving', 'in', 'together']	-1
+120	0	<它>_S	it	0	it	1
+121	1	<我>_S	i	[0]	['but', '...']	-1
+122	2	<我们>_S	we	12	we	1
+123	0	<它>_S	it	3	it	1
+123	5	<它>_S	it	3	it	1
+124	0	<你的>_S	you	[0, 1]	['does', 'that', 'mean', 'we', 'can', "'t", 'live', 'together', 'anymore', '?']	-1
+125	0	<我的>_Pa	my	[0]	['god', ',', 'i', "'m", 'gonna', 'miss', 'you', '.', 'i', "'m", 'gonna', 'miss', 'you', ',', 'too', '.']	-1
+126	0	<我的>_Pa	my	[0]	['it', 'means', 'the', 'end', 'of', 'an', 'era', '.', 'i', 'know', '.']	-1
+127	0	<你>_S	you	1	you	1
+128	0	<我>_S	i	0	i	1
+129	3	<它>_O	it	2	it	1
+130	0	<它>_S	it	0	it	1
+131	0	<它>_S	it	[0]	['complicated', 'because', 'of', 'love', '.']	-1
+132	6	<我们>_S	we	8	we	1
+133	0	<我的>_Pa	my	2	my	1
+133	5	<它>_S	it	8	it	1
+134	1	<你>_O	you	1	you	1
+135	0	<我们>_S	we	[0, 1, 2, 3]	['yes', ',', 'but', 'not', 'now']	-1
+136	1	<它>_S	it	1	it	1
+137	1	<它>_S	it	[0, 1]	['tony', "'s", 'hit', '.']	-1
+138	6	<我>_S	i	[6, 7, 8]	['birthday', '.', 'should', 'have', 'bought', 'that', 'number', '.']	-1
+139	0	<你>_S	you	[0]	['what', 'a', 'dick', '.']	-1
+140	0	<你>_S	you	1	you	1
+140	2	<它>_O	it	[2, 3, 4, 5]	['want', 'me', 'to', 'replace', 'him', 'or', 'do', 'you', 'want', 'me', 'to', 'continue', '?']	-1
+140	5	<它>_O	it	[6, 7, 8, 9, 10, 11, 12]	['him', 'or', 'do', 'you', 'want', 'me', 'to', 'continue', '?']	-1
+141	0	<我们>_S	we	[0, 1, 2]	['keep', 'playing', '.']	-1
+141	3	<它>_O	it	[1, 2]	['playing']	-1
+142	0	<你>_S	you	[]	['really', '?']	-1
+143	0	<你>_S	you	2	you	1
+144	3	<你>_S	you	[3, 4, 5]	['vito', '.', 'almost', 'threw', 'me', '.']	-1
+145	0	<我>_S	i	0	i	1
+146	0	<我>_S	i	[0, 1]	['thank', 'you', 'so', 'much', 'for', 'letting', 'me', 'see', 'you', '.']	-1
+146	3	<你>_O	you	1	you	1
+147	0	<它>_S	it	0	it	1
+148	4	<他们的>_Pa	their	[1, 2, 3, 4, 5, 6, 7]	['say', 'he', 'hung', 'petruzzo', "'s", 'cat', 'on', 'the']	-1
+149	1	<它>_S	it	6	it	1
+150	4	<它>_S	it	[4]	['know', 'is', 'what', 'happens', 'to', 'vito', 'after', 'he', 'dies', ',', 'and', 'all', 'that', 'discrimination', '.']	-1
+151	2	<它>_O	it	2	it	1
+152	2	<它>_O	it	2	it	1
+153	0	<我们>_S	we	[0]	['i', 'can', 'move', 'to', 'a', 'place', 'where', 'no', 'one', 'knows', 'me']	-1
+153	9	<他>_O	him	[4]	['a', 'place', 'where', 'no', 'one', 'knows', 'me']	-1
+154	6	<你>_S	you	7	you	1
+155	0	<你>_S	you	1	you	1
+157	0	<我>_S	i	[0, 1]	['yes', '.']	-1
+158	1	<我>_S	i	[0]	['but', 'maybe', 'we', 'can', '.']	-1
+159	6	<它>_O	it	7	it	1
+160	3	<我的>_Pa	my	[1, 2, 3, 4, 5, 6, 7]	['i', "'m", 'being', 'set', 'up', 'for', 'the', 'second', 'time', '.']	-1
+161	3	<我>_S	i	[2, 3]	['problem', '.', 'agreed', '.']	-1
+162	0	<我们>_S	we	[]	['face', 'it', ',', 'they', "'re", 'hard', 'to', 'pull', 'off', '.']	-1
+162	2	<它>_O	it	1	it	1
+163	0	<我们>_S	we	[0]	['come', 'on', '.', 'come', 'on', '.']	-1
+164	3	<它>_O	it	6	it	1
+165	13	<它>_O	it	[16, 17, 18]	['not', 'holding']	-1
+166	1	<你>_O	you	1	you	1
+167	1	<我们>_S	we	0	we	1
+168	0	<它>_S	it	0	it	1
+169	2	<它>_S	it	5	it	1
+170	0	<你>_S	you	[]	['leaving', '?']	-1
+171	1	<它>_S	it	2	it	1
+172	5	<我自己>_R	myself	[4, 5]	['used', 'to', 'drive', 'to', 'new', 'jersey', '.']	-1
+173	4	<你的>_Pa	your	[4, 5]	['stick', 'to', 'business', '.']	-1
+174	5	<他的>_Pa	his	[4]	['needs', 'social', 'help', '.']	-1
+175	0	<你>_S	you	2	you	1
+176	6	<他>_O	him	[6, 7, 8, 9]	['set', 'it', 'up']	-1
+177	0	<你>_S	you	2	you	1
+178	0	<我>_S	i	0	i	1
+179	0	<我>_S	i	0	i	1
+180	0	<你>_S	you	[0, 1]	['how', 'was', 'dinner', '?']	-1
+181	0	<我>_S	i	[]	['no', '.']	-1
+182	0	<我>_S	i	[]	['look', 'at', 'my', 'right', 'hand', '.']	-1
+183	4	<它>_S	it	0	it	1
+184	0	<我>_S	i	0	i	1
+185	1	<我>_S	i	2	i	1
+186	2	<它>_O	it	[1, 2]	['know', 'that', 'includes', ',', 'just', 'for', 'so', 'long', '.']	-1
+186	5	<它>_S	it	[3, 4]	['includes', ',', 'just', 'for', 'so', 'long', '.']	-1
+187	0	<我>_S	i	0	i	1
+188	0	<我>_S	i	[0, 1, 2, 3]	['it', "'s", '3,000', 'and', 'a', 'half', '.', 'is', 'that', 'okay', '?']	-1
+189	3	<它>_O	it	4	it	1
+190	0	<我>_S	i	0	i	1
+191	1	<它>_O	it	1	it	1
+192	3	<它>_O	it	4	it	1
+193	5	<它>_O	it	[4, 5, 6, 7, 8, 9]	['interest', 'a', 'long', 'time', 'ago']	-1
+194	0	<它>_S	it	0	it	1
+195	0	<我>_S	i	[0, 1]	['we', "'re", 'going', 'home', '.']	-1
+196	4	<他的>_Pa	his	[1, 2]	['fill', 'the', 'hole', '.']	-1
+197	1	<他的>_Pa	his	[0, 1, 2]	['it', "'s", 'a', 'gambling', 'debt', 'or', 'a', 'luxury', '.']	-1
+197	4	<他的>_Pa	his	[6]	['a', 'luxury', '.']	-1
+198	2	<我>_S	i	[1, 2]	['million', '.', 'told', 'him', '.']	-1
+199	0	<它>_S	it	7	it	1
+200	2	<你的>_Pa	your	[0, 1, 2, 3]	['you', "'ve", 'been', 'in', 'business', 'with', 'a', 'lot', 'of', 'jews', ',', 'right', '?']	-1
+201	1	<它>_S	it	1	it	1
+202	12	<你>_S	you	[13]	['line', '.']	-1
+203	6	<我>_O	me	[5, 6, 7]	['him', 'from', 'causing', 'trouble', 'because', 'i', 'owed', 'him', 'money', '.']	-1
+204	3	<我们>_S	we	5	we	1
+205	4	<它>_O	it	[2]	['saying', 'that', '.']	-1
+206	0	<你>_S	you	[0, 1]	['there', "'s", 'a', 'time', 'to', 'lose', '.']	-1
+207	3	<你的>_Pa	your	11	your	1
+207	8	<它>_S	it	[]	['front', 'of', 'your', 'men', '.']	-1
+207	10	<它>_O	it	[]	['okay', 'in', 'front', 'of', 'your', 'men', '.']	-1
+208	2	<你>_S	you	6	you	1
+209	0	<我们>_S	we	[0, 1, 2]	['before', 'it', "'s", 'over', ',']	-1
+210	5	<你>_O	you	[3, 4, 5, 6, 7, 8, 9, 10]	['ahead', '.', 'or', 'i', "'ll", 'pay', 'for', 'it', '.']	-1
+211	0	<它>_S	it	0	it	1
+211	4	<我>_S	i	[3, 4]	['fault', 'for', 'indulging', 'you', 'so', 'much', '.']	-1
+212	1	<我的>_Pa	my	8	my	1
+212	5	<我>_S	i	[]	['shot', 'me', '.']	-1
+213	0	<我>_S	i	[0, 1]	['shelters', 'every', 'week', '.']	-1
+214	1	<你>_S	you	2	you	1
+214	8	<你>_O	you	[8]	['to', 'follow', '.']	-1
+216	1	<我>_S	i	[0, 1, 2]	['but', 'we', 'don', "'t", 'know', 'if', 'it', "'s", 'been', 'disconnected', '.']	-1
+216	4	<它>_O	it	6	it	1
+217	0	<你们>_S	you	[0]	['start', 'here', '?']	-1
+218	0	<它>_S	it	0	it	1
+219	7	<你>_S	you	[6, 7, 8, 9]	['whore', '.', 'that', "'s", 'disgusting', '.']	-1
+219	10	<我>_O	me	[10, 11]	['disgusting']	-1
+220	2	<它>_S	it	5	it	1
+221	6	<它>_O	it	6	it	1
+222	0	<你>_S	you	[]	['looking', 'for', 'a', 'fight', '?']	-1
+223	0	<我>_S	i	[0]	['you', "'re", 'just', 'saying', 'that', 'because', 'you', 'already', 'know']	-1
+224	0	<你>_S	you	1	you	1
+224	2	<我>_O	me	[2]	['understand', '?']	-1
+225	4	<她的>_Pa	her	[5, 6]	['buying', 'the', 'house', '.']	-1
+226	0	<它>_S	it	2	it	1
+228	0	<它>_S	it	[]	['a', 'villa', '.']	-1
+229	0	<我>_S	i	0	i	1
+229	2	<我>_O	me	[1, 2, 3, 4, 5]	['thought', 'it', 'was', 'time', 'to', 'join', 'the', 'think', 'tank', '.']	-1
+230	0	<我>_S	i	[0, 1]	['if', 'you', 'have', 'time', ',', 'why', 'don', "'t", 'you', 'play', 'a', 'while', '?']	-1
+231	6	<他>_S	he	8	he	1
+231	10	<他的>_Pa	his	[11, 12, 13]	['want', 'to', 'use', 'free', 'flying', 'time', '.']	-1
+232	0	<你>_S	you	[]	['want', 'a', 'sandwich', '?']	-1
+233	0	<我>_S	i	0	i	1
+234	0	<他>_S	he	[0, 1, 2, 3, 4]	['i', "'m", 'here', 'to', 'collect', 'rent']	-1
+235	0	<你>_S	you	2	you	1
+236	1	<你>_O	you	[0, 1]	['here']	-1
+237	0	<你>_S	you	1	you	1
+238	0	<你的>_Pa	your	2	your	1
+239	0	<我们>_S	we	[0]	['play', '.']	-1
+240	0	<我们>_S	we	[]	['see', '?']	-1
+240	2	<它>_O	it	[0]	['see', '?']	-1
+241	2	<你>_O	you	1	you	1
+242	1	<它>_S	it	2	it	1
+242	5	<它>_S	it	6	it	1
+243	0	<它>_S	it	0	it	1
+243	5	<它>_S	it	6	it	1
+244	1	<它的>_Pa	its	[1, 2]	["'s", 'the', 'interest', '.']	-1
+245	1	<它>_S	it	[0, 1, 2]	['he', "'s", 'usually', 'like', 'a', 'normal', 'person', '.']	-1
+246	0	<我>_S	i	[]	['no', '.']	-1
+247	3	<他>_S	he	6	he	1
+248	0	<我>_S	i	[0, 1, 2]	['that', "'s", 'not', 'gonna', 'be', 'six', 'million', '.']	-1
+249	0	<我>_S	i	0	i	1
+250	0	<他>_S	he	[0, 1, 2]	['the', 'more', 'you', 'make', ',', 'the', 'more', 'you', 'spend', '.']	-1
+250	5	<他>_S	he	[6, 7]	['more', 'you', 'spend', '.']	-1
+251	3	<它>_S	it	[]	['him', 'would', 'be', 'a', 'different', 'solution', '?']	-1
+252	0	<我>_S	i	0	i	1
+253	0	<你们>_S	you	3	you	1
+254	1	<我们>_S	we	[0, 1, 2, 3]	['batavia', ',', 'let', "'s", 'go', '.', 'why', 'is', 'the', 'sound', 'gone', '?', 'the', 'boss', 'put', '18,000', 'on', 'it', '.']	-1
+255	1	<我>_S	i	2	i	1
+255	5	<你>_S	you	9	you	1
+256	0	<它们>_S	they	[0, 1, 2, 3]	['here', 'we', 'go', '.']	-1
+257	4	<你>_S	you	2	you	1
+258	0	<她>_S	she	[0, 1, 2]	['it', "'s", 'the', 'lead', '!', 'come', 'on', '!']	-1
+259	0	<我的>_Pa	my	[0, 1]	['jesus', ',', 'anthony', '.']	-1
+260	0	<你>_S	you	1	you	1
+260	2	<它>_O	it	3	it	1
+261	0	<它>_S	it	0	it	1
+262	0	<我>_S	i	0	i	1
+263	3	<它>_S	it	4	it	1
+264	4	<我>_S	i	[]	['months', '.']	-1
+265	0	<你>_S	you	0	you	1
+266	3	<你>_O	you	3	you	1
+267	0	<我>_S	i	1	i	1
+268	4	<它>_O	it	4	it	1
+269	3	<他>_O	him	[0, 1, 2, 3, 4, 5, 6]	['uncle', 'phil', 'said', 'he', 'talked', 'to', 'you', '.']	-1
+270	3	<他的>_Pa	his	3	his	1
+271	0	<你>_S	you	[0, 1]	['that', "'s", 'funny', '.']	-1
+272	0	<你>_S	you	[]	['watch', 'me', 'when', 'i', 'talk', '.']	-1
+273	0	<你>_S	you	[]	['now', ',', 'let', "'s", 'get', 'this', 'makeup', 'off', '.']	-1
+274	1	<我>_S	i	1	i	1
+275	0	<你>_S	you	[]	['starting', 'to', 'feel', 'sorry', 'for', 'yourself', '.']	-1
+276	4	<它>_O	it	[3]	['do', '?']	-1
+277	0	<你>_S	you	1	you	1
+277	2	<我>_O	me	[2]	['understand', '?']	-1
+278	2	<我>_S	i	2	i	1
+279	1	<它>_S	it	[0, 1]	['just', 'a', 'little', 'upset', '.', 'the', 'whole', 'deal', '.']	-1
+280	0	<它>_S	it	[0, 1]	['that', "'s", 'got', 'to', 'be', '600', 'grand', '.']	-1
+281	2	<你们>_O	you	3	you	1
+282	4	<它>_O	it	[5, 6, 7, 8]	['and', 'put', 'them', 'on', 'the', 'jets', '.']	-1
+283	0	<我>_S	i	[0, 1]	['seriously', ',', 'we', 'can', "'t", 'lose', '.']	-1
+284	0	<它>_S	it	1	it	1
+285	0	<它>_S	it	[]	['sure', 'win', '.', 'celia', 'works', 'in', 'a', 'nightclub', '.']	-1
+285	5	<她>_S	she	[3, 4]	['celia', 'works', 'in', 'a', 'nightclub', '.']	-1
+286	0	<他的>_Pa	his	[0, 1, 2, 3, 4]	['bone', 'fracture', 'on', 'the', 'right', 'foot', '.']	-1
+287	8	<它>_O	it	8	it	1
+288	4	<它>_O	it	[6, 7, 8]	['whole', 'thing']	-1
+289	4	<你>_O	you	3	you	1
+290	0	<我>_S	i	0	i	1
+291	3	<它>_O	it	5	it	1
+292	0	<它>_S	it	5	it	1
+292	2	<它>_S	it	5	it	1
+293	0	<你>_S	you	[]	['yeah', ',', 'yeah', '.']	-1
+293	2	<你>_S	you	[0, 1, 2, 3]	['yeah', ',', 'yeah']	-1
+294	0	<它>_S	it	0	it	1
+295	0	<你>_S	you	2	you	1
+296	0	<我>_S	i	[]	['watching', 'cnn', '?', 'fucking', 'hezbollah', '?']	-1
+297	4	<我们>_S	we	[1, 2, 3]	['hope', 'it', "'s", 'not', 'too', 'late', '.']	-1
+298	4	<你>_S	you	[3, 4, 5]	["'t", 'take', 'it', 'when', 'it', "'s", 'convenient', 'to', 'return', 'it', '.']	-1
+298	8	<你>_S	you	[9, 10, 11]	['convenient', 'to', 'return', 'it', '.']	-1
+298	11	<我>_O	me	[9, 10, 11]	['convenient', 'to', 'return', 'it', '.']	-1
+299	1	<你>_S	you	[0, 1]	['whatever']	-1
+300	0	<我们>_S	we	[0]	['gotta', 'go', '.']	-1
+301	2	<他>_O	him	[0, 1, 2, 3]	['he', "'s", 'here', 'to', 'play']	-1
+302	5	<他的>_Pa	his	[1, 2, 3, 4]	['to', 'mention', 'the', 'personal', 'interest', '.']	-1
+303	0	<你>_S	you	0	you	1
+304	0	<它>_S	it	[]	['like', 'eddie', 'valentine', '.']	-1
+305	1	<你>_S	you	[0, 1, 2, 3]	['maybe', 'we', 'should', 'be', 'gay', 'instead', 'of', 'watching', 'tv', '.']	-1
+306	1	<它>_O	it	[0]	['fuck', '!']	-1
+307	1	<我>_S	i	[2, 3]	['just', '$', '100,000', '.']	-1
+308	1	<你>_S	you	[0, 1]	['but', 'we', 'won', '.']	-1
+309	0	<我们>_S	we	[0]	['could', 'have', 'turned', 'that', 'piece', 'of', 'shit', 'into', 'a', 'million', 'bucks', '.']	-1
+310	0	<我>_S	i	[0, 1, 2]	['that', 'piece', 'of', 'shit', '?']	-1
+311	3	<我的>_Pa	my	[2, 3]	['is', 'an', 'investment', '.']	-1
+312	0	<我们>_S	we	[0, 1]	['it', "'s", 'war', '.']	-1
+313	5	<她的>_Pa	her	5	her	1
+314	7	<我>_S	i	11	i	1
+315	1	<我>_S	i	1	i	1
+315	5	<你>_S	you	7	you	1
+316	3	<你>_S	you	6	you	1
+317	4	<它>_O	it	3	it	1
+318	8	<你的>_Pa	your	12	your	1
+318	12	<你的>_Pa	your	15	your	1
+319	3	<我>_S	i	[3, 4, 5]	['...', 'so', '...', 'telling', 'you', ',', 'man', '.']	-1
+320	1	<你>_S	you	2	you	1
+321	0	<他>_S	he	[0, 1]	['and', 'you', 'stepped', 'on', 'it', '.']	-1
+321	4	<它>_O	it	4	it	1
+322	7	<他的>_Pa	his	[8, 9]	['in', 'the', 'garage', '.']	-1
+323	0	<我们>_S	we	[0]	['proceed', 'to', 'communist', 'path', '.']	-1
+324	0	<你>_S	you	1	you	1
+325	4	<他>_S	he	16	he	1
+326	10	<他的>_Pa	his	[]	['school', '.']	-1
+327	0	<她的>_Pa	her	[0, 1, 2, 3]	['dad', "'s", 'dead', ',', 'and']	-1
+327	3	<她的>_Pa	her	[2, 3, 4, 5, 6]	['dead', ',', 'and', 'i', "'m", 'crazy', '.']	-1
+328	0	<她的>_Pa	her	[]	['mom', 'only', 'cries', '.', 'she', "'s", '9', 'years', 'old', '.']	-1
+329	11	<它>_O	it	16	it	1
+330	0	<它>_S	it	0	it	1
+331	5	<他>_S	he	5	he	1
+332	3	<他>_S	he	[2, 3]	['phil', 'was', 'never', 'there', 'for', 'help', '.']	-1
+333	0	<我>_S	i	0	i	1
+334	1	<它>_O	it	4	it	1
+335	0	<我>_S	i	0	i	1
+335	3	<它>_O	it	[3, 4]	['forget']	-1
+336	2	<我们>_S	we	[1, 2, 3, 4]	['right', ',', 'let', "'s", 'go', '.', 'i', "'m", 'going', 'to', 'see', 'slava', '.']	-1
+337	1	<你>_S	you	2	you	1
+338	0	<我>_S	i	0	i	1
+339	0	<它>_S	it	0	it	1
+340	0	<我>_S	i	0	i	1
+341	3	<它>_O	it	4	it	1
+342	1	<我>_S	i	3	i	1
+342	3	<我>_S	i	3	i	1
+343	4	<我>_O	me	[1, 2, 3, 4, 5, 6, 7]	['i', 'know', 'is', 'i', 'just', 'don', "'t", 'feel']	-1
+344	0	<你>_S	you	1	you	1
+345	1	<他>_S	he	[]	['sunday', '?']	-1
+346	1	<我们>_S	we	[1, 2, 3, 4]	["'s", 'a', 'good', 'thing', 'there', "'s", 'a', 'way', 'out', 'of', 'this', '.']	-1
+347	1	<你>_S	you	4	you	1
+348	5	<我>_S	i	3	i	1
+348	8	<你>_O	you	[6, 7]	['help']	-1
+349	5	<他们>_S	they	[4, 5, 6, 7]	['camp', 'in', 'idaho', 'that', 'specializes', 'in', 'modifying', 'kids', 'like', 'him', '.']	-1
+350	5	<它>_O	it	2	it	1
+351	0	<它>_S	it	0	it	1
+352	0	<他们>_S	they	[0, 1]	['it', "'s", 'in', 'utah', 'and', 'idaho', '.']	-1
+353	7	<他们>_O	them	[8, 9]	['allowed', 'to', 'hit', 'children', '.']	-1
+354	4	<它>_O	it	[4, 5]	['hard']	-1
+355	1	<你>_O	you	1	you	1
+356	0	<他们>_S	they	[0]	['he', 'goes', 'to', 'nightclubs', 'a', 'lot', '.']	-1
+357	4	<我>_S	i	7	i	1
+358	0	<它>_S	it	0	it	1
+359	1	<我>_O	me	[0, 1]	['let', 'go', '!']	-1
+360	0	<它>_S	it	0	it	1
+361	0	<我>_S	i	0	i	1
+362	1	<它>_S	it	[]	['everything', "'s", 'gonna', 'be', 'all', 'right', '.']	-1
+363	4	<你>_S	you	5	you	1
+364	0	<我>_S	i	[]	['sorry', '.']	-1
+365	0	<我>_S	i	[]	['sorry', '.']	-1
+366	0	<我>_S	i	[0, 1, 2, 3, 4]	['with', 'all', 'my', 'heart', '.']	-1
+367	0	<我>_S	i	0	i	1
+368	0	<我>_S	i	0	i	1
+369	3	<它>_O	it	[3]	['chasing', 'that', 'feeling', ',']	-1
+370	1	<你>_S	you	[0, 1, 2]	['every', 'time', 'i', 'get', 'pleasure', 'out', 'of', 'it', ',']	-1
+371	0	<你>_S	you	2	you	1
+372	0	<它>_S	it	0	it	1
+374	0	<它>_S	it	2	it	1
+375	1	<你>_S	you	1	you	1
+376	0	<你>_S	you	[]	['pretend', 'there', "'s", 'not', 'a', 'piano', 'hanging', 'from', 'a', 'rope', 'on', 'your', 'head', 'that', 'could', 'fall', 'every', 'second', 'of', 'every', 'day', '.']	-1
+376	2	<你的>_Pa	your	11	your	1
+377	1	<它>_O	it	1	it	1
+379	4	<它>_O	it	6	it	1
+380	3	<你>_S	you	8	you	1
+381	0	<你>_S	you	[0, 1, 2]	['my', 'condolences', '.']	-1

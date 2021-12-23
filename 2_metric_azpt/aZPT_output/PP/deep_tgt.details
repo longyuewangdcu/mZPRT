@@ -1,0 +1,886 @@
+Sent	SRC_ZP_Pos.	SRC_ZP	Ref_ZP	TGT_ZPT_Pos.	TGT_ZPT	Case
+0	2	<他>_S	he	0	he	1
+1	0	<他>_S	he	0	he	1
+2	0	<他>_S	he	0	he	1
+3	0	<他>_S	he	3	he	1
+4	2	<他>_S	he	3	he	1
+5	0	<他>_S	he	3	he	1
+6	0	<他>_S	he	0	he	1
+7	0	<他的>_Pa	his	[0, 1, 2, 3]	['research', 'areas', 'include', 'institutional', 'economics']	-1
+8	0	<他>_S	he	0	he	1
+9	0	<他>_S	he	0	he	1
+10	27	<她>_S	she	[]	['doctorate', 'in', 'public', 'policy', 'from', 'harvard', 'university', 'in', '2007', '.']	-1
+11	0	<她的>_Pa	her	[0, 1, 2, 3]	['his', 'main', 'research', 'areas', 'are']	-1
+12	0	<她的>_Pa	her	[0, 1]	['the', 'research', 'findings', 'have', 'been', 'published', 'in', 'international', 'ssci', '/', 'sci', 'journals', 'such', 'as', 'management', 'science', ',', 'journal', 'of', 'the', 'association', 'of', 'environmental', 'and', 'resource', 'economists', ',', 'environmental', 'and', 'resource', 'economics', ',', 'energy', 'economics', ',', 'the', 'energy', 'journal', ',', 'canadian', 'journal', 'of', 'economics', ',', 'applied', 'energy', ',', 'china', 'economic', 'review', ',', 'review', 'of', 'environmental', 'economics', 'and', 'policy', ',', 'review', 'of', 'income', 'and', 'wealth', ',', 'environmental', 'science', '&', 'technology', ',', 'nature', 'sustainability', ',', 'and', 'domestic', 'journals', 'such', 'as', 'economic', 'research', ',', 'financial', 'research', ',', 'and', 'economic', 'dynamics', '.']	-1
+13	0	<她>_S	she	[0, 1, 2, 3]	['he', 'received', 'a', 'doctorate', 'in', 'finance', 'from', 'the', 'hong', 'kong', 'university', 'of', 'science', 'and', 'technology', 'in', '2010', 'and', 'a', 'bachelor', "'s", 'degree', 'in', 'economics', 'from', 'fudan', 'university', 'in', '2002', '.']	-1
+14	0	<他>_S	he	0	he	1
+15	0	<他>_S	he	[0, 1]	['from', 'december', '2010', 'to', 'december', '2011', ',', 'visiting', 'scholar', ',', 'department', 'of', 'accounting', ',', 'university', 'of', 'texas', 'at', 'austin', '.']	-1
+16	0	<他>_S	he	0	he	1
+17	0	<他>_S	he	0	he	1
+18	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'research', 'areas', 'are']	-1
+19	12	<他>_S	he	[14, 15, 16, 17, 18]	[',', 'was', 'promoted', 'to', 'professor', 'in', '2001', ',', 'was', 'promoted', 'to', 'doctoral', 'supervisor', 'in', '2003', ',', 'was', 'one', 'of', 'the', 'youngest', 'professors', 'and', 'doctoral', 'supervisor', 'at', 'tsinghua', 'university', 'at', 'that', 'time', '.']	-1
+19	24	<他>_S	he	[29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]	[',', 'was', 'one', 'of', 'the', 'youngest', 'professors', 'and', 'doctoral', 'supervisor', 'at', 'tsinghua', 'university', 'at', 'that', 'time', '.']	-1
+20	51	<他>_S	he	[52, 53, 54, 55, 56, 57, 58]	['education', 'projects', 'and', 'a', 'number', 'of', 'enterprise', 'consulting']	-1
+21	0	<他>_S	he	3	he	1
+22	0	<他>_S	he	[0, 1, 2, 3]	['chairman', 'of', 'many', 'international', 'conferences']	-1
+23	7	<他>_S	he	[11, 12, 13, 14, 15, 16, 17]	['of', 'management', ',', 'and', 'received', 'a', 'phd', 'in']	-1
+24	0	<他>_S	he	0	he	1
+25	0	<他的>_Pa	his	[0, 1]	['areas', 'of', 'research', 'include', ':', 'accounting', 'and', 'capital', 'markets', ',', 'corporate', 'governance', ',', 'taxation', 'and', 'corporate', 'strategy', ',', 'corporate', 'valuation', '.']	-1
+26	36	<他>_S	he	0	he	1
+27	0	<他>_S	he	0	he	1
+28	0	<他>_S	he	0	he	1
+29	0	<他的>_Pa	his	[0, 1, 2, 3]	['major', 'research', 'areas', ':', 'accounting']	-1
+31	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'research', 'direction', 'is']	-1
+32	0	<他>_S	he	0	he	1
+33	4	<他>_S	he	0	he	1
+33	27	<他>_S	he	[34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]	['member', 'of', 'the', 'medical', 'imaging', 'committee', 'of', 'the', 'medical', 'association', 'of', 'the', 'chinese', 'image', 'graphics', 'society', ',', 'and', 'a', 'member', 'of', 'the', 'international', 'and', 'domestic', 'conference', 'program', 'committee', 'and', 'the', 'chairman', 'of', 'the', 'sub-committee', '.']	-1
+34	0	<他>_S	he	4	he	1
+35	17	<他>_S	he	0	he	1
+36	0	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['to', 'serve', 'as', 'a', 'member', 'of', 'the', 'program']	-1
+37	5	<他>_S	he	5	he	1
+38	5	<他>_S	he	[0, 1]	['1989-1991', 'studied', 'at', 'the', 'university', 'of', 'southampton', ',', 'england', '.']	-1
+39	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'academic', 'area', 'is']	-1
+40	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['the', 'company', 'has', 'been', 'engaged', 'in', 'long-term']	-1
+41	0	<他的>_Pa	his	[0, 1, 2, 3]	['research', 'areas', 'include', 'high-performance', 'computing']	-1
+42	0	<他>_S	he	0	he	1
+43	0	<他>_S	he	[0, 1, 2, 3]	['translated', 'two', 'internationally', 'renowned', 'textbooks']	-1
+44	21	<他>_S	he	[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]	['processing', 'framework', 'based', 'on', 'integral', 'invariants', 'and', 'feature', 'sensitivity', 'measures', ',', 'topological', 'repair', 'editing', 'theory', 'for', 'hyper-scale', 'models', ',', 'and', 'conformal', 'parameterization', 'theory', 'based', 'on', 'inverse', 'curvature', 'mapping', 'are', 'proposed', ';', 'in', 'visual', 'media', 'editing', 'and', 'interactive', 'synthesis', ',', 'significance', 'detection', 'based', 'on', 'global', 'contrast', ',', 'topologically', 'consistent', 'image', 'vectorization', 'based', 'on', 'gradient', 'field', ',', 'and', 'image', 'synthesis', 'based', 'on', 'sketch', 'input', 'and', 'network', 'search', '(', 'sketch2photo', ')', 'are', 'proposed', ';', 'in', 'realistic', 'rendering', 'and', 'animation', 'simulation', ',', 'fluid', 'modulation', 'based', 'on', 'intrinsic', 'features', ',', 'multi-fluid', 'and', 'fluid-solid', 'coupling', 'based', 'on', 'sph', ',', 'and', 'spherical', 'segmental', 'constant', 'basis', 'function', 'based', 'on', 'global', 'ambient', 'lighting', 'are', 'proposed', '.']	-1
+44	63	<他>_S	he	[42, 43, 44, 45, 46]	['synthesis', ',', 'significance', 'detection', 'based', 'on', 'global', 'contrast', ',', 'topologically', 'consistent', 'image', 'vectorization', 'based', 'on', 'gradient', 'field', ',', 'and', 'image', 'synthesis', 'based', 'on', 'sketch', 'input', 'and', 'network', 'search', '(', 'sketch2photo', ')', 'are', 'proposed', ';', 'in', 'realistic', 'rendering', 'and', 'animation', 'simulation', ',', 'fluid', 'modulation', 'based', 'on', 'intrinsic', 'features', ',', 'multi-fluid', 'and', 'fluid-solid', 'coupling', 'based', 'on', 'sph', ',', 'and', 'spherical', 'segmental', 'constant', 'basis', 'function', 'based', 'on', 'global', 'ambient', 'lighting', 'are', 'proposed', '.']	-1
+44	107	<他>_S	he	[]	['simulation', ',', 'fluid', 'modulation', 'based', 'on', 'intrinsic', 'features', ',', 'multi-fluid', 'and', 'fluid-solid', 'coupling', 'based', 'on', 'sph', ',', 'and', 'spherical', 'segmental', 'constant', 'basis', 'function', 'based', 'on', 'global', 'ambient', 'lighting', 'are', 'proposed', '.']	-1
+45	9	<他>_S	he	[6, 7, 8, 9, 10, 11, 12]	['wenwu', ')', 'is', 'a', 'professor', 'and', 'doctoral', 'supervisor']	-1
+46	0	<他>_S	he	0	he	1
+47	0	<他>_S	he	[0, 1, 2, 3]	['mainly', 'engaged', 'in', 'media', 'big']	-1
+48	0	<他>_S	he	0	he	1
+49	0	<他>_S	he	0	he	1
+50	0	<他>_S	he	0	he	1
+51	0	<他>_S	he	0	he	1
+52	0	<他>_S	he	0	he	1
+53	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'research', 'areas', 'are']	-1
+54	0	<他>_S	he	[12, 13, 14, 15, 16, 17, 18]	['1', ')', ',', 'a', 'leading', 'international', 'journal', 'in']	-1
+55	0	<他>_S	he	3	he	1
+56	0	<他>_S	he	[0, 1, 2, 3, 4]	['in', '2011', ',', 'the', 'university', 'of']	-1
+57	0	<他>_S	he	[]	['the', 'computational', 'complexity', 'analysis', 'of', 'hierarchical', 'problem', 'solving', 'and', 'the', 'method', 'to', 'reduce', 'the', 'complexity', 'are', 'proposed', '.']	-1
+58	27	<他>_S	he	[28, 29, 30, 31, 32, 33, 34]	['combines', 'basic', 'theory', 'with', 'practical', 'problems', 'and', 'proposes', 'effective', 'computational', 'models', 'and', 'algorithms', ',', 'including', ':', '(', '1', ')', 'using', 'regular', 'bayesian', 'inference', 'to', 'solve', 'large-scale', 'text', 'classification', ',', 'social', 'network', 'analysis', ',', 'matrix', 'low-rank', 'decomposition', ',', 'multi-modal', 'data', 'fusion', 'and', 'other', 'problems', ',', 'and', 'putting', 'forward', 'an', 'efficient', 'learning', 'algorithm', ';', '(', '2', ')', 'using', 'structured', 'maximum', 'entropy', 'discriminant', 'learning', 'to', 'solve', 'problems', 'such', 'as', 'information', 'extraction', ',', 'entity', 'relationship', 'extraction', ',', 'multi-modal', 'data', 'fusion', 'and', 'retrieval', 'in', 'network', 'environment', ',', 'it', 'has', 'established', 'a', 'structure-based', 'network', 'data', 'extraction', 'framework', 'and', 'several', 'statistical', 'models', 'including', 'statsnowball', ',', 'and', 'applied', '/', 'authorized', '17', 'invention', 'patents', ',', 'including', '3', 'us', 'patents', '.']	-1
+59	0	<他>_S	he	0	he	1
+60	0	<他>_S	he	0	he	1
+61	26	<我>_S	i	[40, 41]	['yuan', ',', 'and', 'participated', 'as', 'a', 'core', 'member', 'in', 'the', 'national', 'natural', 'science', 'foundation', 'of', 'china', '(', 'nsfc', ')', 'key', 'international', 'cooperation', 'projects', ',', 'national', 'key', 'r', '&', 'd', 'plans', 'and', 'other', 'national', 'projects', '.']	-1
+62	0	<他>_S	he	0	he	1
+63	0	<他>_S	he	0	he	1
+64	23	<他>_S	he	34	he	1
+64	43	<他>_S	he	34	he	1
+65	23	<他>_S	he	[28]	[',', 'and', 'for', 'a', 'long', 'time', 'served', 'as', 'the', 'director', 'of', 'the', 'tein', 'network', 'center', ',', 'designed', 'the', 'tein', 'operational', 'management', 'system', ',', 'led', 'the', 'completion', 'of', 'the', 'implementation', 'of', 'the', 'tein', 'platform', ',', 'led', 'the', 'development', 'of', 'the', 'official', 'tein', 'network', 'management', 'system', '.']	-1
+66	3	<他>_S	he	3	he	1
+67	6	<他>_S	he	[6, 7]	[',', 'graduated', 'from', 'the', 'graduate', 'school', 'of', 'literature', 'of', 'the', 'chinese', 'academy', 'of', 'social', 'sciences', 'in', '1996', ',', 'with', 'a', 'doctorate', 'in', 'literature', ',', 'and', 'from', '1996', 'to', '1998', 'completed', 'his', 'post-doctoral', 'studies', 'at', 'the', 'chinese', 'department', 'of', 'peking', 'university', '.']	-1
+68	0	<他的>_Pa	his	0	his	1
+69	9	<他>_S	he	16	he	1
+69	32	<他>_S	he	44	he	1
+69	43	<他>_S	he	44	he	1
+70	0	<他的>_Pa	his	[0, 1, 2, 3, 4]	['the', 'main', 'academic', 'interests', 'are', 'the']	-1
+71	0	<他>_S	he	0	he	1
+72	11	<他>_S	he	[11, 12, 13, 14, 15, 16, 17, 18, 19]	[',', 'and', 'has', 'taught', 'there', 'ever', 'since', ',', 'and', 'was', 'promoted', 'to', 'professor', 'in', '1984', '.']	-1
+73	0	<他>_S	he	0	he	1
+74	0	<他>_S	he	0	he	1
+75	0	<他>_S	he	0	he	1
+76	21	<他>_S	he	19	he	1
+77	0	<他>_S	he	0	he	1
+78	0	<他>_S	he	0	he	1
+79	2	<他>_S	he	3	he	1
+80	0	<他>_S	he	5	he	1
+81	5	<他>_S	he	5	he	1
+82	0	<他>_S	he	0	he	1
+83	0	<他>_S	he	0	he	1
+84	0	<他>_S	he	0	he	1
+85	0	<她>_S	she	[0]	['he', 'is', 'currently', 'a', 'research', 'associate', 'at', 'the', 'school', 'of', 'education', 'of', 'peking', 'university', ',', 'and', 'is', 'also', 'the', 'president', 'of', 'cai', 'yuanpei', 'research', 'association', 'of', 'peking', 'university', '.']	-1
+86	0	<她>_S	she	[0, 1]	['he', 'lectured', 'on', 'the', 'history', 'of', 'higher', 'education', '(', 'china', ')', 'and', 'modern', 'higher', 'education', 'in', 'china', ';', 'participated', 'in', 'the', 'quality', 'survey', 'of', 'chinese', 'doctors', ',', 'the', 'evaluation', 'of', 'state-sponsored', 'graduate', 'programs', 'for', 'the', 'construction', 'of', 'high-level', 'universities', ',', 'the', 'quality', 'of', 'postgraduate', 'education', 'and', 'the', 'follow-up', 'investigation', ';', 'participated', 'in', 'the', 'writing', 'of', 'the', 'quality', 'report', 'of', 'chinese', 'doctors', ',', 'the', 'quality', 'of', 'chinese', 'doctors', ':', 'concepts', ',', 'evaluation', 'and', 'trends', '.']	-1
+87	0	<她>_S	she	[0, 1, 2, 3]	['he', 'is', 'currently', 'managing', 'the']	-1
+88	0	<他>_S	he	0	he	1
+89	0	<他>_S	he	0	he	1
+90	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'area', 'of', 'research']	-1
+91	0	<他>_S	he	0	he	1
+92	9	<他>_S	he	[11, 12]	[';', 'presided', 'over', 'a', 'number', 'of', 'national', ',', 'provincial', 'and', 'ministerial-level', 'projects', ',', 'and', 'concurrently', 'served', 'as', 'vice', 'chairman', 'of', 'the', 'national', 'professional', 'committee', 'of', 'education', 'and', 'sociology', ',', 'executive', 'director', 'of', 'the', 'national', 'professional', 'committee', 'of', 'education', 'and', 'anthropology', ',', 'director', 'of', 'the', 'chinese', 'academy', 'of', 'education', ';', 'academic', 'member', 'of', 'nanjing', 'normal', 'university', ',', 'a', 'key', 'base', 'of', 'philosophy', 'and', 'social', 'sciences', 'in', 'jiangsu', 'province', ',', 'and', 'adjunct', 'professor', 'of', 'the', 'institute', 'of', 'higher', 'education', 'of', 'east', 'china', 'normal', 'university', '.']	-1
+93	0	<他>_S	he	[0, 1, 2, 3]	['lecturer', 'in', 'the', 'master', "'s"]	-1
+94	0	<他>_S	he	[0, 1, 2, 3, 4]	['at', 'present', ',', 'the', 'main', 'research']	-1
+95	0	<他>_S	he	0	he	1
+96	0	<他>_S	he	0	he	1
+97	0	<他>_S	he	0	he	1
+98	0	<他>_S	he	0	he	1
+99	0	<他>_S	he	0	he	1
+100	0	<他的>_Pa	his	0	his	1
+101	0	<他>_S	he	0	he	1
+102	0	<他>_S	he	3	he	1
+103	1	<他>_S	he	[2, 3]	['in', 'recent', 'years', ',', 'with', 'higher', 'education', 'theory', 'as', 'the', 'research', 'direction', ',', 'its', 'critique', 'of', '"', 'adaptation', 'theory', '"', 'of', 'higher', 'education', 'has', 'aroused', 'a', 'great', 'response', 'from', 'the', 'theoretical', 'circle', 'of', 'higher', 'education', '.']	-1
+104	0	<他的>_Pa	his	0	his	1
+105	0	<他>_S	he	0	he	1
+106	21	<他>_S	he	0	he	1
+106	33	<他>_S	he	[32]	['from', '2006', 'to', '2009', '.']	-1
+107	0	<他>_S	he	0	he	1
+108	0	<他>_S	he	0	he	1
+109	0	<他>_S	he	0	he	1
+109	19	<他>_S	he	0	he	1
+110	0	<他>_S	he	0	he	1
+111	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'areas', 'of', 'research']	-1
+112	0	<他>_S	he	0	he	1
+113	0	<他>_S	he	5	he	1
+114	5	<他>_S	he	5	he	1
+115	0	<他>_S	he	0	he	1
+116	0	<他>_S	he	0	he	1
+117	0	<他>_S	he	[5, 6, 7, 8, 9, 10, 11]	['translations', ',', 'such', 'as', 'education', 'metrics', ',', 'graduate']	-1
+118	0	<他>_S	he	0	he	1
+119	0	<他>_S	he	0	he	1
+120	0	<他>_S	he	0	he	1
+121	0	<他>_S	he	[0, 1, 2, 3, 4]	['presided', 'over', 'or', 'participated', 'in', 'a']	-1
+122	0	<他>_S	he	0	he	1
+123	0	<他>_S	he	[0, 1]	['selected', 'as', 'the', '"', 'new', 'century', 'outstanding', 'talents', 'support', 'plan', '"', 'by', 'the', 'ministry', 'of', 'education', '.']	-1
+124	0	<他>_S	he	0	he	1
+125	0	<他>_S	he	3	he	1
+126	16	<他>_S	he	[20, 21, 22, 23, 24, 25, 26]	[',', 'in', 'terms', 'of', 'style', ',', 'focusing', 'on', 'novels', ',', 'in', 'terms', 'of', 'time', 'periods', ',', 'focusing', 'on', 'the', 'ming', 'dynasty', 'and', 'modern', 'times', '.']	-1
+126	25	<他>_S	he	[35, 36]	[',', 'focusing', 'on', 'the', 'ming', 'dynasty', 'and', 'modern', 'times', '.']	-1
+127	0	<他>_S	he	0	he	1
+127	66	<他>_S	he	73	he	1
+128	0	<他>_S	he	3	he	1
+129	0	<他>_S	he	6	he	1
+130	0	<他>_S	he	3	he	1
+131	0	<他>_S	he	0	he	1
+132	0	<他>_S	he	0	he	1
+133	3	<他>_S	he	3	he	1
+134	0	<他>_S	he	0	he	1
+135	0	<他>_S	he	0	he	1
+136	14	<他>_S	he	5	he	1
+137	6	<他>_S	he	5	he	1
+137	20	<他>_S	he	39	he	1
+137	57	<他>_S	he	45	he	1
+137	72	<他>_O	him	[66, 67, 68, 69, 70, 71, 72]	['by', 'the', 'chinese', 'academy', 'of', 'social', 'sciences', '.']	-1
+138	0	<他>_S	he	3	he	1
+139	1	<他>_S	he	0	he	1
+140	0	<他>_S	he	3	he	1
+141	0	<他>_S	he	9	he	1
+142	41	<他>_S	he	19	he	1
+142	55	<他>_S	he	[70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]	[',', 'head', 'of', 'the', 'department', 'from', '94', 'to', '97', ',', 'and', 'dean', 'of', 'the', 'institute', 'of', 'international', 'cultural', 'exchange', 'from', 'december', '97', 'to', 'november', '2004', '.']	-1
+143	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['presided', 'over', 'a', 'number', 'of', 'national', 'and']	-1
+144	21	<他>_S	he	0	he	1
+145	3	<他>_S	he	3	he	1
+146	5	<他>_S	he	6	he	1
+147	6	<他>_S	he	8	he	1
+148	2	<他>_S	he	12	he	1
+148	12	<他>_S	he	12	he	1
+149	0	<他>_S	he	0	he	1
+150	0	<他>_S	he	0	he	1
+151	0	<他>_S	he	0	he	1
+152	34	<他>_S	he	[42, 43, 44, 45, 46, 47, 48]	['research', 'project', ';', 'won', '6', 'provincial', 'and', 'ministerial-level']	-1
+153	31	<他>_S	he	0	he	1
+154	0	<他>_S	he	0	he	1
+155	86	<她>_S	she	[112, 113, 114, 115, 116, 117]	['law', 'of', 'the', 'university', 'of', 'lapland', 'in', 'the', 'united', 'states', ',', 'lectures', 'on', 'comparative', 'trust', 'law', ',', 'international', 'commercial', 'transactions', 'law', 'and', 'chinese', 'commercial', 'law', 'for', 'jd', '/', 'llm', 'students', 'from', 'the', 'united', 'states', 'and', 'students', 'from', 'european', 'law', 'school', '.']	-1
+156	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'areas', 'of', 'research']	-1
+157	0	<他>_S	he	0	he	1
+158	0	<他>_S	he	0	he	1
+159	1	<他>_S	he	0	he	1
+160	1	<他>_S	he	5	he	1
+161	23	<他>_S	he	36	he	1
+161	36	<他>_S	he	[66, 67, 68, 69, 70, 71, 72]	['michigan', 'law', 'school', 'in', 'the', 'united', 'states', ';']	-1
+162	0	<他>_S	he	0	he	1
+163	0	<他>_S	he	0	he	1
+164	0	<他>_S	he	0	he	1
+165	0	<他>_S	he	3	he	1
+166	2	<他>_S	he	0	he	1
+167	2	<他>_S	he	3	he	1
+167	15	<他>_S	he	23	he	1
+168	0	<他>_S	he	0	he	1
+169	0	<他>_S	he	0	he	1
+170	0	<他>_S	he	[0, 1, 2, 3]	['has', 'chaired', 'the', 'ministry', 'of']	-1
+171	0	<他>_S	he	0	he	1
+172	0	<他>_S	he	0	he	1
+173	2	<他>_S	he	4	he	1
+174	0	<他>_S	he	0	he	1
+175	0	<他>_S	he	0	he	1
+176	0	<他>_S	he	[0, 1, 2, 3]	['long-term', 'commitment', 'to', 'the', 'study']	-1
+177	0	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['achievements', 'have', 'been', 'made', 'in', 'related', 'fields', ',']	-1
+178	0	<他>_S	he	[0, 1, 2, 3]	['focus', 'on', 'international', 'and', 'domestic']	-1
+179	0	<他>_S	he	0	he	1
+180	0	<他>_S	he	[0, 1, 2, 3, 4]	['qualified', 'as', 'a', 'conciliatory', 'notary', 'in']	-1
+181	0	<他>_S	he	0	he	1
+182	0	<他>_S	he	[9, 10, 11, 12, 13, 14, 15]	['of', 'silver', 'metal', 'was', 'found', ',', 'the', 'modulation']	-1
+183	0	<他>_S	he	[7, 8, 9, 10, 11, 12, 13]	['nano', 'catalytic', 'system', 'was', 'found', ',', 'and', 'the']	-1
+184	10	<他>_S	he	[5, 6]	[',', 'methane', 'was', 'oxidized', 'to', 'methanol', 'directly', 'and', 'efficiently', 'at', '80', 'oc', ',', 'and', 'mo', '/', 'mcm-22', 'catalyst', 'was', 'developed', ',', 'which', 'greatly', 'increased', 'the', 'one-way', 'yield', 'of', 'direct', 'aromatization', 'of', 'methane', 'to', 'benzene', '.']	-1
+184	27	<他>_S	he	[20, 21, 22, 23, 24, 25, 26]	['/', 'mcm-22', 'catalyst', 'was', 'developed', ',', 'which', 'greatly']	-1
+185	0	<他>_S	he	[0]	['at', 'present', ',', 'we', 'mainly', 'study', 'the', 'atomic', 'economic', 'reactions', 'based', 'on', 'unsaturated', 'hydrocarbons', 'such', 'as', 'benzene', 'and', 'alkynes', ',', 'and', 'reveal', 'the', 'selective', 'regulation', 'of', 'the', 'reactions', '.']	-1
+187	0	<他>_S	he	0	he	1
+188	0	<他>_S	he	0	he	1
+188	23	<他>_S	he	0	he	1
+189	0	<他>_S	he	4	he	1
+190	0	<他>_S	he	7	he	1
+191	0	<他>_S	he	0	he	1
+192	0	<他>_S	he	0	he	1
+192	20	<他>_S	he	[]	['currently', 'the', 'editor', 'in', 'chief', 'of', 'ieee', 'transactions', 'on', 'knowledge', 'and', 'data', 'engineering', '.']	-1
+193	0	<他>_S	he	0	he	1
+194	0	<他>_S	he	0	he	1
+195	0	<他>_S	he	0	he	1
+196	0	<他>_S	he	0	he	1
+197	0	<他>_S	he	[0, 1, 2]	['nominated', 'for', 'the', 'international', 'association', 'of', 'miccai', 'young', 'scientist', 'award', ',', 'the', 'work', 'has', 'been', 'selected', 'for', 'the', 'highest', 'citation', 'in', 'the', 'top', 'journal', 'med', 'imag', 'ana', 'and', 'a', 'popular', 'downloadable', 'paper', '.']	-1
+197	10	<他的>_Pa	his	[10, 11, 12, 13, 14, 15, 16]	[',', 'the', 'work', 'has', 'been', 'selected', 'for', 'the']	-1
+198	9	<他>_S	he	[9]	[',', 'received', 'a', 'ph.d.', 'from', 'peking', 'university', 'in', '2017', ',', 'worked', 'as', 'a', 'postdoctoral', 'researcher', 'at', 'the', 'university', 'of', 'bonn', ',', 'germany', ',', 'and', 'as', 'a', 'research', 'scientist', 'at', 'the', 'fraunhofer', 'institute', 'for', 'intelligent', 'analysis', 'and', 'information', 'systems', '(', 'fraunhofer', 'iais', ')', 'in', 'germany', '(', '2017-2020', ')', '.']	-1
+199	0	<他>_S	he	0	he	1
+200	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'results', 'are', 'published', 'in']	-1
+201	21	<他>_S	he	[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]	['etc', '.', ',', 'studied', 'and', 'received', 'her', 'phd', 'at', 'queen', 'mary', 'college', ',', 'university', 'of', 'london', ',', 'uk', 'from', '2011', 'to', '2014', ',', 'and', 'was', 'a', 'postdoctoral', 'researcher', 'at', 'disney', 'research', 'institute', ',', 'pittsburgh', ',', 'usa', 'from', '2015.01-2016.07', '.']	-1
+201	36	<他>_S	he	[34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]	[',', 'university', 'of', 'london', ',', 'uk', 'from', '2011', 'to', '2014', ',', 'and', 'was', 'a', 'postdoctoral', 'researcher', 'at', 'disney', 'research', 'institute', ',', 'pittsburgh', ',', 'usa', 'from', '2015.01-2016.07', '.']	-1
+202	0	<他>_S	he	[]	['as', 'the', 'project', 'leader', 'has', 'presided', 'over', 'a', 'number', 'of', 'scientific', 'research', 'projects', '.']	-1
+203	3	<他>_S	he	[4, 5, 6, 7, 8, 9, 10]	['kong', 'university', 'of', 'science', 'and', 'technology', 'received', 'their']	-1
+204	27	<他>_S	he	0	he	1
+205	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['the', 'paper', 'won', 'the', 'icml', '2018', 'best']	-1
+206	6	<他>_S	he	[5, 6, 7, 8, 9, 10, 11]	['from', 'the', 'national', 'university', 'of', 'singapore', 'in', '2015']	-1
+207	0	<他的>_Pa	his	[21, 22, 23, 24, 25, 26, 27]	['journals', ',', 'and', 'won', 'the', 'young', 'scholar', 'research']	-1
+207	20	<他>_S	he	[19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]	['other', 'international', 'journals', ',', 'and', 'won', 'the', 'young', 'scholar', 'research', 'award', 'by', 'the', 'international', 'mathematical', 'optimization', 'society', 'in', '2019', '(', '1', 'in', '3', 'years', ')', '.']	-1
+207	48	<他>_S	he	[]	['1', 'in', '3', 'years', ')', '.']	-1
+208	0	<她>_S	she	[0, 1, 2, 3]	['in', 'july', '1989', ',', 'he']	-1
+209	0	<她>_S	she	[0, 1, 2]	['from', 'august', '1999', 'to', 'july', '2000', ',', 'he', 'was', 'sponsored', 'by', 'bao', 'zhaolong', 'bao', 'yugang', 'scholarship', 'for', 'chinese', 'international', 'students', 'to', 'be', 'a', 'visiting', 'scholar', 'at', 'the', 'centre', 'for', 'protein', 'engineering', ',', 'university', 'of', 'cambridge', ',', 'uk', '.']	-1
+210	0	<她>_S	she	[0, 1, 2, 3]	['it', 'is', 'mainly', 'engaged', 'in']	-1
+211	3	<她>_S	she	[2, 3, 4, 5, 6]	['leader', ',', 'he', 'is', 'responsible', 'for', '7', 'national', 'natural', 'science', 'foundation', 'of', 'china', ',', '1', 'doctoral', 'foundation', 'of', 'ministry', 'of', 'education', ',', '1', 'natural', 'science', 'foundation', 'of', 'zhejiang', 'province', ',', '1', 'science', 'and', 'technology', 'plan', 'of', 'zhejiang', 'province', ',', 'and', 'has', 'participated', 'in', 'a', 'number', 'of', 'national', 'natural', 'science', 'foundation', 'of', 'china', 'key', 'projects', 'and', 'international', 'cooperation', 'projects', '.']	-1
+212	0	<她的>_Pa	her	[0]	['the', 'research', 'achievement', 'won', 'the', 'first', 'prize', 'of', 'science', 'and', 'technology', 'progress', 'of', 'the', 'ministry', 'of', 'education', 'and', 'the', 'second', 'prize', 'of', 'science', 'and', 'technology', 'of', 'zhejiang', 'province', '.']	-1
+213	6	<他的>_Pa	his	3	his	1
+213	13	<他>_S	he	[]	['2011', ',', 'and', 'has', 'been', 'a', 'professor', 'at', 'the', 'school', 'of', 'control', 'at', 'zhejiang', 'university', 'since', 'january', '2012', '.']	-1
+213	32	<他>_S	he	[]	['has', 'been', 'a', 'professor', 'at', 'the', 'school', 'of', 'control', 'at', 'zhejiang', 'university', 'since', 'january', '2012', '.']	-1
+214	0	<她>_S	she	[0, 1, 2, 3]	['his', 'research', 'focuses', 'on', 'the']	-1
+215	0	<她>_S	she	[3, 4, 5, 6, 7, 8, 9]	['sci', 'papers', 'have', 'been', 'published', 'in', 'internationally', 'renowned']	-1
+216	0	<她>_S	she	[0, 1, 2, 3, 4, 5]	['one', 'monograph', 'was', 'published', 'and', '13', 'invention']	-1
+217	1	<她>_S	she	[1, 2, 3, 4, 5, 6, 7]	['recent', 'years', ',', 'it', 'has', 'hosted', 'nearly', '20']	-1
+218	0	<她>_S	she	[0, 1, 2, 3, 4, 5]	['he', 'has', 'won', 'a', 'number', 'of', 'awards']	-1
+219	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'has', 'been', 'nominated', 'by', '100']	-1
+220	0	<她>_S	she	[0, 1, 2, 3, 4]	['has', 'won', 'eight', 'control', 'area', 'conference']	-1
+221	42	<她>_S	she	[43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]	['as', 'a', 'member', 'of', 'the', 'ifac', 'chemical', 'overcontrol', 'and', 'safeprocess', 'technical', 'committee', ',', 'a', 'member', 'of', 'the', 'china', 'overcontrol', 'committee', ',', 'and', 'other', 'academic', 'part-time', 'positions', '.']	-1
+222	0	<他>_S	he	4	he	1
+222	33	<他的>_Pa	his	[40, 41, 42, 43, 44]	['was', 'awarded', 'a', 'doctorate', '.']	-1
+223	0	<他>_S	he	2	he	1
+224	0	<他>_S	he	0	he	1
+225	0	<他>_S	he	0	he	1
+226	0	<他>_S	he	0	he	1
+227	0	<他>_S	he	0	he	1
+228	0	<他的>_Pa	his	[0, 1, 2, 3]	['research', 'areas', 'include', 'computer', 'graphics']	-1
+229	0	<他>_S	he	0	he	1
+229	10	<他>_S	he	13	he	1
+230	0	<他>_S	he	[0, 1]	['scientific', 'consultant', 'at', 'the', 'visual', 'computing', 'centre', 'of', 'the', 'king', "'s", 'university', 'of', 'science', 'and', 'technology', 'in', 'saudi', 'arabia', '.']	-1
+231	0	<他>_S	he	0	he	1
+232	3	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['2008', '-', '2010', 'visited', 'the', 'university', 'of', 'waterloo']	-1
+233	0	<他>_S	he	0	he	1
+234	0	<他>_S	he	0	he	1
+235	0	<他>_S	he	0	he	1
+235	35	<他>_S	he	54	he	1
+236	0	<他>_S	he	0	he	1
+237	2	<他>_S	he	0	he	1
+238	0	<他>_S	he	4	he	1
+239	2	<他>_S	he	3	he	1
+239	15	<他>_S	he	31	he	1
+240	0	<他>_S	he	0	he	1
+241	4	<他>_S	he	[]	['the', 'massachusetts', 'institute', 'of', 'technology', 'center', 'for', 'health', 'science', 'and', 'technology', ',', '1998-2001', '.']	-1
+242	2	<他>_S	he	3	he	1
+243	0	<他>_S	he	0	he	1
+244	4	<他>_S	he	4	he	1
+245	2	<他>_S	he	3	he	1
+245	15	<他>_S	he	19	he	1
+246	0	<他>_S	he	0	he	1
+247	2	<他>_S	he	3	he	1
+247	10	<他>_S	he	3	he	1
+247	17	<他>_S	he	25	he	1
+247	28	<他>_S	he	25	he	1
+247	36	<他>_S	he	43	he	1
+248	0	<他>_S	he	0	he	1
+249	4	<他>_S	he	4	he	1
+250	4	<他>_S	he	4	he	1
+251	4	<他>_S	he	4	he	1
+252	11	<他>_S	he	7	he	1
+253	11	<他>_S	he	7	he	1
+254	10	<他>_S	he	7	he	1
+255	0	<他>_S	he	[0, 1, 2, 3]	['long', 'engaged', 'in', 'wireless', 'communication']	-1
+256	0	<他>_S	he	[0]	['participated', 'in', 'and', 'led', 'the', 'development', 'of', 'the', 'ieee802.15', 'ultra', 'broadband', '(', 'uwb', ')', 'wireless', 'communication', 'and', 'personal', 'area', 'network', '(', 'wpan', ')', 'international', 'standard', ',', 'and', 'was', 'one', 'of', 'the', 'main', 'sponsors', 'and', 'contributors', 'to', 'the', 'ds-uwb', 'standard', 'proposal', ',', 'which', 'has', 'become', 'one', 'of', 'the', 'two', 'major', 'international', 'standards', 'in', 'the', 'relevant', 'communications', 'industry', ',', 'namely', 'ds-uwb', 'and', 'mb-ofdm', '.']	-1
+257	13	<他>_S	he	[6, 7, 8, 9, 10, 11, 12]	['soft-spectrum', 'adaptation', ')', 'was', 'first', 'proposed', 'in', 'the']	-1
+258	0	<他>_S	he	0	he	1
+259	5	<他>_S	he	4	he	1
+260	5	<他>_S	he	4	he	1
+261	5	<他>_S	he	4	he	1
+262	54	<他>_S	he	[40, 41, 42, 43, 44, 45]	['more', 'than', '50', 'if', '>', '5', 'papers', '.']	-1
+263	0	<他>_S	he	[]	['publication', 'of', 'books', 'and', 'teaching', 'materials', 'such', 'as', 'multiuser', 'information', 'theory', '.']	-1
+264	0	<他>_S	he	0	he	1
+265	2	<他>_S	he	3	he	1
+266	0	<他>_S	he	[0, 1]	['among', 'the', 'doctoral', 'students', ',', 'one', 'of', 'them', 'was', 'awarded', 'the', 'excellent', 'doctoral', 'thesis', 'of', 'zhejiang', 'province', ',', 'three', 'of', 'them', 'won', 'the', 'first', 'prize', 'for', 'outstanding', 'achievement', 'in', 'humanities', 'and', 'social', 'sciences', 'research', 'of', 'zhejiang', 'university', ',', 'and', 'one', 'of', 'them', 'won', 'the', 'second', 'and', 'third', 'prize', 'each', '.']	-1
+267	0	<他>_S	he	[0, 1, 2, 3]	['from', '1994', 'to', '1997', ',']	-1
+268	0	<他的>_Pa	his	[0]	['the', 'doctorate', 'thesis', 'was', 'rated', 'as', 'a', 'national', 'outstanding', 'doctorate', 'thesis', '.']	-1
+269	0	<他>_S	he	[0, 1, 2, 3]	['2001-2003', 'special', 'research', 'fellow', ',']	-1
+270	0	<他>_S	he	0	he	1
+271	0	<他的>_Pa	his	[0, 1, 2, 3, 4, 5]	['the', 'results', 'were', 'selected', 'as', '“', 'top']	-1
+272	0	<他>_S	he	[0, 1, 2, 3]	['awarded', 'the', 'expert', 'certificate', 'of']	-1
+273	0	<他>_S	he	[0, 1, 2]	['a', 'team', 'of', 'leading', 'mentors', 'and', 'graduate', 'students', 'was', 'selected', 'as', 'the', 'five', 'good', 'guidance', 'team', 'of', 'zhejiang', 'university', '.']	-1
+274	0	<他>_S	he	[0, 1, 2, 3]	['currently', 'supervising', '10', 'doctoral', 'students']	-1
+275	0	<他>_S	he	3	he	1
+275	28	<他>_S	he	44	he	1
+275	49	<他>_S	he	79	he	1
+275	62	<他>_S	he	101	he	1
+275	81	<他>_S	he	130	he	1
+276	0	<他>_S	he	0	he	1
+277	39	<他>_S	he	44	he	1
+278	0	<他>_S	he	20	he	1
+279	0	<他的>_Pa	his	2	his	1
+279	4	<他>_S	he	5	he	1
+279	14	<他的>_Pa	his	7	his	1
+280	4	<他>_S	he	0	he	1
+281	0	<他>_S	he	0	he	1
+282	0	<他的>_Pa	his	[17, 18, 19, 20, 21, 22, 23]	['.', 'research', 'progress', 'has', 'been', 'made', 'in', 'coupling']	-1
+283	0	<他的>_Pa	his	0	his	1
+283	22	<他>_S	he	[21, 22, 23, 24, 25, 26, 27]	['structures', ',', 'and', 'was', 'awarded', 'the', 'marie', 'curie']	-1
+284	4	<它>_S	it	[4, 5]	[',', 'there', 'were', '459', 'citations', ',', 'with', 'an', 'h', 'factor', 'of', '13', '.']	-1
+285	0	<他>_S	he	[0, 1, 2]	['associate', 'editor-in-chief', ',', 'marine', 'structures', ',', 'and', 'two', 'other', 'top', 'sci', 'journals', 'in', 'marine', 'engineering', '.']	-1
+286	0	<他>_S	he	0	he	1
+287	81	<他>_S	he	[]	['induced', 'by', 'platform', 'motion', 'can', 'lead', 'to', 'fatigue', 'damage', '50', 'times', 'higher', 'than', 'that', 'of', 'traditional', 'dynamic', 'response', 'evaluation', ',', 'thus', 'changing', 'the', 'standard', 'design', 'standard', '.']	-1
+288	0	<他>_S	he	0	he	1
+289	0	<他>_S	he	0	he	1
+290	9	<她的>_Pa	her	[18, 19, 20, 21, 22, 23, 24]	['university', ',', 'then', 'went', 'to', 'the', 'united', 'states']	-1
+290	15	<她>_S	she	[16, 17, 18, 19]	['master', "'s", 'degree', 'from', 'tianjin', 'university', ',', 'then', 'went', 'to', 'the', 'united', 'states', 'to', 'study', 'for', 'his', 'ph.d.', 'under', 'prof.', 'xiong', 'yu', ',', 'director', 'of', 'civil', 'engineering', 'department', 'of', 'case', 'western', 'reserve', 'university', 'and', 'an', 'expert', 'in', 'geotechnical', 'engineering', '.']	-1
+291	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'was', 'a', 'senior', 'research', 'assistant']	-1
+291	15	<她>_S	she	[22, 23, 24, 25, 26]	[',', 'before', 'returning', 'to', 'shanghai', 'in', '2019', 'to', 'join', 'the', 'civil', 'engineering', 'department', 'of', 'shanghai', 'jiaotong', 'university', 'as', 'an', 'assistant', 'professor', '.']	-1
+292	19	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'has', 'received', 'the', '2016', 'craig']	-1
+292	60	<她>_S	she	[28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]	['delegates', 'in', 'geotechnical', 'engineering', ')', ',', 'is', 'a', 'member', 'of', 'the', 'asce', 'geo-institute', ',', 'engineering', 'geology', 'and', 'site', 'characterization', 'committee', ',', 'is', 'a', 'member', 'of', 'the', 'journal', 'of', 'testing', 'and', 'evaluation', ',', 'and', 'is', 'a', 'reviewer', 'of', 'many', 'international', 'high', 'level', 'journals', '.']	-1
+292	90	<她>_S	she	[]	['reviewer', 'of', 'many', 'international', 'high', 'level', 'journals', '.']	-1
+293	4	<她>_S	she	[4, 5, 6, 7, 8, 9, 10]	['years', ',', 'he', 'has', 'published', '2', 'papers', 'in']	-1
+293	44	<她>_S	she	[23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]	['4', 'papers', 'in', 'renewable', 'energy', '(', 'zone', '1', ',', 'if', '=', '6.27', ')', ',', '1', 'paper', 'in', 'canadian', 'geotechnical', 'journal', '(', 'zone', '2', ',', 'if', '=', '6.27', ')', ',', '1', 'paper', 'in', 'the', 'canadian', 'geotechnical', 'journal', '(', 'zone', '2', ',', 'if', '=', '6.27', ')', ',', '1', 'paper', 'in', 'the', 'journal', 'rock', 'mechanics', 'and', 'geotechnical', 'engineering', '(', 'english', 'version', ')', ',', 'a', 'leading', 'action', 'plan', 'of', 'excellence', 'journal', ',', 'with', 'a', 'total', 'impact', 'factor', 'of', '>', '35', ',', 'and', '210', 'journal', 'citations', '(', 'from', 'google', 'scholar', 'citation', 'count', ')', '.']	-1
+293	85	<她的>_Pa	her	[]	['35', ',', 'and', '210', 'journal', 'citations', '(', 'from', 'google', 'scholar', 'citation', 'count', ')', '.']	-1
+294	0	<她>_S	she	[0, 1, 2, 3, 4]	['in', '2020', ',', 'shanghai', 'won', 'the']	-1
+295	1	<她>_S	she	[0, 1, 2, 3, 4, 5, 6]	['he', 'is', 'currently', 'the', 'director', 'of', 'a', 'national']	-1
+296	0	<他>_S	he	0	he	1
+297	9	<他>_S	he	0	he	1
+298	36	<他>_S	he	[]	['means', 'of', 'intelligent', 'design', '.']	-1
+299	0	<他>_S	he	3	he	1
+300	31	<他>_S	he	[40, 41, 42, 43, 44, 45, 46]	['abroad', ',', 'presided', 'over', 'the', 'completion', 'of', 'one']	-1
+301	0	<他>_S	he	0	he	1
+302	0	<他>_S	he	0	he	1
+303	0	<他>_S	he	[0, 1, 2, 3]	['with', 'rich', 'practical', 'management', 'experience']	-1
+304	54	<他>_S	he	[52, 53, 54, 55, 56, 57, 58]	['companies', '(', 'such', 'as', 'dopoint', 'logistics', ',', 'chery']	-1
+305	45	<他>_S	he	[51, 52, 53, 54, 55, 56, 57]	[')', 'and', 'received', 'a', 'ph.d.', 'in', '2005', '.']	-1
+305	50	<他的>_Pa	his	[53, 54]	['received', 'a', 'ph.d.', 'in', '2005', '.']	-1
+306	4	<他>_S	he	3	he	1
+307	2	<他>_S	he	[2, 3, 4, 5, 6]	[',', '13', 'conference', 'summaries', 'were', 'published', '(', 'of', 'which', 'first', 'author', 'or', 'correspondent', ':', '12', ')', 'and', 'a', 'report', 'was', 'invited', 'at', 'the', '40th', 'annual', 'world', 'neuroscience', 'conference', '(', 'san', 'diego', ',', 'united', 'states', ')', 'in', '2010', '.']	-1
+307	21	<他>_S	he	[17]	[')', 'and', 'a', 'report', 'was', 'invited', 'at', 'the', '40th', 'annual', 'world', 'neuroscience', 'conference', '(', 'san', 'diego', ',', 'united', 'states', ')', 'in', '2010', '.']	-1
+308	0	<他>_S	he	0	he	1
+309	0	<他>_S	he	3	he	1
+310	4	<他>_S	he	3	he	1
+311	0	<他>_S	he	[0, 1, 2, 3]	['in', 'january', '–', 'february', '2009']	-1
+312	0	<他>_S	he	6	he	1
+313	6	<他>_S	he	4	he	1
+314	0	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['has', 'been', 'carried', 'out', 'around', 'the', 'coding', 'and']	-1
+315	0	<他>_S	he	3	he	1
+316	4	<他>_S	he	0	he	1
+317	0	<他>_S	he	0	he	1
+318	0	<他的>_Pa	his	0	his	1
+319	3	<他>_S	he	5	he	1
+320	0	<他>_S	he	0	he	1
+321	5	<他>_S	he	0	he	1
+321	15	<他>_S	he	[13, 14, 15, 16, 17, 18, 19, 20, 21, 22]	['2009', ',', 'and', 'a', 'professor', 'of', 'science', 'and', 'technology', 'in', 'china', 'from', '2009', 'to', 'the', 'present', '.']	-1
+322	42	<他>_S	he	0	he	1
+323	0	<他>_S	he	0	he	1
+324	0	<他>_S	he	3	he	1
+325	0	<他>_S	he	4	he	1
+326	0	<他>_S	he	0	he	1
+327	0	<他>_S	he	0	he	1
+327	26	<他>_S	he	[29, 30, 31, 32, 33, 34, 35]	['china', 'from', 'march', '2018', 'to', 'present', ',', 'mainly']	-1
+328	1	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['years', ',', 'we', 'have', 'been', 'working', 'on', 'the']	-1
+329	0	<他>_S	he	3	he	1
+329	22	<他>_S	he	41	he	1
+330	0	<他>_S	he	0	he	1
+331	0	<他的>_Pa	his	[0, 1, 2, 3]	['published', 'in', 'the', 'springer', 'theses']	-1
+332	4	<他>_S	he	0	he	1
+332	18	<他>_S	he	[21, 22, 23, 24, 25, 26, 27]	['2006', ',', 'and', 'his', 'doctor', 'of', 'science', 'degree']	-1
+332	30	<他>_S	he	[28, 29, 30, 31, 32, 33, 34]	['degree', 'from', 'the', 'physics', 'department', 'of', 'the', 'university', 'of', 'science', 'and', 'technology', 'of', 'china', 'from', '2006', 'to', '2011', '.']	-1
+333	4	<他>_S	he	7	he	1
+333	24	<他>_S	he	25	he	1
+334	0	<他>_S	he	0	he	1
+335	0	<他>_S	he	0	he	1
+336	0	<他>_S	he	[0, 1, 2]	['the', 'company', 'has', 'innovatively', 'developed', 'quantum', 'physics', 'experimental', 'technologies', 'such', 'as', 'spin', 'quantum', 'regulation', 'and', 'dynamic', 'decoupling', ',', 'combined', 'with', 'the', 'successful', 'development', 'of', 'a', 'series', 'of', 'high-performance', 'magnetic', 'resonance', 'experimental', 'equipment', ',', 'raised', 'the', 'sensitivity', 'and', 'resolution', 'of', 'magnetic', 'resonance', 'detection', 'to', 'an', 'international', 'leading', 'level', ',', 'and', 'made', 'important', 'international', 'impact', 'research', 'results', 'in', 'novel', 'applications', 'of', 'quantum', 'physics', 'such', 'as', 'quantum', 'precision', 'measurement', 'and', 'quantum', 'computing', '.']	-1
+336	27	<他>_S	he	[21, 22, 23, 24, 25, 26, 27]	['successful', 'development', 'of', 'a', 'series', 'of', 'high-performance', 'magnetic']	-1
+337	0	<他>_S	he	5	he	1
+338	4	<他>_S	he	0	he	1
+339	0	<他>_S	he	0	he	1
+340	0	<他>_S	he	0	he	1
+341	0	<他>_S	he	[0, 1, 2, 3]	['more', 'than', '80', 'doctoral', 'students', 'have', 'been', 'trained', ',', 'five', 'of', 'whom', 'have', 'won', 'the', 'award', 'for', '100', 'outstanding', 'doctoral', 'theses', '.']	-1
+342	4	<他>_S	he	0	he	1
+343	33	<他>_S	he	26	he	1
+344	0	<他>_S	he	[0, 1, 2, 3]	['we', 'are', 'mainly', 'engaged', 'in']	-1
+345	2	<他的>_Pa	his	[0, 1, 2, 3, 4]	['in', '2016', ',', 'he', 'was', 'selected', 'as', 'one', 'of', 'the', '100', 'outstanding', 'doctoral', 'dissertations', 'of', 'the', 'chinese', 'academy', 'of', 'sciences', ',', 'in', '2019', ',', 'he', 'was', 'selected', 'by', 'the', 'young', 'innovation', 'promotion', 'association', 'of', 'the', 'chinese', 'academy', 'of', 'sciences', ',', 'in', '2020', ',', 'he', 'was', 'awarded', 'the', 'national', 'excellent', 'youth', 'foundation', 'of', 'natural', 'sciences', ',', 'and', 'in', '2020', ',', 'he', 'was', 'awarded', 'the', 'hong', 'kong', 'outstanding', 'young', 'scholar', 'award', 'for', 'excellence', '.']	-1
+345	12	<他>_S	he	24	he	1
+346	2	<他>_S	he	0	he	1
+347	0	<他>_S	he	0	he	1
+348	36	<他>_S	he	[31, 32, 33, 34, 35, 36]	['differentiability', 'of', 'multi-photon', 'states', ',', 'the', 'first', 'eight', 'photon', 'entangled', 'states', 'have', 'been', 'prepared', ',', 'breaking', 'the', 'previous', 'record', 'of', 'up', 'to', 'six', 'photon', 'entangled', 'states', '.']	-1
+349	8	<他>_S	he	7	he	1
+349	25	<他>_S	he	[26, 27, 28, 29, 30, 31, 32]	['and', 'graduate', 'student', 'in', '1990', ',', 'and', 'studied']	-1
+350	0	<他>_S	he	0	he	1
+351	0	<他>_S	he	0	he	1
+352	0	<他>_S	he	0	he	1
+353	0	<他>_S	he	[0, 1, 2, 3]	['to', 'design', 'and', 'fabricate', 'semiconductor']	-1
+354	12	<他>_S	he	[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]	['circuits', 'are', 'fabricated', 'by', 'using', 'the', 'relevant', 'key', 'technologies', ',', 'and', 'then', 'single-bit', 'ultrafast', 'universal', 'logic', 'gate', ',', 'two-bit', 'controlled', 'non-gate', 'and', 'three-quantum-bit', 'toffoli', 'gate', 'are', 'realized', '.']	-1
+355	0	<他>_S	he	[0, 1, 2, 3]	['the', 'spin', 'coded', 'quantum', 'bits']	-1
+357	0	<他>_S	he	0	he	1
+358	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'research', 'work', 'mainly', 'focuses']	-1
+359	2	<他>_S	he	5	he	1
+360	0	<他>_S	he	0	he	1
+361	0	<他>_S	he	0	he	1
+362	0	<他>_S	he	0	he	1
+363	0	<他的>_Pa	his	[0, 1, 2, 3, 4, 5]	['the', 'results', 'were', 'selected', 'as', 'the', 'top']	-1
+364	0	<他>_S	he	0	he	1
+365	7	<他>_S	he	[8]	[',', 'received', 'his', 'doctor', 'of', 'science', 'degree', 'from', 'the', 'university', 'of', 'science', 'and', 'technology', 'of', 'china', 'in', '1995', ',', 'and', 'later', 'undertook', 'postdoctoral', 'and', 'visiting', 'studies', 'in', 'japan', ',', 'germany', '(', 'humboldt', 'scholars', ')', 'and', 'hong', 'kong', '.']	-1
+366	0	<他>_S	he	0	he	1
+367	0	<他>_S	he	3	he	1
+368	2	<他>_S	he	5	he	1
+369	80	<他的>_Pa	his	42	his	1
+370	13	<他>_S	he	[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]	['member', 'of', 'the', 'editorial', 'board', 'of', 'isrn', 'physical', 'chemistry', 'and', 'has', 'received', 'two', 'national', 'awards', ',', 'including', 'the', 'american', 'chemical', 'society', '(', 'acs', ')', 'nobel', 'laureate', 'signature', 'award', ',', 'which', 'is', 'the', 'highest', 'honor', 'awarded', 'to', 'a', 'doctoral', 'student', 'by', 'the', 'american', 'chemical', 'society', '(', 'acs', ')', 'and', 'the', 'acs', 'young', 'investigator', 'award', ',', 'which', 'is', 'awarded', 'to', 'five', 'to', 'six', 'students', 'annually', '.']	-1
+371	5	<他>_S	he	3	he	1
+372	45	<他>_S	he	45	he	1
+372	134	<他的>_Pa	his	[]	[')', '.']	-1
+373	4	<他>_S	he	5	he	1
+374	36	<他>_S	he	[31]	['as', 'a', 'jsps', 'fellow', 'at', 'the', 'japan', 'society', 'for', 'the', 'advancement', 'of', 'science', '(', 'jsps', ')', '.']	-1
+375	2	<他>_S	he	6	he	1
+376	0	<他>_S	he	3	he	1
+377	0	<他>_S	he	3	he	1
+377	33	<他>_S	he	[33, 34, 35, 36, 37, 38, 39]	['by', 'humboldt', 'scholars', 'at', 'ruhr', 'university', 'and', 'karlsruhe']	-1
+377	68	<他>_S	he	[]	['scholars', 'at', 'the', 'university', 'of', 'liverpool', 'in', 'the', 'uk', 'under', 'the', 'marie', 'curie', 'action', 'plan', 'of', 'the', 'european', 'union', '.']	-1
+378	0	<他>_S	he	0	he	1
+378	9	<他>_S	he	[10, 11, 12, 13, 14, 15, 16]	['received', 'his', 'ph.d.', 'in', '2013', 'from', 'the', 'national']	-1
+379	0	<他>_S	he	[0]	['by', 'designing', 'the', 'surface', 'of', 'surfactant', 'and', 'nanowire', ',', 'we', 'study', 'the', 'wetting', ',', 'adsorption', 'and', 'assembly', 'laws', 'of', 'nanowire', 'in', 'different', 'environments', 'and', 'interfaces', ',', 'and', 'focus', 'on', 'the', 'relationship', 'between', 'structure', 'and', 'properties', 'of', 'nanowire', 'assembler', ',', 'so', 'as', 'to', 'construct', 'new', 'flexible', 'nanowire', 'functional', 'devices', '.']	-1
+379	22	<他>_S	he	[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]	['nanowire', ',', 'we', 'study', 'the', 'wetting', ',', 'adsorption', 'and', 'assembly', 'laws', 'of', 'nanowire', 'in', 'different', 'environments', 'and', 'interfaces', ',', 'and', 'focus', 'on', 'the', 'relationship', 'between', 'structure', 'and', 'properties', 'of', 'nanowire', 'assembler', ',', 'so', 'as', 'to', 'construct', 'new', 'flexible', 'nanowire', 'functional', 'devices', '.']	-1
+380	2	<他>_S	he	4	he	1
+381	10	<他的>_Pa	his	3	his	1
+381	13	<他>_S	he	[16, 17, 18]	[',', 'and', 'has', 'conducted', 'post-doctoral', 'research', 'in', 'the', 'department', 'of', 'radiation', 'oncology', 'at', 'the', 'school', 'of', 'medicine', 'at', 'the', 'university', 'of', 'north', 'carolina', 'at', 'chapel', 'hill', 'and', 'the', 'lineberger', 'oncology', 'institute', 'at', 'the', 'nanyang', 'technological', 'university', 'in', 'singapore', '.']	-1
+382	0	<他>_S	he	0	he	1
+382	100	<他>_S	he	[92, 93, 94]	[';', 'and', 'has', 'been', 'a', 'primary', 'contact', 'for', 'initiating', 'collaboration', 'on', 'nanopharmaceuticals', 'with', 'prof.', 'kabanov', ',', 'a', 'us', 'inventor', '.']	-1
+383	0	<他的>_Pa	his	[0, 1, 2, 3]	['research', 'is', 'focused', 'on', 'immunotherapy-related']	-1
+384	0	<他>_S	he	0	he	1
+384	21	<他>_S	he	[41, 42, 43, 44, 45, 46]	['academy', 'of', 'sciences', 'in', '1997', '.']	-1
+385	0	<他>_S	he	0	he	1
+386	2	<他>_S	he	0	he	1
+387	0	<他>_S	he	0	he	1
+388	0	<他>_S	he	0	he	1
+389	2	<他>_S	he	0	he	1
+390	2	<他>_S	he	0	he	1
+391	0	<他>_S	he	[0]	['the', 'book', '"', 'introduction', 'to', 'crystalline', 'chemistry', '"', 'was', 'published', 'by', 'the', 'ministry', 'of', 'education', 'in', '2009', '.']	-1
+392	0	<他>_S	he	[0, 1, 2, 3]	['for', 'inorganic', 'chemistry', ',', 'materials']	-1
+393	0	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['than', '900', 'papers', 'have', 'been', 'published', 'in', 'international']	-1
+394	0	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['than', '100', 'doctors', 'were', 'trained', ',', 'nine', 'were']	-1
+395	2	<他>_S	he	0	he	1
+396	2	<他>_S	he	0	he	1
+397	5	<他>_S	he	4	he	1
+398	0	<他>_S	he	[0, 1]	['associate', 'editor', 'of', 'science', 'bulletin', '(', 'q1', 'region', ')', ',', 'editorial', 'board', 'member', 'of', 'science', 'china', 'materials', '(', 'q1', 'region', ')', ',', 'guest', 'editor', 'of', 'small', 'methods', ',', 'young', 'editorial', 'board', 'of', 'inorganic', 'chemistry', 'journal', ',', 'higher', 'chemistry', 'journal', ',', 'member', 'of', 'fuel', 'cell', 'branch', 'of', 'internal', 'combustion', 'engine', 'association', '.']	-1
+399	0	<他>_S	he	[0, 1, 2, 3, 4]	['presided', 'over', 'the', 'youqing', ',', 'youth']	-1
+400	0	<他>_S	he	0	he	1
+401	21	<我们>_S	we	[]	['design', ';', 'using', 'our', 'chemists', "'", 'hands', 'to', 'construct', 'wonderful', 'nanostructures', ',', 'which', 'will', 'be', 'applied', 'in', 'the', 'fields', 'of', 'polyphase', 'catalysis', ',', 'organic', 'catalysis', ',', 'electrocatalysis', ',', 'photocatalysis', 'and', 'so', 'on', '.']	-1
+401	33	<我们>_S	we	[]	[',', 'which', 'will', 'be', 'applied', 'in', 'the', 'fields', 'of', 'polyphase', 'catalysis', ',', 'organic', 'catalysis', ',', 'electrocatalysis', ',', 'photocatalysis', 'and', 'so', 'on', '.']	-1
+402	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'a', 'solid', 'research']	-1
+403	2	<他>_S	he	[0, 1, 2, 3, 4, 5]	['in', 'recent', 'years', ',', 'we', 'focus', 'on']	-1
+404	32	<他>_S	he	[48, 49, 50, 51, 52, 53, 54, 55]	['fellow', 'of', 'the', 'royal', 'society', 'of', 'chemistry', ',', 'is', 'currently', 'vice', 'president', 'of', 'the', 'school', 'of', 'chemistry', 'and', 'materials', 'science', 'and', 'director', 'of', 'the', 'research', 'department', 'of', 'nano-catalysis', 'and', 'energy', 'conversion', 'of', 'hefei', 'national', 'research', 'center', 'for', 'microscale', 'material', 'science', '.']	-1
+405	2	<他>_S	he	3	he	1
+406	0	<他>_S	he	5	he	1
+407	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'published', 'more', 'than']	-1
+408	5	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['100', 'correspondent', 'papers', 'have', 'been', 'published', 'since', '2011']	-1
+409	1	<他>_S	he	0	he	1
+410	9	<他>_S	he	[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]	['born', 'in', 'august', '1967', ',', 'received', 'his', 'doctorate', 'in', 'inorganic', 'chemistry', 'from', 'the', 'department', 'of', 'chemistry', ',', 'university', 'of', 'science', 'and', 'technology', 'of', 'china', 'in', 'october', '1998', '.']	-1
+411	5	<他>_S	he	5	he	1
+412	5	<他>_S	he	5	he	1
+413	0	<他>_S	he	0	he	1
+414	0	<他>_S	he	0	he	1
+415	2	<他>_S	he	0	he	1
+416	12	<他的>_Pa	his	[]	['for', 'energy', 'materials', 'chemistry', 'from', '2013', 'to', '2015', ',', 'and', 'an', 'associate', 'professor', 'at', 'the', 'school', 'of', 'chemistry', 'and', 'materials', 'science', 'of', 'the', 'university', 'of', 'science', 'and', 'technology', 'of', 'china', 'from', '2015', 'to', '2019', '.']	-1
+416	20	<他>_S	he	0	he	1
+416	39	<他>_S	he	[]	['2019', '.']	-1
+417	0	<他>_S	he	[0, 1, 2, 3]	['mainly', 'engaged', 'in', 'low-dimensional', 'solid']	-1
+418	0	<他>_S	he	0	he	1
+419	0	<他>_S	he	0	he	1
+419	22	<他>_S	he	[31, 32, 33, 34, 35, 36, 37]	['national', 'seismological', 'bureau', 'in', 'early', '1985', ',', 'and']	-1
+420	0	<他>_S	he	0	he	1
+421	5	<他>_S	he	7	he	1
+422	24	<他>_S	he	26	he	1
+422	37	<他>_S	he	40	he	1
+422	45	<他>_S	he	51	he	1
+422	53	<他>_S	he	51	he	1
+423	0	<他>_S	he	0	he	1
+424	4	<他>_S	he	5	he	1
+425	0	<他>_S	he	0	he	1
+426	0	<他>_S	he	0	he	1
+427	0	<他>_S	he	0	he	1
+428	14	<他>_S	he	[7, 8, 9, 10, 11, 12]	['in', 'yuhang', ',', 'zhejiang', 'province', ',', 'was', 'elected', 'a', 'fellow', 'of', 'the', 'american', 'geological', 'society', 'and', 'the', 'american', 'mineralogical', 'society', 'in', '2011', ',', 'was', 'elected', 'a', 'fellow', 'of', 'the', 'chinese', 'academy', 'of', 'sciences', 'in', '2017', ',', 'and', 'since', '2019', 'has', 'been', 'a', 'professor', 'and', 'director', 'of', 'the', 'school', 'of', 'earth', 'sciences', 'and', 'engineering', 'of', 'nanjing', 'university', '.']	-1
+428	26	<他>_S	he	[]	['2017', ',', 'and', 'since', '2019', 'has', 'been', 'a', 'professor', 'and', 'director', 'of', 'the', 'school', 'of', 'earth', 'sciences', 'and', 'engineering', 'of', 'nanjing', 'university', '.']	-1
+428	34	<他>_S	he	[44, 45, 46, 47, 48, 49, 50]	['since', '2019', 'has', 'been', 'a', 'professor', 'and', 'director', 'of', 'the', 'school', 'of', 'earth', 'sciences', 'and', 'engineering', 'of', 'nanjing', 'university', '.']	-1
+428	44	<他>_S	he	[27, 28, 29, 30, 31, 32, 33]	['in', '2011', ',', 'was', 'elected', 'a', 'fellow', 'of']	-1
+428	72	<他>_S	he	[30, 31, 32, 33, 34, 35, 36]	['was', 'elected', 'a', 'fellow', 'of', 'the', 'chinese', 'academy']	-1
+429	0	<他>_S	he	0	he	1
+430	0	<他>_S	he	0	he	1
+431	14	<他>_S	he	[12, 13, 14, 15, 16, 17, 18]	[',', 'has', 'been', 'a', 'professor', 'at', 'nanjing', 'university']	-1
+432	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'long', 'been', 'engaged']	-1
+432	21	<他>_S	he	[18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]	['practice', 'in', 'the', 'direction', 'of', 'prevention', 'and', 'control', 'of', 'water', 'pollution', 'in', 'industrial', 'wastewater', 'and', 'industrial', 'parks', ',', 'undertaken', 'a', 'number', 'of', 'national', '863', ',', 'scientific', 'and', 'technological', 'support', 'and', 'major', '/', 'key', 'provincial', 'science', 'and', 'technology', 'projects', ',', 'made', 'systematic', 'innovations', 'in', 'the', 'theory', ',', 'technology', 'and', 'equipment', 'of', 'biological', 'treatment', 'enhancement', ',', 'opened', 'up', 'a', 'new', 'field', 'of', 'synergistic', 'regulation', 'and', 'control', 'of', 'biological', 'treatment', 'of', 'complex', 'wastewater', 'in', 'china', 'and', 'applied', 'research', 'in', 'engineering', ',', 'and', 'made', 'important', 'contributions', 'in', 'the', 'chemical', ',', 'pharmaceutical', ',', 'printing', 'and', 'dyeing', 'and', 'wastewater', 'treatment', 'in', 'industrial', 'parks', 'to', 'meet', 'standards', 'and', 'discharge', 'standards', ',', 'improve', 'efficiency', 'and', 'raise', 'standards', ',', 'and', 'reclaim', 'engineering', 'practices', '.']	-1
+433	0	<他>_S	he	0	he	1
+433	54	<他>_S	he	106	he	1
+433	77	<他>_S	he	68	he	1
+433	93	<他>_S	he	74	he	1
+433	110	<他>_S	he	106	he	1
+434	4	<他>_S	he	0	he	1
+435	3	<他>_S	he	[0, 1, 2, 3, 4, 5, 6, 7]	['1996-2000', 'postdoctoral', 'studies', 'in', 'japan', 'and', 'australia', ',', 'respectively', '.']	-1
+436	2	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['2001', ',', 'it', 'was', 'introduced', 'from', 'australia', 'to']	-1
+437	0	<他>_S	he	0	he	1
+438	0	<他>_S	he	0	he	1
+439	0	<他>_S	he	0	he	1
+440	15	<他>_S	he	[19, 20, 21, 22, 23, 24, 25]	['has', 'studied', 'and', 'worked', 'abroad', 'for', 'ten', 'years']	-1
+440	30	<他>_S	he	[]	[';', 'former', 'director', 'of', 'the', 'national', 'key', 'laboratory', 'of', 'coordination', 'chemistry', 'at', 'nanjing', 'university', ',', 'dean', 'of', 'the', 'college', 'of', 'chemical', 'chemistry', ',', 'etc', '.', ';', 'has', 'been', 'funded', 'by', 'the', 'national', 'outstanding', 'youth', 'fund', ',', 'innovation', 'research', 'group', 'of', 'the', 'national', 'natural', 'science', 'foundation', 'of', 'china', ',', '973', 'and', 'other', 'projects', ',', 'is', 'now', 'deputy', 'director', 'of', 'the', 'academic', 'committee', 'of', 'the', 'national', 'key', 'laboratory', 'of', 'coordination', 'chemistry', 'at', 'nanjing', 'university', ',', 'deputy', 'editor', 'of', 'coord', 'chem', 'rev', '.']	-1
+440	45	<他>_S	he	[59, 60, 61, 62, 63, 64, 65]	['etc', '.', ';', 'has', 'been', 'funded', 'by', 'the']	-1
+440	62	<他>_S	he	[64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88]	['funded', 'by', 'the', 'national', 'outstanding', 'youth', 'fund', ',', 'innovation', 'research', 'group', 'of', 'the', 'national', 'natural', 'science', 'foundation', 'of', 'china', ',', '973', 'and', 'other', 'projects', ',', 'is', 'now', 'deputy', 'director', 'of', 'the', 'academic', 'committee', 'of', 'the', 'national', 'key', 'laboratory', 'of', 'coordination', 'chemistry', 'at', 'nanjing', 'university', ',', 'deputy', 'editor', 'of', 'coord', 'chem', 'rev', '.']	-1
+441	0	<他>_S	he	0	he	1
+441	38	<他>_S	he	[52, 53, 54, 55, 56, 57, 58]	['of', 'sciences', 'in', '2002', ',', 'elected', 'a', 'member']	-1
+441	69	<他>_S	he	[86, 87, 88, 89, 90]	['and', 'published', 'eight', 'monographs', '.']	-1
+442	0	<他>_S	he	15	he	1
+443	0	<他>_S	he	0	he	1
+444	0	<他>_S	he	[0, 1, 2, 3]	['long-term', 'research', 'in', 'geophysics', 'and']	-1
+445	0	<他>_S	he	0	he	1
+445	8	<他>_S	he	[8, 9, 10, 11, 12, 13, 14]	['academy', 'of', 'sciences', 'in', '1993', ',', 'received', 'the']	-1
+445	17	<他>_S	he	[29, 30, 31, 32, 33, 34, 35]	[',', 'and', 'was', 'elected', 'a', 'member', 'of', 'the']	-1
+446	0	<他>_S	he	0	he	1
+446	15	<他>_S	he	[25, 26, 27, 28, 29, 30, 31, 32]	['chairman', 'of', 'the', 'chinese', 'geophysics', 'society', ',', 'and', 'is', 'currently', 'a', 'professor', 'in', 'the', 'school', 'of', 'earth', 'sciences', 'and', 'engineering', 'of', 'nanjing', 'university', '.']	-1
+447	0	<他>_S	he	0	he	1
+448	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'undertaken', 'a', 'number']	-1
+449	0	<他>_S	he	[]	['won', 'the', 'second', 'prize', 'of', 'national', 'natural', 'science', 'and', 'the', 'first', 'prize', 'of', 'science', 'and', 'technology', 'of', 'jiangsu', 'province', '.']	-1
+450	0	<他>_S	he	0	he	1
+451	0	<他>_S	he	0	he	1
+452	0	<他>_S	he	0	he	1
+453	0	<他>_S	he	0	he	1
+454	0	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['the', 'large', 'magnetic', 'entropy', 'change', 'effect', 'of', 'manganese', 'perovskite', 'compounds', 'and', 'tunnel', 'magnetoresistance', 'effect', 'in', 'small', 'particle', 'system', 'of', 'manganese', 'perovskite', 'compounds', 'were', 'studied', '.', 'the', 'small', 'size', 'effect', 'and', 'surface', 'effect', 'of', 'magnetic', 'nanoparticles', ',', 'and', 'the', 'dependence', 'of', 'giant', 'magnetoresistance', ',', 'magneto-optic', 'effect', ',', 'anomalous', 'hall', 'effect', 'and', 'microstructure', 'on', 'particle', 'film', 'were', 'studied', '.']	-1
+455	1	<他的>_Pa	his	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]	['at', 'present', ',', 'the', 'magnetism', 'of', 'nanomaterials', 'and', 'the', 'transport', 'properties', 'related', 'to', 'spin', 'are', 'mainly', 'studied', '.']	-1
+456	2	<他>_S	he	[0, 1, 2, 3, 4]	['in', 'addition', ',', 'in', 'the', '1980s']	-1
+457	0	<他>_S	he	0	he	1
+458	0	<他>_S	he	0	he	1
+459	0	<他>_S	he	[23, 24, 25, 26, 27, 28, 29]	['application', 'to', 'obtain', 'a', 'series', 'of', 'results', '.']	-1
+460	0	<他>_S	he	0	he	1
+461	0	<他>_S	he	0	he	1
+462	0	<他>_S	he	0	he	1
+463	0	<他>_S	he	0	he	1
+464	0	<他>_S	he	0	he	1
+465	0	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['has', 'been', 'carried', 'out', 'in', 'the', 'fields', 'of']	-1
+466	0	<他>_S	he	13	he	1
+467	0	<他>_S	he	0	he	1
+468	0	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['it', 'has', 'also', 'won', 'eight', 'provincial', 'and', 'ministerial-level']	-1
+469	0	<他>_S	he	0	he	1
+470	0	<他>_S	he	[0, 1, 2]	['born', '17', 'january', '1934', 'in', 'ruian', ',', 'zhejiang', '.']	-1
+471	0	<他>_S	he	0	he	1
+472	0	<他>_S	he	0	he	1
+473	16	<它>_S	it	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]	['first', ',', 'the', 'conclusion', 'that', 'the', 'north', 'slope', 'of', 'large', 'topography', 'is', 'conducive', 'to', 'the', 'development', 'of', 'atmospheric', 'disturbance', 'and', 'the', 'wave', 'moves', 'faster', 'on', 'the', 'north', 'slope', 'is', 'put', 'forward', 'in', 'theory', ',', 'which', 'explains', 'the', 'phenomena', 'observed', 'in', 'practice', ';', 'the', 'model', 'of', 'atmospheric', 'boundary', 'layer', 'dynamics', 'in', 'four-force', 'equilibrium', 'is', 'established', 'for', 'the', 'first', 'time', 'with', 'the', 'collaborators', ',', 'and', 'the', 'action', 'of', 'inertial', 'forces', 'on', 'the', 'boundary', 'layer', 'is', 'dealt', 'with', 'completely', 'by', 'the', 'approximation', 'of', 'ground', 'rotation', ',', 'which', 'provides', 'a', 'new', 'dynamic', 'framework', 'for', 'understanding', 'the', 'dynamic', 'characteristics', 'of', 'the', 'boundary', 'layer', ';', 'the', 'combination', 'of', 'geostrophic', 'adaptation', 'process', 'and', 'frontal', 'dynamics', 'further', 'enriches', 'the', 'understanding', 'of', 'frontal', 'dynamic', 'process', '.']	-1
+473	65	<他>_S	he	[43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]	['model', 'of', 'atmospheric', 'boundary', 'layer', 'dynamics', 'in', 'four-force', 'equilibrium', 'is', 'established', 'for', 'the', 'first', 'time', 'with', 'the', 'collaborators', ',', 'and', 'the', 'action', 'of', 'inertial', 'forces', 'on', 'the', 'boundary', 'layer', 'is', 'dealt', 'with', 'completely', 'by', 'the', 'approximation', 'of', 'ground', 'rotation', ',', 'which', 'provides', 'a', 'new', 'dynamic', 'framework', 'for', 'understanding', 'the', 'dynamic', 'characteristics', 'of', 'the', 'boundary', 'layer', ';', 'the', 'combination', 'of', 'geostrophic', 'adaptation', 'process', 'and', 'frontal', 'dynamics', 'further', 'enriches', 'the', 'understanding', 'of', 'frontal', 'dynamic', 'process', '.']	-1
+474	29	<他>_S	he	40	he	1
+474	59	<他>_S	he	[]	['president', 'of', 'the', '25th', 'china', 'meteorological', 'society', ',', 'making', 'important', 'contributions', 'to', 'the', 'development', 'of', 'atmospheric', 'science', 'education', 'in', 'china', "'s", 'meteorological', 'cause', '.']	-1
+475	0	<他的>_Pa	his	[0, 1, 2, 3]	['representative', 'works', 'include', 'dynamic', 'meteorology']	-1
+476	0	<他>_S	he	0	he	1
+477	0	<他>_S	he	0	he	1
+478	0	<他>_S	he	0	he	1
+479	0	<他>_S	he	0	he	1
+480	0	<他>_S	he	0	he	1
+481	0	<他>_S	he	0	he	1
+482	8	<他>_S	he	10	he	1
+483	0	<他>_S	he	0	he	1
+484	0	<他>_S	he	[0, 1, 2, 3]	['long-term', 'research', 'on', 'multiphase', 'catalysis']	-1
+485	0	<他>_S	he	[0, 1, 2, 3]	['the', 'key', 'laboratory', 'of', 'mesoscopic', 'chemistry', 'established', 'by', 'the', 'ministry', 'of', 'education', 'and', 'the', 'joint', 'laboratory', 'of', 'catalysis', 'materials', 'and', 'technology', 'of', 'nanjing', 'university-sinopec', 'shanghai', 'institute', 'of', 'petrochemical', 'have', 'made', 'good', 'progress', 'in', 'the', 'research', 'of', '"', 'bottom-up', '"', 'synthesis', 'of', 'mesoscopic', 'structural', 'materials', 'and', 'their', 'applications', 'in', 'catalysis', 'and', 'multi-functional', 'materials', ',', 'as', 'well', 'as', 'in', 'the', 'combination', 'of', 'theory', 'and', 'experiment', ',', 'chemistry', 'and', 'engineering', '.']	-1
+486	0	<他>_S	he	0	he	1
+487	0	<他>_S	he	3	he	1
+488	0	<他>_S	he	0	he	1
+489	4	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['1981-1984', 'studied', 'at', 'the', 'university', 'of', 'mainz', 'in']	-1
+490	0	<他>_S	he	0	he	1
+491	0	<他>_S	he	0	he	1
+492	0	<他>_S	he	0	he	1
+493	0	<他>_S	he	0	he	1
+494	0	<他>_S	he	0	he	1
+495	0	<他>_S	he	0	he	1
+496	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['first', ',', 'it', 'is', 'found', 'and', 'proved']	-1
+497	0	<他>_S	he	[]	['"', 'from', 'ordered', 'to', 'chaotic', 'motion', 'in', 'celestial', 'mechanics', '"', '(', 'co-authored', 'with', 'zhou', 'liyong', ')', '.']	-1
+498	0	<他>_S	he	[0, 1, 2, 3]	['won', 'the', 'first', 'prize', 'of']	-1
+499	0	<他>_S	he	0	he	1
+500	2	<他>_S	he	3	he	1
+501	0	<他>_S	he	0	he	1
+502	8	<他>_S	he	[7, 8, 9, 10, 11, 12, 13]	['large', 'telescope', ',', 'a', 'series', 'of', 'new', 'broken']	-1
+503	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['together', 'with', 'wang', 'yanan', ',', 'a', 'special']	-1
+504	0	<他>_S	he	[]	['a', 'new', 'idea', 'of', 'using', 'active', 'optics', 'to', 'produce', 'an', 'optical', 'system', 'that', 'can', 'not', 'be', 'realized', 'by', 'traditional', 'concept', 'is', 'put', 'forward', ',', 'and', 'a', 'preliminary', 'plan', 'of', 'lamost', ',', 'a', 'national', 'major', 'scientific', 'project', ',', 'is', 'put', 'forward', 'jointly', 'with', 'the', 'crown', 'prince', '.']	-1
+504	21	<他>_S	he	[23]	[',', 'and', 'a', 'preliminary', 'plan', 'of', 'lamost', ',', 'a', 'national', 'major', 'scientific', 'project', ',', 'is', 'put', 'forward', 'jointly', 'with', 'the', 'crown', 'prince', '.']	-1
+505	0	<他>_S	he	[]	['leading', 'the', 'development', 'of', 'china', "'s", 'first', 'lyot', 'birefringence', 'filter', ',', 'the', 'first', 'active', 'optical', 'experimental', 'system', '.']	-1
+506	0	<他>_S	he	0	he	1
+507	0	<他的>_Pa	his	[0, 1, 2, 3]	['represented', 'as', '"', 'china', '2.16']	-1
+508	0	<他>_S	he	0	he	1
+509	0	<她>_S	she	[0, 1, 2, 3, 4]	['in', '1956', ',', 'he', 'graduated', 'from']	-1
+510	2	<她>_S	she	[1, 2, 3, 4, 5, 6, 7]	['1991', ',', 'he', 'was', 'elected', 'a', 'member', 'of']	-1
+511	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'was', 'the', 'director', 'of', 'the']	-1
+512	0	<她>_S	she	[0, 1, 2, 3]	['long', 'engaged', 'in', 'ultrasonic', 'physics']	-1
+513	32	<她>_S	she	[]	[',', 'as', 'well', 'as', 'structural', 'analysis', ',', 'parametric', 'characterization', 'and', 'non-destructive', 'evaluation', 'of', 'condensed', 'matter', '.']	-1
+514	0	<她>_S	she	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]	['two', 'divergent', 'points', 'of', 'ultrasonic', 'relaxation', 'process', 'in', 'ethyl', 'acetate', 'are', 'clarified', '.', 'focusing', 'effect', 'on', 'the', 'acoustic', 'field', 'excited', 'by', 'a', 'circular', 'curved', 'cross', 'finger', 'transducer', 'on', 'lithium', 'niobate', 'substrate', 'is', 'studied', '.']	-1
+515	0	<她>_S	she	[0, 1, 2, 3]	['the', 'photoacoustic', 'imaging', 'of', 'integrated']	-1
+516	2	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'was', 'awarded', 'the', 'science', 'and']	-1
+517	0	<他的>_Pa	his	[0, 1, 2, 3]	['academic', 'research', 'focuses', 'on', 'aesthetics']	-1
+518	0	<他>_S	he	0	he	1
+519	0	<他>_S	he	0	he	1
+520	0	<他>_S	he	0	he	1
+521	0	<他>_S	he	0	he	1
+522	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'published', '17', 'monographs']	-1
+523	15	<他>_S	he	[22, 23, 24, 25, 26, 27, 28]	['nanjing', 'university', 'with', 'a', 'bachelor', "'s", 'degree', ',']	-1
+524	0	<他>_S	he	0	he	1
+524	7	<他>_S	he	0	he	1
+524	18	<他>_S	he	33	he	1
+525	0	<他的>_Pa	his	[28, 29, 30, 31, 32, 33, 34]	['of', 'the', 'mind', 'was', 'published', 'by', 'macmillan', 'publishing']	-1
+525	8	<他>_S	he	[13]	[':', 'devoted', 'to', 'the', 'study', 'of', 'british', 'classic', 'literature', ',', 'the', 'english', 'academic', 'monograph', 'theatre', 'of', 'the', 'mind', 'was', 'published', 'by', 'macmillan', 'publishing', 'company', 'in', '1990', ';', 'focused', 'on', 'contemporary', 'foreign', 'literature', ',', 'published', 'a', 'four-volume', 'study', 'of', 'the', 'post-war', 'world', 'process', 'and', 'foreign', 'literature', 'process', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '1st', 'prize', ')', 'and', 'the', 'first', 'domestic', 'study', 'of', 'contemporary', 'american', 'writer', 'and', 'nobel', 'laureate', 'in', 'literature', ',', 'morrison', "'s", 'monograph', 'gender', ',', 'race', 'and', 'culture', ';', 'rich', 'achievements', 'in', 'foreign', 'literature', 'history', ',', 'covering', 'the', 'general', 'history', 'of', 'national', 'literature', ',', 'new', 'history', 'of', 'american', 'literature', '(', 'chinese', 'university', 'humanities', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '2nd', 'prize', ')', ',', 'the', 'history', 'of', 'ancient', 'literature', ',', 'the', 'history', 'of', '20th', 'century', 'british', 'literature', ',', 'the', 'history', 'of', 'literary', 'criticism', 'of', 'british', 'literature', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'excellent', 'achievement', 'award', '1st', 'prize', ')', ';', 'based', 'on', 'china', ',', 'the', 'study', 'of', 'contemporary', 'realism', 'to', 'the', 'world', ',', 'led', 'research', 'columns', 'in', 'major', 'academic', 'journals', 'at', 'home', 'and', 'abroad']	-1
+525	15	<他的>_Pa	his	[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]	['research', ':', 'devoted', 'to', 'the', 'study', 'of', 'british', 'classic', 'literature', ',', 'the', 'english', 'academic', 'monograph', 'theatre', 'of', 'the', 'mind', 'was', 'published', 'by', 'macmillan', 'publishing', 'company', 'in', '1990', ';', 'focused', 'on', 'contemporary', 'foreign', 'literature', ',', 'published', 'a', 'four-volume', 'study', 'of', 'the', 'post-war', 'world', 'process', 'and', 'foreign', 'literature', 'process', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '1st', 'prize', ')', 'and', 'the', 'first', 'domestic', 'study', 'of', 'contemporary', 'american', 'writer', 'and', 'nobel', 'laureate', 'in', 'literature', ',', 'morrison', "'s", 'monograph', 'gender', ',', 'race', 'and', 'culture', ';', 'rich', 'achievements', 'in', 'foreign', 'literature', 'history', ',', 'covering', 'the', 'general', 'history', 'of', 'national', 'literature', ',', 'new', 'history', 'of', 'american', 'literature', '(', 'chinese', 'university', 'humanities', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '2nd', 'prize', ')', ',', 'the', 'history', 'of', 'ancient', 'literature', ',', 'the', 'history', 'of', '20th', 'century', 'british', 'literature', ',', 'the', 'history', 'of', 'literary', 'criticism', 'of', 'british', 'literature', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'excellent', 'achievement', 'award', '1st', 'prize', ')', ';', 'based', 'on', 'china', ',', 'the', 'study', 'of', 'contemporary', 'realism', 'to', 'the', 'world', ',', 'led', 'research', 'columns', 'in', 'major', 'academic', 'journals', 'at', 'home', 'and', 'abroad']	-1
+525	44	<他>_S	he	[39]	[';', 'focused', 'on', 'contemporary', 'foreign', 'literature', ',', 'published', 'a', 'four-volume', 'study', 'of', 'the', 'post-war', 'world', 'process', 'and', 'foreign', 'literature', 'process', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '1st', 'prize', ')', 'and', 'the', 'first', 'domestic', 'study', 'of', 'contemporary', 'american', 'writer', 'and', 'nobel', 'laureate', 'in', 'literature', ',', 'morrison', "'s", 'monograph', 'gender', ',', 'race', 'and', 'culture', ';', 'rich', 'achievements', 'in', 'foreign', 'literature', 'history', ',', 'covering', 'the', 'general', 'history', 'of', 'national', 'literature', ',', 'new', 'history', 'of', 'american', 'literature', '(', 'chinese', 'university', 'humanities', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '2nd', 'prize', ')', ',', 'the', 'history', 'of', 'ancient', 'literature', ',', 'the', 'history', 'of', '20th', 'century', 'british', 'literature', ',', 'the', 'history', 'of', 'literary', 'criticism', 'of', 'british', 'literature', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'excellent', 'achievement', 'award', '1st', 'prize', ')', ';', 'based', 'on', 'china', ',', 'the', 'study', 'of', 'contemporary', 'realism', 'to', 'the', 'world', ',', 'led', 'research', 'columns', 'in', 'major', 'academic', 'journals', 'at', 'home', 'and', 'abroad']	-1
+525	89	<他>_S	he	[95, 96, 97, 98]	[';', 'rich', 'achievements', 'in', 'foreign', 'literature', 'history', ',', 'covering', 'the', 'general', 'history', 'of', 'national', 'literature', ',', 'new', 'history', 'of', 'american', 'literature', '(', 'chinese', 'university', 'humanities', 'and', 'social', 'sciences', 'outstanding', 'achievement', 'award', '2nd', 'prize', ')', ',', 'the', 'history', 'of', 'ancient', 'literature', ',', 'the', 'history', 'of', '20th', 'century', 'british', 'literature', ',', 'the', 'history', 'of', 'literary', 'criticism', 'of', 'british', 'literature', '(', 'jiangsu', 'province', 'philosophy', 'and', 'social', 'sciences', 'excellent', 'achievement', 'award', '1st', 'prize', ')', ';', 'based', 'on', 'china', ',', 'the', 'study', 'of', 'contemporary', 'realism', 'to', 'the', 'world', ',', 'led', 'research', 'columns', 'in', 'major', 'academic', 'journals', 'at', 'home', 'and', 'abroad']	-1
+525	140	<他的>_Pa	his	[165, 166, 167, 168, 169, 170, 171, 172]	[';', 'based', 'on', 'china', ',', 'the', 'study', 'of', 'contemporary', 'realism', 'to', 'the', 'world', ',', 'led', 'research', 'columns', 'in', 'major', 'academic', 'journals', 'at', 'home', 'and', 'abroad']	-1
+525	149	<他>_S	he	[177, 178, 179, 180, 181]	['world', ',', 'led', 'research', 'columns', 'in', 'major', 'academic', 'journals', 'at', 'home', 'and', 'abroad']	-1
+526	6	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	[',', 'a', 'lide', 'shu', 'person', ',', 'presided', 'over', 'the', '"', 'innovation', 'and', 'practice', 'of', 'cross-cultural', 'competence', 'training', 'system', 'for', 'high', 'quality', 'foreign', 'language', 'talents', '"', ',', 'won', 'the', 'first', 'prize', 'of', 'national', 'teaching', 'achievement', '(', '2018', ')', ',', 'and', 'two', 'other', 'teaching', 'reform', 'topics', 'won', 'the', 'second', 'prize', 'of', 'national', 'teaching', 'achievement', '(', '1997', ',', '2005', ')', ',', 'compiled', 'a', 'variety', 'of', 'national', 'planning', 'textbooks', ',', 'compulsory', 'middle', 'school', '"', 'english', '"', 'and', 'general', 'high', 'school', '"', 'english', '"', 'national', 'curriculum', 'textbooks', 'used', 'in', 'jiangsu', 'province', 'and', 'some', 'other', 'provinces', 'and', 'cities', 'throughout', 'the', 'country', ',', 'the', 'number', 'of', 'students', 'using', 'tens', 'of', 'millions', '.']	-1
+526	30	<他>_S	he	[43, 44, 45, 46, 47, 48, 49]	['teaching', 'reform', 'topics', 'won', 'the', 'second', 'prize', 'of']	-1
+526	46	<他>_S	he	[58, 59]	[')', ',', 'compiled', 'a', 'variety', 'of', 'national', 'planning', 'textbooks', ',', 'compulsory', 'middle', 'school', '"', 'english', '"', 'and', 'general', 'high', 'school', '"', 'english', '"', 'national', 'curriculum', 'textbooks', 'used', 'in', 'jiangsu', 'province', 'and', 'some', 'other', 'provinces', 'and', 'cities', 'throughout', 'the', 'country', ',', 'the', 'number', 'of', 'students', 'using', 'tens', 'of', 'millions', '.']	-1
+526	53	<他>_S	he	[62, 63, 64, 65, 66, 67]	['variety', 'of', 'national', 'planning', 'textbooks', ',', 'compulsory', 'middle', 'school', '"', 'english', '"', 'and', 'general', 'high', 'school', '"', 'english', '"', 'national', 'curriculum', 'textbooks', 'used', 'in', 'jiangsu', 'province', 'and', 'some', 'other', 'provinces', 'and', 'cities', 'throughout', 'the', 'country', ',', 'the', 'number', 'of', 'students', 'using', 'tens', 'of', 'millions', '.']	-1
+527	9	<他>_S	he	[10, 11, 12, 13, 14, 15, 16]	[',', 'is', 'now', 'the', 'director', 'of', 'the', 'research']	-1
+528	3	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['since', '1989', ',', 'it', 'has', 'received', 'one', 'major']	-1
+529	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'won', 'seven', 'provincial']	-1
+530	39	<他>_S	he	[]	['june', '1997', 'was', 'vice', 'president', 'of', 'nanjing', 'university', '.']	-1
+530	53	<他>_S	he	[43, 44, 45, 46, 47, 48, 49, 50, 51]	['from', 'march', '1993', 'to', 'june', '1997', 'was', 'vice', 'president', 'of', 'nanjing', 'university', '.']	-1
+531	0	<他>_S	he	[0, 1, 2, 3]	['mainly', 'engaged', 'in', 'political', 'science']	-1
+532	51	<他>_S	he	[20, 21, 22, 23, 24, 25, 26]	['such', 'important', 'publications', 'as', 'political', 'science', 'research', ',']	-1
+533	2	<他>_S	he	3	he	1
+534	0	<他>_S	he	0	he	1
+535	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'areas', 'of', 'research']	-1
+536	2	<他>_S	he	3	he	1
+537	4	<他>_S	he	4	he	1
+538	4	<他>_S	he	0	he	1
+539	2	<他>_S	he	3	he	1
+540	0	<他>_S	he	0	he	1
+541	0	<他的>_Pa	his	0	his	1
+542	0	<他>_S	he	0	he	1
+543	10	<他>_S	he	[8, 9, 10, 11, 12, 13, 14, 15, 16]	['zhangzhou', ',', 'fujian', 'province', ',', 'graduated', 'from', 'nanjing', 'university', 'in', '1985', 'with', 'a', 'ph.d.', ',', 'was', 'awarded', 'by', 'the', 'academic', 'degrees', 'committee', 'of', 'the', 'state', 'council', 'in', '1991', 'as', 'a', '"', 'chinese', 'doctor', 'who', 'has', 'made', 'outstanding', 'contributions', 'to', 'the', 'work', '"', ',', 'in', '1993', 'by', 'the', 'academic', 'degrees', 'committee', 'of', 'the', 'state', 'council', 'as', 'a', 'doctoral', 'tutor', ',', 'is', 'now', 'a', 'professor', 'of', 'philosophy', 'at', 'nanjing', 'university', ',', 'director', 'of', 'the', 'institute', 'of', 'chinese', 'culture', '.']	-1
+543	23	<他>_S	he	[]	['who', 'has', 'made', 'outstanding', 'contributions', 'to', 'the', 'work', '"', ',', 'in', '1993', 'by', 'the', 'academic', 'degrees', 'committee', 'of', 'the', 'state', 'council', 'as', 'a', 'doctoral', 'tutor', ',', 'is', 'now', 'a', 'professor', 'of', 'philosophy', 'at', 'nanjing', 'university', ',', 'director', 'of', 'the', 'institute', 'of', 'chinese', 'culture', '.']	-1
+543	46	<他>_S	he	[64, 65, 66, 67, 68, 69, 70]	['doctoral', 'tutor', ',', 'is', 'now', 'a', 'professor', 'of']	-1
+544	0	<他的>_Pa	his	0	his	1
+545	5	<他>_S	he	5	he	1
+545	15	<他>_S	he	33	he	1
+546	4	<他>_S	he	8	he	1
+547	0	<他>_S	he	0	he	1
+548	0	<他>_S	he	0	he	1
+549	2	<他>_S	he	3	he	1
+549	16	<他>_S	he	26	he	1
+550	9	<他>_S	he	7	he	1
+550	30	<他>_S	he	46	he	1
+550	49	<他>_S	he	74	he	1
+551	0	<他>_S	he	7	he	1
+552	5	<他>_S	he	[4, 5, 6, 7, 8, 9, 10]	['party', 'committee', 'of', 'tongji', 'university', 'for', 'humanities', 'since']	-1
+553	0	<他>_S	he	0	he	1
+554	0	<他>_S	he	0	he	1
+555	0	<他>_S	he	0	he	1
+556	0	<他>_S	he	0	he	1
+557	0	<他>_S	he	[0, 1, 2, 3]	['participated', 'in', 'the', 'national', 'social']	-1
+558	0	<他>_S	he	0	he	1
+558	29	<他>_S	he	[]	['than', '60', 'articles', 'in', 'various', 'academic', 'journals', ',', 'and', 'won', 'the', 'baosteel', 'excellent', 'teacher', 'award', ',', 'the', 'shanghai', 'excellent', 'teacher', 'award', 'and', 'other', 'awards', 'and', 'honors', 'from', 'provinces', ',', 'cities', 'and', 'schools', 'more', 'than', '10', 'times', '.']	-1
+559	4	<他>_S	he	[16, 17, 18, 19, 20, 21, 22]	['"', ',', 'it', 'won', 'the', 'first', 'prize', 'for']	-1
+560	21	<他>_S	he	37	he	1
+561	0	<他>_S	he	0	he	1
+561	24	<他>_S	he	[29]	[',', 'presided', 'over', 'the', 'course', 'of', 'introduction', 'to', 'basic', 'marxist', 'principles', 'was', 'awarded', 'the', 'title', 'of', 'national', 'quality', 'resource', 'sharing', 'class', ',', 'baosteel', 'excellent', 'teacher', 'award', ',', 'provincial', 'social', 'science', 'outstanding', 'achievement', 'award', 'and', 'other', 'provincial', 'awards', 'above', '4', '.']	-1
+561	39	<他>_S	he	[43, 44, 45, 46, 47, 48, 49, 50]	['title', 'of', 'national', 'quality', 'resource', 'sharing', 'class', ',', 'baosteel', 'excellent', 'teacher', 'award', ',', 'provincial', 'social', 'science', 'outstanding', 'achievement', 'award', 'and', 'other', 'provincial', 'awards', 'above', '4', '.']	-1
+562	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'has', 'published', 'more', 'than', '40']	-1
+563	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'was', 'responsible', 'for', 'teaching', 'courses']	-1
+564	0	<他的>_Pa	his	[0, 1, 2, 3]	['the', 'main', 'research', 'areas', 'are']	-1
+565	0	<他>_S	he	0	he	1
+566	0	<他>_S	he	0	he	1
+567	0	<他>_S	he	0	he	1
+568	2	<他>_S	he	0	he	1
+569	0	<他>_S	he	0	he	1
+570	0	<他>_S	he	0	he	1
+571	0	<他>_S	he	[0, 1, 2, 3]	['has', 'chaired', 'the', 'national', 'social']	-1
+572	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'hosted', 'three', 'thematic']	-1
+573	0	<他>_S	he	[0, 1, 2, 3]	['awarded', 'by', 'the', 'department', 'of']	-1
+574	0	<他>_S	he	[]	['selected', 'by', 'the', 'ministry', 'of', 'education', '"', '2015', 'national', 'excellent', 'young', 'and', 'middle', 'school', 'ideological', 'and', 'political', 'theory', 'teachers', 'merit-based', 'funding', 'plan', '"', ',', 'the', 'ministry', 'of', 'education', '"', '2014', 'national', 'university', 'ideological', 'and', 'political', 'theory', 'teachers', 'influential', 'nominees', '"', ',', 'shanghai', 'municipal', 'education', 'commission', "'s", 'first', 'ideological', 'and', 'political', 'theory', 'teachers', 'outstanding', 'talent', 'training', 'class', 'plan', '.']	-1
+575	44	<他>_S	he	0	he	1
+576	0	<他>_S	he	0	he	1
+576	21	<他>_S	he	[20, 21, 22, 23, 24, 25, 26, 27, 28]	['two', 'projects', 'at', 'the', 'provincial', 'and', 'ministerial', 'levels', ',', 'chaired', 'and', 'completed', 'government-commissioned', 'projects', ',', 'other', 'horizontal', 'projects', 'and', 'a', 'number', 'of', 'school-level', 'projects', ',', 'and', 'won', 'a', 'number', 'of', 'awards', 'for', 'teaching', 'and', 'scientific', 'research', 'achievements', 'at', 'the', 'provincial', 'and', 'ministerial', 'levels', ',', 'including', 'the', '2015', 'china', 'financial', 'book', '"', 'golden', 'goat', 'award', '"', ',', 'the', '2016', 'second', 'prize', 'in', 'the', 'category', 'of', 'excellent', 'works', 'in', 'the', 'research', 'and', 'publicity', 'of', 'the', 'eleventh', 'theory', 'system', 'of', 'socialism', 'with', 'chinese', 'characteristics', 'in', 'shanghai', ',', 'and', 'the', '2019', 'shanghai', 'yucai', 'award', '.']	-1
+576	36	<他>_S	he	[]	['number', 'of', 'awards', 'for', 'teaching', 'and', 'scientific', 'research', 'achievements', 'at', 'the', 'provincial', 'and', 'ministerial', 'levels', ',', 'including', 'the', '2015', 'china', 'financial', 'book', '"', 'golden', 'goat', 'award', '"', ',', 'the', '2016', 'second', 'prize', 'in', 'the', 'category', 'of', 'excellent', 'works', 'in', 'the', 'research', 'and', 'publicity', 'of', 'the', 'eleventh', 'theory', 'system', 'of', 'socialism', 'with', 'chinese', 'characteristics', 'in', 'shanghai', ',', 'and', 'the', '2019', 'shanghai', 'yucai', 'award', '.']	-1
+577	0	<他>_S	he	0	he	1
+578	0	<他>_S	he	[0, 1, 2, 3, 4]	['presided', 'over', 'the', 'provincial', 'and', 'ministerial']	-1
+579	0	<他>_S	he	0	he	1
+579	20	<他>_S	he	[]	['of', 'the', '"', 'two', 'courses', '"', 'teaching', 'steering', 'committee', 'of', 'the', 'state', 'education', 'commission', 'in', 'the', 'same', 'year', ',', 'and', 'was', 'appointed', 'a', 'second-class', 'professor', 'in', '2011', '.']	-1
+579	27	<他>_S	he	[29, 30, 31, 32, 33, 34, 35]	['year', ',', 'and', 'was', 'appointed', 'a', 'second-class', 'professor']	-1
+580	4	<他>_S	he	3	he	1
+581	2	<他>_S	he	3	he	1
+582	15	<他>_S	he	41	he	1
+583	4	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['since', '2015', ',', 'it', 'has', 'been', 'selected', 'into']	-1
+584	4	<他>_S	he	4	he	1
+584	19	<他>_S	he	[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]	['study', 'of', 'political', 'economy', 'with', 'chinese', 'characteristics', ',', 'basic', 'marxist', 'principles', ',', 'and', 'sinicization', 'of', 'marxism', ',', 'specializing', 'in', 'mathematical', 'analysis', 'and', 'empirical', 'research', '.']	-1
+585	0	<他>_S	he	0	he	1
+586	0	<他>_S	he	0	he	1
+587	5	<他>_S	he	4	he	1
+588	4	<他>_S	he	[4, 5, 6, 7]	[',', 'the', 'doctoral', 'programs', 'currently', 'undertaken', 'are', ':', 'socialism', 'political', 'economy', 'with', 'chinese', 'characteristics', ';', 'master', "'s", 'programs', 'are', ':', 'intermediate', 'microeconomics', ',', 'intermediate', 'macroeconomics', ',', 'and', 'contemporary', 'chinese', 'economic', 'research', ';', 'undergraduate', 'programs', 'are', ':', 'introduction', 'to', 'the', 'fundamental', 'principles', 'of', 'marxism', ',', 'marxist', 'political', 'economy', ',', 'and', 'game', 'theory', '.']	-1
+589	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'has', 'published', 'two', 'monographs', ',']	-1
+590	0	<他的>_Pa	his	0	his	1
+591	0	<他>_S	he	[]	['author', 'of', '"', 'theory', 'and', 'practice', 'of', 'successful', 'crime', '"', ',', '"', 'securities', 'market', 'regulation', 'and', 'judicial', 'intervention', '"', ',', '"', 'theory', 'and', 'practice', 'of', 'aggravating', 'crime', 'of', 'robbery', '"', ',', '"', 'detailed', 'theory', 'of', 'robbery', '"', '(', 'first', 'author', ')', ',', 'etc', '.', ';', 'has', 'published', 'more', 'than', '100', 'legal', 'papers', ',', 'including', 'more', 'than', '30', 'cssci', 'papers', '(', 'including', 'eight', 'reproduced', 'in', 'full', 'by', 'the', 'national', 'people', "'s", 'congress', ')', '.']	-1
+592	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'is', 'currently', 'the', 'vice', 'president']	-1
+593	10	<她>_S	she	[]	['in', 'history', ';', 'from', '1992', 'to', '1995', ',', 'he', 'studied', 'at', 'nanjing', 'university', ',', 'obtaining', 'a', 'master', "'s", 'degree', 'in', 'law', ';', 'from', '1995', 'to', '1998', ',', 'he', 'studied', 'at', 'east', 'china', 'normal', 'university', ',', 'obtaining', 'a', 'doctor', "'s", 'degree', 'in', 'law', ';', 'from', '1998', 'to', 'present', ',', 'he', 'works', 'at', 'the', 'marxism', 'institute', 'of', 'tongji', 'university', ',', 'where', 'his', 'main', 'research', 'interests', 'are', 'the', 'soviet', 'union', ',', 'russian', 'politics', ',', 'economy', ',', 'and', 'sino-russian', 'relations', '.']	-1
+594	0	<她>_S	she	[0, 1, 2, 3, 4]	['presided', 'over', 'one', 'national', 'topic', 'and']	-1
+595	0	<他>_S	he	0	he	1
+596	0	<他>_S	he	0	he	1
+597	0	<他>_S	he	[0, 1, 2, 3]	['his', 'research', 'interests', 'include', 'marxist']	-1
+598	0	<他>_S	he	0	he	1
+599	5	<他>_S	he	3	he	1
+599	24	<他>_S	he	33	he	1
+599	41	<他>_S	he	57	he	1
+599	54	<他>_S	he	75	he	1
+599	70	<他>_S	he	93	he	1
+599	95	<他>_S	he	120	he	1
+600	2	<他>_S	he	3	he	1
+601	7	<他>_S	he	8	he	1
+601	26	<他>_S	he	[27, 28, 29]	[',', 'won', 'a', 'total', 'of', '40', 'national', 'awards', ',', '5', 'works', 'have', 'been', 'shortlisted', 'and', 'won', 'in', '29', 'international', 'film', 'festivals', '.']	-1
+602	0	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['50', 'academic', 'papers', 'have', 'been', 'published', 'in', 'the']	-1
+603	49	<他的>_Pa	his	38	his	1
+604	0	<他>_S	he	0	he	1
+605	0	<他>_S	he	[0, 1, 2, 3]	['long', 'engaged', 'in', 'art', 'history']	-1
+606	0	<他>_S	he	0	he	1
+607	99	<他>_S	he	[]	[';', 'member', 'of', 'academic', 'committee', 'of', 'national', '2011', 'zhejiang', 'longquan', 'celadon', 'collaborative', 'innovation', 'center', '(', '2015', '–', 'present', ')', ',', 'etc', '.']	-1
+608	3	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['to', 'date', ',', 'three', 'academic', 'monographs', 'have', 'been']	-1
+609	4	<他>_S	he	5	he	1
+610	0	<他>_S	he	[0, 1, 2, 3]	['with', 'scientific', 'and', 'rigorous', 'research']	-1
+611	2	<他>_S	he	3	he	1
+612	12	<它>_S	it	[9, 10, 11, 12, 13, 14, 15]	['13cxw050', ')', ',', 'which', 'is', 'chaired', 'by', 'china']	-1
+613	0	<他>_S	he	[0, 1, 2, 3]	['from', '2005', 'to', '2013', ',']	-1
+614	2	<他>_S	he	3	he	1
+614	11	<他>_S	he	22	he	1
+615	1	<他>_S	he	4	he	1
+615	23	<他>_S	he	[31, 32, 33, 34, 35, 36]	['many', 'international', 'cooperation', 'projects', ',', 'and', 'obtained', '17', 'invention', 'patents', ',', 'more', 'than', '10', 'utility', 'model', 'patents', ',', 'appearance', 'patents', ',', 'published', 'more', 'than', '50', 'papers', ',', 'published', '4', 'books', ',', '2', 'textbooks', ',', 'and', 'some', 'digital', 'media', 'works', '.']	-1
+615	36	<他>_S	he	[50, 51, 52, 53, 54, 55]	['patents', ',', 'more', 'than', '10', 'utility', 'model', 'patents', ',', 'appearance', 'patents', ',', 'published', 'more', 'than', '50', 'papers', ',', 'published', '4', 'books', ',', '2', 'textbooks', ',', 'and', 'some', 'digital', 'media', 'works', '.']	-1
+616	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'a', 'long-term', 'research']	-1
+616	27	<他>_S	he	[31, 32, 33, 34, 35, 36, 37]	['industry', ',', 'and', 'has', 'hosted', 'several', 'dozen', 'cooperative']	-1
+617	0	<他>_S	he	11	he	1
+618	0	<他>_S	he	3	he	1
+619	0	<他>_S	he	0	he	1
+620	0	<他的>_Pa	his	0	his	1
+621	2	<他>_S	he	3	he	1
+622	0	<他>_S	he	0	he	1
+623	0	<他>_S	he	[0, 1, 2, 3, 4]	['in', 'addition', ',', 'it', 'has', 'participated']	-1
+624	1	<他>_S	he	[3, 4, 5, 6, 7, 8, 9]	[',', 'more', 'attention', 'has', 'been', 'paid', 'to', 'new']	-1
+624	24	<他>_S	he	[]	['arts', ',', 'has', 'visited', 'the', 'chinese', 'academy', 'of', 'painting', ',', 'chinese', 'academy', 'of', 'art', ',', 'tsinghua', 'university', 'academy', 'of', 'fine', 'arts', ',', 'renmin', 'university', 'of', 'china', 'academy', 'of', 'art', 'and', 'other', 'famous', 'art', 'education', 'institutions', ',', 'painting', 'works', 'have', 'won', 'the', 'academy', 'of', 'fine', 'arts', 'of', 'tsinghua', 'university', 'calligraphy', 'and', 'painting', 'theory', 'and', 'creation', 'of', 'advanced', 'research', 'class', 'works', 'exhibition', 'of', 'outstanding', 'works', ',', 'and', 'was', 'shortlisted', 'in', 'the', 'sino-american', 'association', 'national', 'art', 'exhibition', '.']	-1
+624	40	<他的>_Pa	his	[94, 95, 96, 97, 98, 99, 100]	['works', ',', 'and', 'was', 'shortlisted', 'in', 'the', 'sino-american']	-1
+625	0	<他>_S	he	0	he	1
+626	0	<他>_S	he	0	he	1
+627	10	<他>_S	he	9	he	1
+628	0	<他>_S	he	3	he	1
+629	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['emphasis', 'is', 'placed', 'on', 'the', 'interdisciplinary', 'research']	-1
+630	0	<他>_S	he	0	he	1
+631	0	<他>_S	he	0	he	1
+632	0	<他>_S	he	[0, 1, 2, 3]	['compendium', 'published', '"', 'golbauti', 'flute']	-1
+633	0	<他>_S	he	0	he	1
+634	2	<他>_S	he	21	he	1
+635	0	<他>_S	he	0	he	1
+636	2	<他>_S	he	[3]	[',', 'many', 'flute', 'students', 'have', 'performed', 'and', 'exchanged', 'in', 'switzerland', ',', 'germany', ',', 'south', 'korea', 'and', 'japan', '.']	-1
+637	0	<他>_S	he	5	he	1
+638	0	<她>_S	she	0	she	1
+639	0	<她>_S	she	[0, 1, 2, 3, 4]	['he', 'has', 'performed', 'as', 'a', 'soloist']	-1
+640	0	<她>_S	she	[0]	['he', 'has', 'visited', 'germany', ',', 'france', ',', 'switzerland', ',', 'the', 'united', 'states', ',', 'indonesia', ',', 'austria', ',', 'italy', ',', 'japan', ',', 'hong', 'kong', ',', 'macao', ',', 'taiwan', 'and', 'other', 'places', 'to', 'give', 'performances', '.']	-1
+640	30	<她>_S	she	[]	['to', 'give', 'performances', '.']	-1
+641	29	<他>_S	he	44	he	1
+641	61	<他>_S	he	44	he	1
+641	82	<他>_S	he	73	he	1
+641	89	<他>_S	he	[83, 84, 85, 86, 87, 88, 89]	['actor', ',', 'and', 'successively', 'starred', 'in', 'such', 'classical']	-1
+642	2	<他>_S	he	3	he	1
+643	4	<他>_S	he	3	he	1
+643	34	<他>_S	he	43	he	1
+644	70	<他>_S	he	84	he	1
+644	91	<他>_S	he	[]	['favor', 'from', 'the', 'chinese', 'audience', '.']	-1
+644	143	<他>_S	he	84	he	1
+644	155	<他>_S	he	84	he	1
+644	181	<他>_S	he	84	he	1
+645	2	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['during', 'this', 'period', ',', 'more', 'to', 'accept', 'the']	-1
+645	14	<他们的>_Pa	their	[21, 22]	['for', 'the', 'members', 'of', 'professional', 'training', '.']	-1
+646	2	<他>_S	he	3	he	1
+647	2	<他>_S	he	0	he	1
+648	2	<他>_S	he	0	he	1
+649	2	<他>_S	he	0	he	1
+650	0	<他>_S	he	[0, 1, 2, 3]	['assistant', ',', 'lecturer', ',', 'associate']	-1
+651	1	<他>_S	he	0	he	1
+652	0	<他>_S	he	0	he	1
+653	23	<他>_S	he	32	he	1
+653	51	<他>_S	he	[61]	[',', 'published', 'more', 'than', '50', 'professional', 'papers', ',', 'and', 'completed', 'more', 'than', '10', 'architectural', 'design', 'projects', '.']	-1
+654	0	<他>_S	he	[10, 11, 12, 13, 14, 15, 16]	['the', 'university', 'have', 'won', 'the', 'third', 'prize', 'for']	-1
+655	0	<他>_S	he	[0, 1, 2, 3, 4]	['many', 'times', 'to', 'the', 'united', 'states']	-1
+656	0	<他>_S	he	0	he	1
+657	9	<他>_S	he	7	he	1
+658	3	<他>_S	he	3	he	1
+659	5	<他>_S	he	4	he	1
+660	0	<她>_S	she	[0, 1, 2, 3]	['long-term', 'commitment', 'to', 'social', 'innovation']	-1
+661	1	<他>_S	he	0	he	1
+661	50	<他>_S	he	[51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86]	['member', 'of', 'the', 'scientific', 'committee', 'of', 'the', 'italian', 'higher', 'institute', 'of', 'technology', '(', 'milan', 'polytechnic', 'university', 'and', 'turin', 'polytechnic', 'university', ')', ',', 'vice', 'president', 'of', 'the', 'international', 'union', 'of', 'art', ',', 'design', 'and', 'media', 'academies', 'of', 'cumulus', ',', 'member', 'of', 'the', 'international', 'advisory', 'committee', 'of', 'the', 'swedish', 'platform', 'for', 'research', 'in', 'art', 'design', ',', 'and', 'has', 'served', 'as', 'the', 'founding', 'executive', 'editor', 'of', 'she', 'ji', ':', 'the', 'journal', 'of', 'design', ',', 'innovation', ',', 'and', 'economics', '(', 'elsevier', ')', ',', 'editorial', 'board', 'of', 'design', 'issues', '(', 'mit', 'press', ')', ',', 'editorial', 'board', 'of', 'the', 'journal', 'of', 'visual', 'art', 'practice', '(', 'taylor', '&', 'francis', ')', '.']	-1
+662	0	<他>_S	he	0	he	1
+663	0	<他>_S	he	0	he	1
+664	0	<他>_S	he	0	he	1
+665	0	<他的>_Pa	his	[15, 16, 17, 18, 19, 20, 21]	['projects', '"', 'project', 'won', 'the', 'first', 'prize', 'of']	-1
+666	0	<他>_S	he	0	he	1
+667	0	<他>_S	he	0	he	1
+668	0	<他>_S	he	0	he	1
+669	0	<他>_S	he	0	he	1
+669	23	<他>_S	he	[28, 29, 30, 31, 32, 33, 34]	['doctor', "'s", 'degree', 'in', 'road', 'and', 'railway', 'engineering']	-1
+670	0	<他>_S	he	[0, 1, 2, 3]	['long-term', 'engaged', 'in', 'regional', 'integrated']	-1
+671	2	<他>_S	he	3	he	1
+672	0	<他>_S	he	0	he	1
+673	0	<他>_S	he	3	he	1
+674	1	<他>_S	he	0	he	1
+675	0	<他>_S	he	0	he	1
+676	0	<他>_S	he	[3, 4, 5, 6, 7, 8, 9]	['resource', 'recycling', 'industry', 'was', 'first', 'put', 'forward', 'in']	-1
+677	0	<他>_S	he	[0, 1, 2]	['the', 'book', 'is', 'part', 'of', 'china', "'s", 'national', 'key', 'book', 'publishing', 'plan', 'for', 'the', '11th', 'five-year', 'plan', '.']	-1
+678	0	<他>_S	he	0	he	1
+679	0	<他>_S	he	0	he	1
+679	16	<他>_S	he	[25, 26, 27, 28, 29, 30, 31]	['professor', ',', 'and', 'is', 'currently', 'a', 'professor', 'and']	-1
+680	0	<他>_S	he	[0, 1, 2, 3]	['lectured', 'on', '"', 'air', 'pollution']	-1
+681	2	<他>_S	he	3	he	1
+681	21	<他>_S	he	29	he	1
+682	0	<他>_S	he	0	he	1
+683	0	<他>_S	he	0	he	1
+684	6	<他>_S	he	4	he	1
+684	20	<他>_S	he	[27, 28]	[',', 'actively', 'participated', 'in', 'the', 'activities', 'of', 'the', 'united', 'nations', 'decade', 'of', 'education', 'for', 'sustainable', 'development', '(', '2005-2014', ')', ',', 'organized', 'to', 'participate', 'in', 'academic', 'conferences', 'and', 'research', ',', 'and', 'was', 'responsible', 'for', 'teaching', 'the', 'international', 'master', "'s", 'degree', 'programs', 'in', 'environmental', 'management', 'and', 'sustainable', 'development', '.']	-1
+685	0	<他>_S	he	[0, 1, 2, 3, 4, 5]	['courses', 'will', 'be', 'offered', 'in', 'english', 'on']	-1
+686	0	<他>_S	he	4	he	1
+687	0	<他>_S	he	0	he	1
+688	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'successively', 'engaged', 'in']	-1
+689	0	<他>_S	he	0	he	1
+690	0	<他>_S	he	0	he	1
+691	3	<他>_S	he	3	he	1
+692	0	<他>_S	he	0	he	1
+693	0	<他>_S	he	0	he	1
+694	2	<他>_S	he	3	he	1
+695	14	<他的>_Pa	his	21	his	1
+696	2	<他>_S	he	0	he	1
+696	14	<他>_S	he	[13, 14, 15, 16]	['in', '1992', ',', 'a', 'master', "'s", 'degree', 'in', 'municipal', 'engineering', 'from', 'tongji', 'university', 'in', '1997', ',', 'and', 'a', 'doctor', "'s", 'degree', 'in', 'municipal', 'engineering', 'from', 'tongji', 'university', 'in', '2002', '.']	-1
+696	27	<他>_S	he	[26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]	['in', '1997', ',', 'and', 'a', 'doctor', "'s", 'degree', 'in', 'municipal', 'engineering', 'from', 'tongji', 'university', 'in', '2002', '.']	-1
+697	10	<他>_S	he	7	he	1
+697	17	<他>_S	he	[]	[',', 'funded', 'by', 'the', 'chinese', 'scholarship', 'commission', ',', 'including', 'visiting', 'research', 'at', 'princeton', 'university', "'s", 'department', 'of', 'civil', 'engineering', 'and', 'environment', 'from', 'march', '2009', 'to', 'september', '2009', ',', 'and', 'visiting', 'research', 'at', 'the', 'national', 'center', 'for', 'applied', 'research', 'in', 'supercomputing', 'at', 'the', 'university', 'of', 'illinois', 'at', 'urbana-champaign', 'from', 'september', '2009', 'to', 'march', '2010', '.']	-1
+698	0	<他>_S	he	[0, 1, 2, 3]	['it', 'has', 'undertaken', 'and', 'participated']	-1
+699	0	<他>_S	he	0	he	1
+699	22	<他>_S	he	[17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]	['3', 'in', 'software', 'copyright', 'applications', ',', 'and', 'was', 'named', 'an', 'outstanding', 'postdoctoral', 'candidate', 'of', 'tongji', 'university', ',', 'and', 'won', 'the', 'second', 'prize', 'of', 'shanghai', 'science', 'and', 'technology', 'progress', 'award', 'in', '2002', '.']	-1
+700	0	<她>_S	she	[]	['in', '2017', ',', 'he', 'was', 'awarded', 'the', '"', 'special', 'prize', '"', 'for', 'teaching', 'achievement', 'of', 'tongji', 'university', 'and', 'the', '"', 'good', 'teacher', 'in', 'my', 'heart', '"', 'title', 'of', 'tongji', 'university', ';', 'in', '2018', ',', 'he', 'was', 'awarded', 'the', '"', 'second', 'prize', '"', 'for', 'teaching', 'achievement', 'of', 'higher', 'education', 'at', 'the', 'national', 'level', '(', '5th', 'person', ')', '.']	-1
+700	24	<她>_S	she	[33, 34, 35, 36, 37, 38, 39]	[',', 'he', 'was', 'awarded', 'the', '"', 'second', 'prize']	-1
+700	47	<她>_S	she	[31, 32, 33, 34, 35, 36, 37]	['in', '2018', ',', 'he', 'was', 'awarded', 'the', '"']	-1
+701	4	<她>_S	she	[2, 3, 4, 5, 6, 7, 8]	['years', ',', 'he', 'has', 'conducted', 'more', 'than', '20']	-1
+701	27	<她>_S	she	[77, 78, 79, 80, 81, 82, 83]	['heavy', 'metals', ',', 'won', 'the', 'second', 'prize', 'of']	-1
+701	67	<她>_S	she	[44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]	['10', 'invention', 'patents', ',', '1', 'national', 'standard', 'for', 'water', 'quality', 'testing', 'and', '1', 'industrial', 'standard', 'for', 'water', 'quality', 'testing', 'of', 'reclaimed', 'water', ',', '1', 'industrial', 'standard', 'for', 'remediation', 'of', 'contaminated', 'sites', 'contaminated', 'with', 'heavy', 'metals', ',', 'won', 'the', 'second', 'prize', 'of', 'the', 'national', 'natural', 'science', 'award', '(', '2nd', 'person', ')', 'in', '2015', ',', 'and', 'won', 'the', 'swiss', 'jonofa', 'young', 'scientist', 'award', '(', '2013', ')', '.']	-1
+701	94	<她>_S	she	[71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93]	['remediation', 'of', 'contaminated', 'sites', 'contaminated', 'with', 'heavy', 'metals', ',', 'won', 'the', 'second', 'prize', 'of', 'the', 'national', 'natural', 'science', 'award', '(', '2nd', 'person', ')', 'in', '2015', ',', 'and', 'won', 'the', 'swiss', 'jonofa', 'young', 'scientist', 'award', '(', '2013', ')', '.']	-1
+702	0	<他>_S	he	0	he	1
+703	0	<他>_S	he	[0, 1, 2, 3]	['long-term', 'scientific', 'research', 'on', 'urban']	-1
+704	0	<他>_S	he	0	he	1
+705	0	<他>_S	he	[0, 1, 2, 3]	['participated', 'in', 'textbook', '"', 'environmental']	-1
+706	0	<他>_S	he	3	he	1
+707	0	<他>_S	he	4	he	1
+708	0	<他>_S	he	4	he	1
+709	0	<他>_S	he	[0, 1, 2, 3]	['president', 'of', 'the', 'institute', 'of']	-1
+710	2	<他>_S	he	0	he	1
+710	17	<他>_S	he	[]	['from', '2010.9', 'to', '2012.7', '.']	-1
+711	0	<他>_S	he	[0, 1, 2, 3]	['selected', 'in', 'tongji', 'university', 'youth']	-1
+712	13	<他>_S	he	16	he	1
+712	31	<他>_S	he	[]	['1983', '.']	-1
+713	3	<他>_S	he	5	he	1
+714	0	<他>_S	he	[]	['as', 'special', 'coordinator', 'of', 'the', 'united', 'nations', 'environment', 'programme', '(', 'unep', ')', ',', 'responsible', 'for', 'coordinating', 'unep', "'s", 'cooperation', 'with', 'china', 'in', 'areas', 'related', 'to', 'the', 'beijing', 'olympic', 'games', ',', 'shanghai', 'world', 'expo', 'and', 'unep', "'s", 'china-africa', 'tripartite', 'environmental', 'cooperation', '.']	-1
+715	0	<他>_S	he	[0, 1, 2, 3]	['his', 'books', 'include', 'selected', 'foreign']	-1
+715	32	<他>_S	he	[18, 19, 20, 21, 22, 23, 24]	['as', 'well', 'as', 'his', 'books', 'on', 'china', "'s"]	-1
+716	2	<他>_S	he	4	he	1
+717	23	<他>_S	he	[23, 24, 25, 26, 27, 28, 29]	['science', 'and', 'management.he', 'has', 'participated', 'in', 'the', 'negotiation']	-1
+718	28	<他>_S	he	[]	[',', 'mr.', 'zhang', 'shigang', 'plays', 'an', 'active', 'role', 'in', 'promoting', 'and', 'coordinating', 'strategic', 'cooperation', 'on', 'climate', 'change', 'between', 'the', 'united', 'nations', 'and', 'china', '.']	-1
+719	0	<他>_S	he	[0, 1, 2, 3, 4]	['chaired', 'the', 'national', 'social', 'science', 'foundation']	-1
+720	0	<他>_S	he	0	he	1
+721	4	<他>_S	he	[5, 6, 7]	[',', 'the', 'government', 'successively', 'participated', 'in', 'the', 'research', 'and', 'formulation', 'of', 'key', 'policies', 'concerning', 'the', 'state', 'intellectual', 'property', 'strategy', ',', 'the', 'state', 'intellectual', 'property', 'planning', ',', 'the', 'reform', 'of', 'the', 'intellectual', 'property', 'administrative', 'system', ',', 'the', 'building', 'of', 'world-class', 'intellectual', 'property', 'examination', 'organizations', ',', 'the', 'intellectual', 'property', 'service', 'industry', ',', 'intellectual-property-intensive', 'industries', ',', 'the', 'intellectual', 'property', 'management', 'of', 'central', 'enterprises', ',', 'and', 'the', 'building', 'of', 'a', 'national', 'intellectual', 'property', 'think', 'tank', '.']	-1
+722	2	<他>_S	he	5	he	1
+723	2	<它>_S	it	[2, 3, 4, 5, 6, 7, 8]	['years', ',', 'china', 'has', 'actively', 'promoted', 'the', 'construction']	-1
+724	5	<他>_S	he	[45, 46, 47, 48, 49, 50, 51]	[',', 'which', 'have', 'won', 'the', 'first', 'prize', ',']	-1
+724	31	<他>_S	he	[34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]	['projects', 'of', 'the', 'academic', 'committee', 'of', 'the', 'state', 'intellectual', 'property', 'office', ',', 'which', 'have', 'won', 'the', 'first', 'prize', ',', 'second', 'prize', 'and', 'third', 'prize', 'for', 'outstanding', 'research', 'report', 'on', 'intellectual', 'property', 'and', 'excellent', 'research', 'results', 'in', 'soft', 'science', 'of', 'the', 'people', "'s", 'republic', 'of', 'china', 'for', 'three', 'times', ',', 'and', 'the', 'top', 'three', 'prizes', 'for', 'five', 'times', '(', 'all', 'of', 'which', 'are', 'ranked', 'among', 'the', 'top', 'three', ')', ',', 'many', 'of', 'the', 'reported', 'information', 'have', 'been', 'adopted', 'by', 'the', 'state', 'office', ',', 'the', 'office', 'of', 'central', 'administration', ',', 'and', 'two', 'have', 'been', 'approved', 'by', 'state', 'leaders', '.']	-1
+725	3	<他>_S	he	4	he	1

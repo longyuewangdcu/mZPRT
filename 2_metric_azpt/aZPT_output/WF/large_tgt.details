@@ -1,0 +1,476 @@
+Sent	SRC_ZP_Pos.	SRC_ZP	Ref_ZP	TGT_ZPT_Pos.	TGT_ZPT	Case
+0	5	<它>_O	it	5	it	1
+1	27	<他的>_Pa	his	[20, 21]	[',', 'and', 'small', 'eyes', 'that', 'squinted', 'slightly', ',', 'who', 'looked', 'at', 'the', 'scene', 'as', 'if', 'he', 'were', 'calculating', 'something', ',', 'as', 'if', 'he', 'could', 'sell', 'even', 'the', 'sight', '.']	-1
+1	36	<他>_S	he	35	he	1
+1	60	<他>_S	he	42	he	1
+2	6	<我>_S	i	4	i	1
+3	18	<它>_S	it	18	it	1
+4	13	<我们>_S	we	[14, 15, 16, 17, 18, 19, 20]	['channel', ',', 'but', 'to', 'walk', 'from', 'here', ',']	-1
+4	19	<它>_S	it	23	it	1
+5	1	<我>_S	i	1	i	1
+6	10	<他的>_Pa	his	12	his	1
+6	14	<他的>_Pa	his	12	his	1
+7	8	<他>_S	he	[7, 8, 9, 10, 11]	['what', 'lay', 'behind', 'him', '.']	-1
+8	1	<他>_S	he	[0, 1, 2, 3, 4]	['but', 'vaguely', 'can', 'see', ',', 'in']	-1
+9	6	<它>_S	it	[2, 3, 4, 5, 6, 7]	['snakes', ',', 'aren', "'t", 'they', '?']	-1
+10	2	<他的>_Pa	his	4	his	1
+11	1	<他>_S	he	[0, 1, 2, 3]	['"', 'not', 'yet', '.', '"']	-1
+12	18	<它>_S	it	13	it	1
+13	10	<它>_S	it	11	it	1
+13	18	<我>_S	i	20	i	1
+13	23	<他们>_O	them	[20, 21, 22, 23, 24, 25, 26]	['i', 'hope', 'we', 'do', 'not', 'run', 'into', 'it']	-1
+14	3	<他的>_Pa	his	2	his	1
+15	9	<他的>_Pa	his	11	his	1
+16	11	<他的>_Pa	his	63	his	1
+17	2	<他的>_Pa	his	[16, 17, 18, 19, 20, 21, 22]	['have', 'been', 'taken', 'off', 'the', 'line', '.']	-1
+17	15	<他>_S	he	[15, 16, 17, 18, 19, 20, 21]	['would', 'have', 'been', 'taken', 'off', 'the', 'line', '.']	-1
+18	19	<他>_S	he	[17]	['black', 'as', 'if', 'it', 'had', 'been', 'forcibly', 'sequestered', ',', 'and', 'rod', 'lost', 'consciousness', '.']	-1
+19	3	<他的>_Pa	his	3	his	1
+19	6	<他>_S	he	20	he	1
+20	1	<他>_S	he	[0, 1, 2, 3, 4]	['or', 'are', 'you', 'still', 'in', 'the']	-1
+22	21	<他>_S	he	20	he	1
+23	9	<它>_S	it	15	it	1
+24	2	<他的>_Pa	his	2	his	1
+25	2	<他>_S	he	[3, 4, 5, 6]	[',', 'the', 'arm', 'in', 'front', 'of', 'him', 'was', 'thin', 'and', 'thin', ',', 'and', 'his', 'skin', 'was', 'sickly', 'pale', 'from', 'the', 'absence', 'of', 'sunlight', 'all', 'the', 'year', 'round', '.']	-1
+25	12	<他>_S	he	[6, 7, 8, 9, 10, 11, 12]	['in', 'front', 'of', 'him', 'was', 'thin', 'and', 'thin']	-1
+25	20	<他的>_Pa	his	16	his	1
+27	0	<他>_S	he	8	he	1
+28	1	<你>_S	you	3	you	1
+29	41	<它>_S	it	34	it	1
+30	11	<她的>_Pa	her	18	her	1
+30	23	<她的>_Pa	her	[22]	[',', 'blue', 'eyes', 'clear', 'and', 'transparent', ',', 'giving', 'a', 'lively', 'feeling', '.']	-1
+31	14	<我>_S	i	17	i	1
+31	16	<它>_O	it	20	it	1
+32	1	<我>_S	i	1	i	1
+32	10	<你的>_Pa	your	15	your	1
+32	22	<它>_S	it	22	it	1
+33	1	<他>_S	he	[0]	['despite', 'the', 'chaos', ',', 'rod', 'soon', 'calmed', 'down', ',', 'his', 'mental', 'quality', 'as', 'a', 'top', 'player', 'and', 'president', 'of', 'the', 'world', "'s", 'most', 'powerful', 'online', 'games', 'guild', '.']	-1
+34	1	<他>_S	he	13	he	1
+34	42	<他们>_S	they	[32, 33, 34, 35, 36, 37, 38]	['as', 'it', 'happens', 'to', 'pass', 'by', '.']	-1
+35	6	<我>_S	i	[]	[',', 'a', 'member', 'of', 'the', 'star-moon', 'mercenary', 'corps', ',', 'and', 'a', 'spiritual', 'master', '.', 'just', 'call', 'me', 'lizzy', '.']	-1
+35	16	<你>_S	you	[19, 20, 21, 22, 23]	['just', 'call', 'me', 'lizzy', '.']	-1
+36	15	<他>_S	he	[12, 13, 14, 15, 16, 17, 18]	['hesitated', 'and', 'reported', 'his', 'identity', 'and', 'id', 'in']	-1
+37	1	<我>_S	i	[0, 1, 2, 3, 4]	['"', 'from', 'the', 'orient', 'mountains', ',']	-1
+38	1	<你>_S	you	4	you	1
+39	6	<他>_S	he	8	he	1
+40	26	<她>_S	she	[19, 20, 21]	["'s", 'wound', 'and', 'stood', 'up', '.']	-1
+41	1	<你>_S	you	13	you	1
+42	9	<我的>_Pa	my	[]	['to', 'the', 'colonel', ',', 'and', 'i', 'think', 'he', "'ll", 'come', 'to', 'see', 'you', 'soon', '.']	-1
+43	32	<他们>_S	they	[27]	[',', 'calling', 'for', 'air', 'strikes', '.']	-1
+44	9	<他们>_S	they	[4, 5, 6, 7, 8, 9, 10]	['through', 'the', 'base', ',', 'searching', 'for', 'the', 'incapacitated']	-1
+45	9	<他们>_S	they	[6, 7, 8]	['were', 'moving', 'in', 'search', 'of', 'their', 'own', 'troops', '.']	-1
+46	8	<他的>_Pa	his	18	his	1
+47	0	<他自己>_R	himself	[0, 1, 2, 3]	['murmured', 'he', ',', 'moving', 'his']	-1
+47	7	<他的>_Pa	his	4	his	1
+48	0	<他>_S	he	3	he	1
+49	13	<他>_S	he	[10, 11, 12, 13, 14, 15, 16]	['fleeting', 'opportunity', ',', 'stood', 'in', 'front', 'of', 'everyone']	-1
+50	24	<他们的>_Pa	their	[25, 26, 27, 28, 29, 30, 31]	[',', 'and', 'morale', 'dropped', 'to', 'the', 'bottom', 'of', 'the', 'valley', 'in', 'an', 'instant', '.']	-1
+51	17	<他们>_S	they	19	they	1
+52	16	<他>_S	he	[13, 14, 15, 16, 17, 18, 19]	['chen', 'pulls', 'up', 'his', 'binoculars', ',', 'summons', 'a']	-1
+53	12	<她>_S	she	[15, 16, 17, 18, 19, 20, 21]	['the', 'sensitive', 'stride', 'sat', 'behind', 'him', '.']	-1
+54	18	<他>_S	he	[16, 17, 18, 19, 20, 21, 22]	['base', 'side', ',', 'stopped', 'the', 'motorcycle', 'on', 'the']	-1
+55	2	<他们的>_Pa	their	[1, 2, 3, 4, 5, 6, 7]	['the', 'line', 'of', 'sight', ',', 'both', 'sides', 'are']	-1
+56	13	<他的>_Pa	his	10	his	1
+57	20	<他>_S	he	[19, 20, 21, 22, 23, 24, 25]	['to', 'surrender', ',', 'gritted', 'teeth', 'said', '.']	-1
+58	4	<他>_S	he	[3]	[',', 'did', 'not', 'care', 'about', 'his', 'uncooperative', 'attitude', ',', 'free', 'his', 'right', 'hand', 'to', 'take', 'out', 'a', 'needle', 'tube', ',', 'unceremoniously', 'stuck', 'in', 'his', 'back', 'shoulder', '.']	-1
+58	16	<他的>_Pa	his	13	his	1
+59	17	<他的>_Pa	his	13	his	1
+60	5	<他的>_Pa	his	9	his	1
+61	4	<他>_S	he	[7, 8]	[',', 'do', 'not', 'know', 'why', 'pei', 'yi', 'to', 'come', '.']	-1
+62	0	<它>_S	it	0	it	1
+63	5	<他的>_Pa	his	[4, 5, 6, 7, 8, 9, 10]	['the', 'car', 'and', 'looked', 'away', 'from', 'the', 'car']	-1
+64	6	<她的>_Pa	her	[6, 7]	['remove', 'the', 'mask', 'and', 'wig', ',', 'also', 'came', 'down', 'from', 'the', 'car', '.']	-1
+65	16	<他>_S	he	[19]	[',', 'close', 'to', 'her', 'a', 'few', 'points', ',', 'said', 'in', 'a', 'low', 'voice', ',', '"', 'ouch', ',', 'this', 'group', 'of', 'people', 'look', 'at', 'you', 'this', 'shape', ',', 'also', 'difficult', 'to', 'guess', 'is', 'you', '?', '"']	-1
+66	4	<我>_S	i	4	i	1
+67	33	<你>_S	you	[29, 30, 31, 32]	[',', 'and', 'wants', 'to', 'kill', 'her', '?']	-1
+68	1	<他>_S	he	[0, 1, 2, 3]	['where', "'s", 'pei', 'yi', "'s"]	-1
+69	5	<你>_S	you	10	you	1
+70	4	<你>_S	you	[2, 3, 4]	['mr.', 'pei', 'said', 'that', 'this', 'is', 'your', 'cousin', ',', 'then', 'please', 'take', 'your', 'cousin', 'away', ',', 'as', 'for', 'the', 'donggong', 'lianzhi', ',', 'his', 'name', 'is', 'still', 'on', 'my', 'family', 'genealogy', ',', 'has', 'not', 'been', 'removed', 'from', 'the', 'list', 'of', 'rebellious', 'grandchildren', ',', 'is', 'still', 'my', 'donggong', 'family', ',', 'how', 'we', 'will', 'deal', 'with', 'him', 'is', 'our', 'donggong', 'family', '.', '"']	-1
+70	42	<他>_S	he	[37, 38, 39, 40, 41, 42, 43, 44]	['removed', 'from', 'the', 'list', 'of', 'rebellious', 'grandchildren', ',', 'is', 'still', 'my', 'donggong', 'family', ',', 'how', 'we', 'will', 'deal', 'with', 'him', 'is', 'our', 'donggong', 'family', '.', '"']	-1
+71	8	<他>_S	he	[9]	[',', 'but', 'now', 'it', 'is', 'a', 'bit', 'tricky', '.']	-1
+72	24	<我>_S	i	[20, 21]	[',', 'and', 'have', 'given', 'them', 'to', 'you', ',', 'so', 'that', 'they', 'may', 'not', 'have', 'a', 'father', '.']	-1
+73	5	<她>_S	she	[9, 10, 11, 12, 13]	['clear', ',', 'let', 'pei', 'yi', 'take', 'people', 'away', ',', 'then', 'they', 'will', 'not', 'be', 'able', 'to', 'deal', 'with', 'their', 'grandson', 'rightfully', ',', 'so', ',', 'although', 'some', 'fear', 'the', 'power', 'of', 'dk', ',', 'attitude', 'can', 'not', 'be', 'weakened', '.']	-1
+73	35	<她>_Pa	her	[40]	[',', 'attitude', 'can', 'not', 'be', 'weakened', '.']	-1
+74	15	<我们>_S	we	[19, 20]	['for', 'the', 'treatment', 'of', 'their', 'own', 'people', ',', 'the', 'outside', 'will', 'not', 'allow', 'interference', '.', '"']	-1
+75	1	<我>_S	i	[]	['they', 'say', 'he', 'is', 'the', 'father', 'of', 'the', 'child', 'in', 'my', 'sister', "'s", 'stomach', '.', 'are', 'you', 'old', 'enough', 'to', 'have', 'a', 'bad', 'ear', '?']	-1
+76	5	<他>_S	he	3	he	1
+77	15	<你>_S	you	[18, 19]	['"', 'come', 'into', 'my', 'orient', 'palace', ',', 'people', 'are', 'born', 'in', 'our', 'family', ',', 'and', 'death', 'is', 'the', 'ghost', 'of', 'our', 'family', '!', '"']	-1
+77	21	<你>_S	you	[24, 25, 26, 27, 28]	[',', 'people', 'are', 'born', 'in', 'our', 'family', ',', 'and', 'death', 'is', 'the', 'ghost', 'of', 'our', 'family', '!', '"']	-1
+78	10	<我们>_S	we	[7, 8, 9, 10, 11, 12, 13]	['directly', 'said', ',', '"', 'calculate', ',', 'his', 'name']	-1
+79	5	<你>_S	you	[7]	['"', 'use', 'up', 'to', 'withdraw', '?', '"']	-1
+80	1	<你>_S	you	2	you	1
+81	10	<我>_S	i	[11, 12, 13, 14, 15]	['but', 'it', "'s", 'true', 'to', 'promise', 'you', 'a', 'request', ',', 'say', ',', 'what', 'request', '?', '"']	-1
+81	22	<你>_S	you	[20, 21, 22]	[',', 'say', ',', 'what', 'request', '?', '"']	-1
+82	2	<你>_S	you	[0, 1, 2, 3, 4, 5]	['“', 'it', '’', 's', 'the', 'same', '.']	-1
+83	10	<我>_S	i	[]	[',', 'no', 'chain', ',', 'no', 'restriction', 'of', 'my', 'freedom', ',', 'the', 'second', 'half', 'of', 'a', 'month', 'too', 'long', ',', 'two', 'days', 'can', '.', '"']	-1
+83	26	<我>_S	i	[28, 29]	[',', 'two', 'days', 'can', '.', '"']	-1
+84	38	<我>_S	i	[38, 39, 40, 41, 42, 43, 44]	['you', 'can', 'not', 'speak', 'without', 'faith', ',', 'will']	-1
+86	4	<她>_S	she	[2, 3, 4, 5, 6, 7, 8]	[',', 'beeps', 'and', 'pretends', 'to', 'be', 'angry', '.']	-1
+87	0	<他>_S	he	[0, 1, 2, 3, 4]	['looking', 'down', 'at', 'her', ',', 'gnashing']	-1
+87	9	<你>_S	you	[9]	['"', '.', '.', '.', 'cunning', 'stupid', 'woman', '.', '"']	-1
+88	14	<他>_S	he	[9, 10, 11, 12]	[',', 'and', 'without', 'any', 'pity', ',', 'threw', 'to', 'the', 'bed', ',', 'then', 'unbuttoned', 'his', 'shirt', 'without', 'waiting', 'for', 'a', 'grain', '.']	-1
+89	13	<他>_S	he	[19]	[',', 'pressing', 'your', 'body', 'to', 'life', '.']	-1
+90	0	<他>_S	he	[0, 1, 2, 3]	['simple', 'and', 'rough', ',', 'not']	-1
+91	0	<他>_S	he	[0, 1, 2, 3]	['deep', 'black', 'eyes', 'and', 'her']	-1
+92	9	<她>_S	she	[7, 8, 9, 10]	[',', 'and', 'with', 'each', 'such', 'look', 'at', 'him', ',', 'her', 'heart', 'was', 'still', 'like', 'a', 'fawn', ',', 'shy', 'and', 'embarrassed', '.']	-1
+93	5	<她>_S	she	[6, 7, 8, 9, 10]	['i', "'m", 'always', 'embarrassed', '.']	-1
+94	0	<他>_S	he	[]	['watch', 'to', 'live', 'to', 'face', 'shy', ',', 'words', 'like', 'life', 'is', 'excited', 'and', 'chagrin', ',', 'excitement', 'is', 'his', 'body', 'hormone', 'automatic', 'reaction', ',', 'chagrin', 'is', 'the', 'way', 'of', 'his', 'heart', '.']	-1
+95	17	<她>_S	she	[16]	[',', 'always', 'so', 'reserved', ',', 'unmotivated', '.']	-1
+96	1	<你>_S	you	4	you	1
+97	16	<她>_S	she	[18, 19]	[',', 'but', 'also', 'feel', 'very', 'negative', '.']	-1
+98	8	<他>_S	he	10	he	1
+99	10	<她>_S	she	[10, 11, 12, 13, 14, 15, 16, 17]	['that', 'i', 'couldn', "'t", 'help', 'but', 'poke', 'my', 'hand', 'at', 'the', 'door', 'of', 'his', 'brain', '.', 'why', 'don', "'t", 'you', 'go', 'up', 'to', 'heaven', 'and', 'say', 'something', 'like', 'that', '?']	-1
+100	0	<他>_S	he	10	he	1
+101	0	<她>_S	she	[0, 1, 2, 3, 4]	['although', 'it', 'is', 'a', 'question', ',']	-1
+101	4	<他>_O	him	[4]	['a', 'question', ',', 'but', 'the', 'tone', 'is', 'fixed', '.']	-1
+101	7	<她>_S	she	[5, 6, 7, 8, 9, 10, 11]	[',', 'but', 'the', 'tone', 'is', 'fixed', '.']	-1
+102	10	<它>_S	it	0	it	1
+103	3	<它>_O	it	[1, 2, 3, 4, 5, 6, 7]	['did', 'not', 'want', 'to', 'admit', ',', 'did', 'not']	-1
+103	10	<他>_S	he	[13, 14]	[',', 'can', 'only', 'force', 'himself', 'to', 'sit', 'like', 'this', ',', 'convinced', 'himself', 'that', 'vivian', 'just', 'fell', 'asleep', ',', 'will', 'wake', 'up', '.']	-1
+103	27	<她>_S	she	[26, 27, 28, 29, 30, 31, 32]	['vivian', 'just', 'fell', 'asleep', ',', 'will', 'wake', 'up']	-1
+104	18	<他>_S	he	24	he	1
+105	15	<她>_S	she	13	she	1
+106	4	<他的>_Pa	his	[3, 4, 5, 6, 7, 8, 9]	['guarding', 'her', ',', 'eyes', 'more', 'and', 'more', 'bright']	-1
+107	5	<他>_S	he	[4, 5, 6, 7, 8, 9, 10]	['sighed', ',', 'then', 'went', 'to', 'the', 'bed', ',']	-1
+108	11	<他的>_Pa	his	16	his	1
+109	6	<他的>_Pa	his	9	his	1
+110	8	<我>_S	i	14	i	1
+111	5	<他>_S	he	[5, 6, 7, 8, 9, 10, 11]	['sleep', 'do', 'not', 'think', ',', 'and', 'the', 'living']	-1
+111	11	<他>_S	he	[17, 18]	[',', 'and', 'another', 'two', 'days', 'to', 'be', 'estimated', 'that', 'people', 'with', 'the', 'white', 'wei', 'wei', 'did', 'not', '.']	-1
+112	15	<你>_S	you	19	you	1
+113	7	<他的>_Pa	his	[7, 8, 9, 10, 11, 12]	['hours', ',', 'the', 'eyes', 'opened', '.']	-1
+114	3	<他的>_Pa	his	5	his	1
+114	9	<他>_S	he	11	he	1
+115	5	<他的>_Pa	his	[4, 5, 6, 7, 8, 9, 10]	['gloomy', 'down', ',', 'pale', 'and', 'haggard', 'face', ',']	-1
+116	10	<我>_S	i	10	i	1
+117	6	<我>_S	i	14	i	1
+118	47	<他们>_S	they	[52]	[',', 'began', 'the', 'last', 'round', 'of', 'storming', '.']	-1
+118	50	<他们的>_Pa	their	[53, 54]	['began', 'the', 'last', 'round', 'of', 'storming', '.']	-1
+119	19	<我们>_S	we	35	we	1
+119	23	<我们>_S	we	35	we	1
+120	10	<他>_S	he	[6, 7, 8, 9, 10, 11, 12]	['face', 'clouded', ',', 'his', 'whole', 'body', 'surging', ',']	-1
+121	6	<他>_S	he	8	he	1
+121	10	<他们>_O	them	20	them	1
+122	8	<我们>_S	we	[6]	[',', 'pursuing', '?', '"', 'the', 'white', 'night', 'smiled', ',', 'and', 'he', 'loved', 'the', 'magnetic-wave', 'scanner', ',', 'holding', 'it', 'as', 'if', 'it', 'were', 'a', 'child', ',', 'with', 'a', 'faint', ',', 'dangerous', 'smile', 'at', 'the', 'corners', 'of', 'his', 'lips', '.']	-1
+122	10	<他们>_O	them	[7]	['pursuing', '?', '"', 'the', 'white', 'night', 'smiled', ',', 'and', 'he', 'loved', 'the', 'magnetic-wave', 'scanner', ',', 'holding', 'it', 'as', 'if', 'it', 'were', 'a', 'child', ',', 'with', 'a', 'faint', ',', 'dangerous', 'smile', 'at', 'the', 'corners', 'of', 'his', 'lips', '.']	-1
+122	33	<他的>_Pa	his	41	his	1
+123	17	<他>_S	he	[18]	[',', 'slowly', 'said', ':', '"', 'do', 'not', 'chase', ',', 'so', 'let', 'him', 'die', ',', 'it', 'is', 'a', 'pity', 'that', 'the', 'cat', 'and', 'mouse', 'game', ',', 'just', 'started', '.', '"']	-1
+123	22	<我们>_S	we	[22, 23]	['"', 'do', 'not', 'chase', ',', 'so', 'let', 'him', 'die', ',', 'it', 'is', 'a', 'pity', 'that', 'the', 'cat', 'and', 'mouse', 'game', ',', 'just', 'started', '.', '"']	-1
+124	3	<他>_S	he	[3]	[',', 'chic', 'brushing', 'the', 'sleeve', ',', '"', 'cheng', ',', 'do', 'not', 'pursue', ',', 'we', 'have', 'the', 'capital', 'to', 'play', 'with', 'him', ',', 'perhaps', 'it', 'is', 'not', 'their', 'turn', 'to', 'start', ',', 'louis', 'someone', 'will', 'be', 'anxious', 'to', 'clean', 'up', '.', '"']	-1
+124	10	<我们>_S	we	16	we	1
+125	23	<他们>_S	they	[27, 28]	[',', 'have', 'done', 'protection', 'measures', ',', 'ye', 'sanxiao', 'also', 'warned', 'their', 'own', 'body', 'virus', ',', 'black', 'hawk', 'and', 'other', 'people', 'are', 'more', 'careful', '.']	-1
+126	6	<他>_S	he	[8]	[',', 'could', 'not', 'help', 'kicking', 'miss', 'cheng', ',', '"', 'xiao', 'anya', ',', 'you', 'have', 'to', 'lose', 'weight', 'ah', ',', 'heavy', 'death', '.', '"']	-1
+127	30	<他的>_Pa	his	36	his	1
+128	0	<他>_S	he	0	he	1
+128	11	<他>_S	he	11	he	1
+129	20	<她>_Pa	her	[22]	[',', 'ears', 'automatically', 'shielded', 'his', 'words', ',', 'at', 'least', 'it', 'is', 'safe', ',', 'she', 'sneezed', ',', 'could', 'not', 'help', 'but', 'wrap', 'the', 'body', 'a', 'little', 'tight', '.']	-1
+129	27	<她>_S	she	35	she	1
+130	16	<它们>_S	they	[16, 17, 18, 19, 20, 21, 22]	['of', 'clothes', 'for', 'them', ',', 'because', 'it', 'is']	-1
+131	0	<她>_S	she	[0, 1, 2, 3]	['scarcely', 'had', 'he', 'changed', 'his']	-1
+132	5	<你>_S	you	[1, 2, 3, 4, 5, 6, 7]	[',', 'mommy', ',', 'think', 'about', 'baby', '?']	-1
+132	7	<你的>_Pa	your	[1, 2, 3, 4, 5, 6, 7]	[',', 'mommy', ',', 'think', 'about', 'baby', '?']	-1
+133	6	<他>_S	he	[5, 6, 7, 8, 9, 10, 11]	['the', 'sofa', ',', 'smiling', 'and', 'cheng', 'anya', 'chatting']	-1
+133	13	<他>_S	he	[15, 16, 17, 18, 19, 20, 21]	['a', 'long', 'time', 'did', 'not', 'listen', 'to', 'her']	-1
+133	21	<他>_S	he	[26]	[',', 'strange', 'miss', '.']	-1
+134	20	<你>_S	you	[]	[',', 'should', 'fight', '.', '"']	-1
+135	4	<他>_Pa	his	[10, 11, 12, 13, 14, 15, 16]	['about', 'it', ',', 'he', 'smiled', ',', '"', 'well']	-1
+135	19	<我们>_S	we	[20, 21, 22, 23, 24, 25, 26]	[',', 'when', 'you', 'get', 'back', 'to', 'rome', ',']	-1
+135	28	<我>_O	me	45	me	1
+135	46	<我>_S	i	47	i	1
+136	1	<我>_S	i	1	i	1
+137	29	<我们>_S	we	[31]	[',', '"', 'ning', 'said', '.']	-1
+138	19	<他的>_Pa	his	24	his	1
+138	25	<他>_S	he	39	he	1
+139	17	<你>_S	you	20	you	1
+140	2	<他>_O	him	3	him	1
+140	4	<她>_S	she	[0, 1, 2, 3, 4]	['cheng', 'anya', 'scolded', 'him', 'and', 'gave']	-1
+141	22	<他们>_S	they	[21, 22]	[',', 'once', 'see', 'ye', 'sanxiao', 'and', 'cheng', 'anya', 'safe', ',', 'the', 'people', 'are', 'relieved', '.']	-1
+142	5	<你们>_S	you	[3, 4, 5, 6, 7, 8, 9]	[',', 'three', 'sister-in-law', ',', 'can', 'be', 'really', 'awkward']	-1
+143	0	<他>_S	he	[0, 1, 2, 3]	['with', 'all', 'this', 'effort', ',']	-1
+144	7	<他>_S	he	38	he	1
+144	37	<他的>_Pa	his	24	his	1
+145	17	<我>_O	me	[12, 13, 14, 15, 16, 17, 18]	[',', 'call', 'a', 'little', 'white', 'to', 'try', 'again']	-1
+146	12	<你>_S	you	[79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198]	['.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.']	-1
+147	2	<他的>_Pa	his	[1]	['especially', 'the', 'pair', 'of', 'sky', 'blue', 'eyes', ',', 'as', 'bright', 'as', 'sapphire', '.']	-1
+148	0	<他>_S	he	[0, 1, 2, 3, 4]	['there', 'was', 'a', 'shuddering', 'flame', 'of']	-1
+148	4	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['there', 'was', 'a', 'shuddering', 'flame', 'of', 'anger', ',']	-1
+149	30	<他>_S	he	70	he	1
+150	13	<他们的>_Pa	their	[18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]	['but', 'the', 'atmosphere', 'is', 'very', 'strong', ',', 'and', 'one', 'person', 'has', 'a', 'kind', 'of', 'imperious', 'appearance', 'in', 'the', 'world', ',', 'let', 'alone', 'three', 'big', 'capitals', 'here', '.']	-1
+151	7	<他>_S	he	[]	['called', 'xiao', 'bai', ',', 'xiao', 'bai', ',', 'beat', 'him', '.', '"']	-1
+152	26	<你>_O	you	[36, 37, 38]	['so', 'as', 'not', 'to', 'get', 'sick', '.', '"']	-1
+153	6	<他的>_Pa	his	8	his	1
+153	35	<你>_S	you	[37, 38, 39, 40, 41]	[',', 'come', 'over', 'to', 'me', 'when', 'i', 'have', 'time', 'to', 'bombard', 'the', 'mafia', '.', '"']	-1
+154	11	<他>_S	he	[5, 6, 7, 8, 9, 10, 11]	['by', 'the', 'big', 'man', ',', 'tangled', 'abnormally', ',']	-1
+155	9	<我>_S	i	35	i	1
+155	21	<他>_S	he	[24]	[',', 'rubbing', 'the', 'head', 'of', 'the', 'small', 'milk', 'bag', ',', '"', 'i', 'promise', 'to', 'do', 'my', 'best', '.', '"']	-1
+155	32	<我>_O	me	[32, 33, 34, 35, 36, 37, 38]	['bag', ',', '"', 'i', 'promise', 'to', 'do', 'my']	-1
+156	5	<他的>_Pa	his	38	his	1
+156	15	<他>_S	he	27	he	1
+156	18	<他>_S	he	27	he	1
+157	15	<他>_S	he	[16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]	['is', 'no', 'problem', 'in', 'the', 'world', 'is', 'not', 'the', 'solution', ',', 'since', 'louis', 'can', 'develop', 'the', 'virus', ',', 'there', 'must', 'be', 'an', 'antidote', ',', 'can', 'not', 'be', 'no', 'solution', ',', 'if', 'the', 'white', 'night', 'can', 'not', 'solve', ',', 'pick', 'his', 'sign', '.', '"']	-1
+157	41	<他>_S	he	[52, 53, 54, 55, 56, 57, 58]	['solve', ',', 'pick', 'his', 'sign', '.', '"']	-1
+158	2	<我们>_S	we	51	we	1
+158	12	<他的>_Pa	his	20	his	1
+158	20	<他的>_Pa	his	28	his	1
+159	4	<我们>_S	we	13	we	1
+160	24	<他>_S	he	[31, 32]	['coupled', 'with', 'a', 'long', 'powder', 'tender', 'appearance', ',', 'will', 'always', 'let', 'people', 'ignore', 'his', 'nature', '.']	-1
+161	21	<我们>_S	we	[20]	['"', 'once', 'and', 'for', 'all', ',', 'so', 'that', 'no', 'one', 'can', 'never', 'know', 'heaven', 'and', 'earth', ',', 'and', 'always', 'provoke', '.', '"']	-1
+162	11	<我们>_S	we	[9, 10]	[',', 'in', 'collusion', 'with', 'the', 'traitor', '.', '"']	-1
+163	9	<我们>_S	we	[]	['time', ',', 'it', "'s", 'time', 'to', 'teach', 'the', 'mafia', 'a', 'lesson', 'that', 'he', "'ll", 'see', 'us', 'all', 'go', 'roundabout', 'in', 'fifty', 'years', ',', '"', 'laughed', 'black', 'jack', '.']	-1
+164	10	<它>_S	it	[11]	[',', 'is', 'the', 'ink', 'ye', 'and', 'the', 'ink', 'fairer', '?']	-1
+166	13	<她的>_Pa	her	[21]	['good', 'bath', ',', 'drink', 'a', 'cup', 'of', 'hot', 'tea', ',', 'warm', 'body', ',', 'cheeks', 'also', 'rose', 'two', 'pink', ',', 'was', 'on', 'the', 'bed', ',', 'looking', 'thoughtfully', 'at', 'his', 'fingers', '.']	-1
+166	23	<她的>_Pa	her	[23, 24, 25, 26, 27, 28, 29, 30, 31]	[',', 'drink', 'a', 'cup', 'of', 'hot', 'tea', ',', 'warm', 'body', ',', 'cheeks', 'also', 'rose', 'two', 'pink', ',', 'was', 'on', 'the', 'bed', ',', 'looking', 'thoughtfully', 'at', 'his', 'fingers', '.']	-1
+166	28	<她的>_Pa	her	[31, 32, 33, 34, 35, 36, 37]	['warm', 'body', ',', 'cheeks', 'also', 'rose', 'two', 'pink']	-1
+166	35	<她>_S	she	[39, 40, 41, 42]	[',', 'was', 'on', 'the', 'bed', ',', 'looking', 'thoughtfully', 'at', 'his', 'fingers', '.']	-1
+166	39	<她>_S	she	[44, 45]	[',', 'looking', 'thoughtfully', 'at', 'his', 'fingers', '.']	-1
+167	4	<他>_S	he	[4, 5, 6, 7, 8, 9, 10]	['door', 'in', 'and', 'approached', 'with', 'a', 'smile', '.']	-1
+167	8	<她>_O	her	[7, 8, 9, 10, 11]	['approached', 'with', 'a', 'smile', '.']	-1
+168	4	<她>_S	she	[3, 4, 5, 6, 7, 8, 9]	['back', ',', 'narrowed', 'her', 'eyes', ',', 'and', 'said']	-1
+168	11	<他>_O	him	[10, 11, 12, 13]	['said', ',', '"', 'baby', ',', 'you', 'really', 'have', 'a', 'pattern', '.', '"']	-1
+169	0	<他>_Pa	his	[]	['this', 'dress', ',', 'really', 'ya', 'has', 'the', 'momentum', ',', 'where', 'there', 'is', 'a', 'little', 'child', "'s", 'taste', ',', 'the', 'whole', 'is', 'a', 'dangerous', 'character', '.']	-1
+169	4	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['dress', ',', 'really', 'ya', 'has', 'the', 'momentum', ',']	-1
+169	18	<他>_S	he	[17, 18]	[',', 'the', 'whole', 'is', 'a', 'dangerous', 'character', '.']	-1
+170	3	<你>_Pa	your	[0, 1, 2, 3, 4]	['"', 'thank', 'you', '.', '"']	-1
+171	1	<她>_S	she	[0, 1, 2, 3, 4]	['cheng', 'anya', 'pointed', 'to', 'the', 'sofa']	-1
+172	3	<她>_S	she	11	she	1
+172	23	<他>_S	he	41	he	1
+172	35	<她们>_O	them	[36, 37]	['understanding', 'of', 'his', 'child', ',', 'he', 'has', 'any', 'changes', ',', 'no', 'matter', 'how', 'well', 'hidden', ',', 'how', 'much', 'she', 'can', 'feel', 'it', '.']	-1
+172	56	<它>_O	it	57	it	1
+173	9	<你>_S	you	13	you	1
+173	13	<我>_O	me	[15, 16]	['baby', 'is', 'handsome', '?', '"']	-1
+174	6	<他的>_Pa	his	[2, 3]	['winked', 'mischievously', 'and', 'looked', 'very', 'lovely', '.']	-1
+174	9	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['winked', 'mischievously', 'and', 'looked', 'very', 'lovely', '.']	-1
+175	30	<你>_S	you	[35, 36]	['?', 'was', 'it', 'bullied', '?', '"']	-1
+176	2	<他的>_Pa	his	3	his	1
+177	7	<你的>_Pa	your	[5, 6]	['me', 'the', 'picture', 'and', 'was', 'clearly', 'beaten', 'all', 'over', 'with', 'blood', '.']	-1
+178	0	<她>_S	she	[]	['reminds', 'oneself', 'had', 'met', 'all', ',', 'cheng', 'anya', 'heart', 'hates', 'extremely', 'louis', '.']	-1
+178	2	<她>_O	her	[0, 1, 2, 3, 4, 5]	['reminds', 'oneself', 'had', 'met', 'all', ',', 'cheng']	-1
+179	0	<她的>_Pa	her	[]	['bright', 'face', ',', 'covered', 'with', 'a', 'layer', 'of', 'condensation', 'color', ',', 'the', 'thought', 'of', 'the', 'small', 'milk', 'bag', 'had', 'been', ',', 'she', 'had', 'a', 'bad', 'feeling', '.']	-1
+179	10	<她>_S	she	21	she	1
+180	6	<他的>_Pa	his	[6, 7, 8]	['put', 'on', 'the', 'sleeve', ',', 'showing', 'a', 'piece', 'of', 'white', 'tender', 'arm', ',', '"', 'look', ',', 'there', 'is', 'no', 'scar', '.', '"']	-1
+181	0	<他的>_Pa	his	4	his	1
+181	18	<它>_O	it	[16, 17, 18, 19, 20]	['discovered', 'by', 'cheng', 'anya', '.']	-1
+182	18	<他>_O	him	[]	['beaten', '.']	-1
+182	25	<他>_O	him	[22]	['feel', 'bullied', ',', 'but', 'rather', 'a', 'little', 'nostalgic', 'for', 'the', 'pain', 'of', 'being', 'beaten', '.']	-1
+182	32	<他>_S	he	[26, 27]	['but', 'rather', 'a', 'little', 'nostalgic', 'for', 'the', 'pain', 'of', 'being', 'beaten', '.']	-1
+182	36	<他>_O	him	[29, 30, 31, 32, 33]	['nostalgic', 'for', 'the', 'pain', 'of', 'being', 'beaten', '.']	-1
+183	9	<他>_O	him	[13, 14, 15, 16, 17, 18]	['the', 'rest', 'of', 'his', 'life', '.']	-1
+184	4	<她>_S	she	[3, 4, 5, 6, 7, 8, 9]	['heart', 'coagulation', ',', 'did', 'not', 'miss', 'a', 'flash']	-1
+184	7	<她的>_Pa	her	[8, 9, 10, 11, 12, 13, 14]	['miss', 'a', 'flash', 'of', 'pain', 'in', 'his', 'son', "'s", 'eyes', '.']	-1
+185	31	<它>_O	it	[32]	['daddy', 'also', 'infected', '?', '"']	-1
+186	27	<我们>_S	we	[20, 21, 22, 23, 24, 25, 26]	[',', 'did', 'not', 'look', ',', '"', 'do', 'not']	-1
+186	43	<我们>_S	we	[45, 46]	[',', 'how', 'can', 'not', 'touch', 'it', '.', '"']	-1
+187	4	<她>_S	she	[6, 7]	['!', 'this', 'man', '.']	-1
+188	0	<他们>_S	they	[0, 1, 2, 3, 4, 5]	['it', 'must', 'be', 'taken', 'as', 'soon', 'as']	-1
+188	5	<她>_O	her	[3, 4, 5, 6, 7]	['taken', 'as', 'soon', 'as', 'possible', ',', 'or', 'the', 'law', 'enforcers', 'will', 'come', '.']	-1
+189	9	<她>_S	she	[7, 8, 9, 10, 11, 12, 13]	['appeared', 'again', ',', 'eyes', 'glowing', ',', '"', 'what']	-1
+190	0	<他们的>_Pa	their	[0, 1, 2, 3, 4]	['it', "'s", 'all', 'in', 'the', 'same']	-1
+191	7	<他们>_S	they	5	they	1
+191	9	<他们>_O	them	[8, 9, 10, 11, 12, 13, 14]	['they', 'had', 'won', 'their', 'opponents', ',', 'and', 'the']	-1
+191	38	<她的>_Pa	her	54	her	1
+192	0	<她>_S	she	[0]	['more', 'than', 'i', 'did', 'not', 'know', 'how', 'much', 'more', 'powerful', 'than', 'before', ',', 'the', 'soul', 'rises', ',', 'into', 'a', 'ring', 'of', 'huge', 'rings', 'of', 'fire', 'surging', 'out', ',', 'the', 'air', 'on', 'the', 'fire', 'gourd', 'surface', 'a', 'layer', 'of', 'fine', 'gold', 'grain', ',', 'originally', 'only', 'a', 'foot', 'high', 'fire', 'gourd', 'directly', 'pulled', 'up', 'to', 'two', 'feet', ',', 'a', 'number', 'of', 'times', '.']	-1
+192	9	<她的>_Pa	her	[12, 13, 14]	[',', 'the', 'soul', 'rises', ',', 'into', 'a', 'ring', 'of', 'huge', 'rings', 'of', 'fire', 'surging', 'out', ',', 'the', 'air', 'on', 'the', 'fire', 'gourd', 'surface', 'a', 'layer', 'of', 'fine', 'gold', 'grain', ',', 'originally', 'only', 'a', 'foot', 'high', 'fire', 'gourd', 'directly', 'pulled', 'up', 'to', 'two', 'feet', ',', 'a', 'number', 'of', 'times', '.']	-1
+193	22	<她的>_Pa	her	[26, 27, 28]	['covering', 'the', 'whole', 'body', '.']	-1
+194	0	<她的>_Pa	her	[0, 1, 2, 3, 4, 5]	['on', 'the', 'head', 'is', 'a', 'certain', 'phoenix']	-1
+194	26	<她的>_Pa	her	[28]	['outline', 'female', 'features', ',', 'shoulders', ',', 'soft', 'lines', 'wrap', ',', 'covering', 'the', 'entire', 'arm', '.']	-1
+194	31	<她的>_Pa	her	[27, 28, 29, 30, 31]	[',', 'outline', 'female', 'features', ',', 'shoulders', ',', 'soft', 'lines', 'wrap', ',', 'covering', 'the', 'entire', 'arm', '.']	-1
+194	41	<她的>_Pa	her	[38, 39, 40, 41, 42]	['covering', 'the', 'entire', 'arm', '.']	-1
+195	7	<她的>_Pa	her	[1, 2, 3, 4, 5, 6, 7, 8, 9]	['was', 'a', 'gold', 'and', 'red', 'phoenix', 'pattern', 'on', 'the', 'breastplate', ',', 'which', 'was', 'not', 'particularly', 'magnificent', ',', 'but', 'when', 'it', 'was', 'covered', ',', 'the', 'woman', "'s", 'breath', 'had', 'been', 'raised', 'to', 'several', 'ranks', '.']	-1
+195	31	<她的>_Pa	her	[22, 23, 24, 25, 26, 27, 28]	['covered', ',', 'the', 'woman', "'s", 'breath', 'had', 'been']	-1
+196	4	<他的>_Pa	his	8	his	1
+197	33	<她>_O	her	[33, 34, 35, 36, 37, 38, 39]	['appears', 'on', 'a', 'woman', 'is', 'a', 'tool', 'for']	-1
+199	17	<她>_S	she	18	she	1
+200	33	<她>_S	she	[36]	[',', 'in', 'the', 'city', 'is', 'one', 'of', 'the', 'youngest', 'armor', ',', 'future', 'prospects', '.']	-1
+201	25	<她>_S	she	26	she	1
+202	14	<她>_S	she	[16, 17, 18]	[',', 'and', 'had', 'been', 'besieged', 'by', 'a', 'crowd', 'of', 'young', 'men', 'before', 'her', '.']	-1
+203	10	<她的>_Pa	her	[4, 5, 6, 7, 8, 9, 10]	['not', 'weak', ',', 'if', 'not', 'use', 'gauntlet', ',']	-1
+203	14	<她>_S	she	[9, 10, 11, 12, 13, 14, 15]	['use', 'gauntlet', ',', 'just', 'really', 'want', 'the', 'tao']	-1
+203	21	<他们的>_Pa	their	[15]	['the', 'tao', '.']	-1
+204	0	<她>_S	she	[0, 1, 2, 3]	['this', 'is', 'the', 'full', 'state']	-1
+204	9	<她>_S	she	[8, 9, 10, 11, 12, 13, 14]	['armor', ',', 'the', 'equivalent', 'of', 'the', 'seven', 'rings']	-1
+205	6	<我们>_S	we	[5, 6, 7, 8, 9, 10, 11]	['of', 'it', '!', 'let', "'s", 'deal', 'with', 'it']	-1
+206	4	<他的>_Pa	his	45	his	1
+206	20	<他的>_Pa	his	45	his	1
+207	13	<他的>_Pa	his	[7, 8, 9, 10, 11, 12, 13]	["'s", 'gauntlet', 'emerged', 'directly', 'from', 'the', 'body', ',']	-1
+208	1	<它>_S	it	1	it	1
+208	17	<它>_S	it	[12, 13, 14, 15, 16, 17, 18]	['age', 'can', 'have', 'armour', ',', 'is', 'simply', 'unthinkable']	-1
+209	3	<她的>_Pa	her	[0, 1, 2, 3, 4, 5, 6]	['she', 'was', 'twenty-one', 'years', 'old', 'when', 'she', 'first', 'had', 'a', 'gauntlet', ',', 'which', 'is', 'also', 'called', 'genius', '.']	-1
+210	0	<她>_S	she	[0, 1, 2, 3, 4, 5, 6]	['after', 'years', 'of', 'hard', 'work', ',', 'he', 'finally']	-1
+211	1	<她>_S	she	[2, 3, 4, 5, 6, 7]	['big', 'are', 'these', 'little', 'ones', '?']	-1
+212	1	<他>_Pa	his	[0, 1, 2, 3, 4]	['tang', 'wulin', 'left', 'hand', 'back', 'behind']	-1
+213	0	<他>_S	he	[0, 1, 2, 3]	['a', 'quick', 'decision', 'must', 'be']	-1
+214	13	<它的>_Pa	its	[15, 16, 17]	['the', 'ability', 'to', 'help', 'the', 'soul', 'quickly', 'restore', 'the', 'soul', '.']	-1
+215	0	<他的>_Pa	his	0	his	1
+215	32	<他的>_Pa	his	34	his	1
+215	52	<他的>_Pa	his	60	his	1
+216	0	<他的>_Pa	his	[0, 1, 2, 3, 4, 5]	['the', 'right', 'hand', 'golden', 'dragon', 'claw', 'in']	-1
+216	6	<他>_O	him	[6, 7, 8, 9]	['in', 'front', 'of', 'the', 'body', ',', 'hard', 'shaking', 'each', 'other', 'fire', ',', 'hard', 'against', 'the', 'front', 'charge', '.']	-1
+216	9	<他>_S	he	[10, 11, 12, 13, 14, 15, 16]	['body', ',', 'hard', 'shaking', 'each', 'other', 'fire', ',']	-1
+217	18	<他的>_Pa	his	[26, 27, 28, 29, 30, 31, 32]	['he', 'blocked', 'the', 'front', ',', 'the', 'partners', 'have']	-1
+218	20	<他的>_Pa	his	21	his	1
+218	32	<他的>_Pa	his	[26, 27, 28, 29, 30]	['scales', ',', 'right', 'hand', ',', 'right', 'arm', 'and', 'right', 'chest', 'part', ',', 'the', 'scale', 'is', 'exceptionally', 'brilliant', '.']	-1
+219	5	<她>_S	she	[4, 5]	[',', 'the', 'top', 'of', 'the', 'fire', 'gourd', 'suddenly', 'whirled', 'up', ',', 'the', 'original', 'line', 'of', 'fire', 'into', 'a', 'large', 'flame', 'jet', ',', 'swept', 'over', 'the', 'top', 'of', 'tang', "'s", 'head', ',', 'covering', 'his', 'partners', ',', 'blocking', 'the', 'others', '.']	-1
+220	17	<她>_S	she	[19, 20, 21, 22, 23, 24, 25]	[',', 'clenched', 'his', 'hands', 'into', 'a', 'fist', ',', 'and', 'shook', 'hard', 'on', 'the', 'front', '.']	-1
+221	16	<她>_S	she	[16, 17, 18, 19, 20, 21, 22]	['a', 'blow', 'of', 'her', 'own', ',', 'the', 'fire']	-1
+222	5	<他>_S	he	[7, 8, 9, 10, 11, 12, 13]	['today', '.', 'go', 'out', 'and', 'have', 'a', 'good']	-1
+223	0	<它>_S	it	[0, 1, 2, 3, 4, 5, 6]	['after', 'being', 'called', 'up', 'to', 'go', 'ashore', 'in', 'a', 'circle', 'in', 'the', 'sea', ',', 'he', 'planed', 'sand', 'for', 'a', 'while', 'to', 'play', '.', 'when', 'he', 'left', ',', 'the', 'dog', "'s", 'eyes', 'were', 'fixed', 'on', 'the', 'window', 'of', 'the', 'car', ',', 'full', 'of', 'reluctance', '.']	-1
+223	12	<它>_S	it	[13, 14]	[',', 'he', 'planed', 'sand', 'for', 'a', 'while', 'to', 'play', '.', 'when', 'he', 'left', ',', 'the', 'dog', "'s", 'eyes', 'were', 'fixed', 'on', 'the', 'window', 'of', 'the', 'car', ',', 'full', 'of', 'reluctance', '.']	-1
+223	22	<他们>_O	them	[28, 29, 30, 31, 32, 33, 34]	['dog', "'s", 'eyes', 'were', 'fixed', 'on', 'the', 'window']	-1
+224	11	<我们>_S	we	[18, 19, 20]	['next', 'time', 'you', 'come', ',', 'you', 'will', 'be', 'able', 'to', 'live', 'in', 'it', '.', 'how', 'long', 'do', 'you', 'want', 'to', 'play']	-1
+224	31	<你>_S	you	23	you	1
+225	9	<他>_Pa	his	[8, 9, 10, 11, 12, 13, 14]	['began', 'to', 'fantasize', 'about', 'the', 'future', 'happiness', 'of']	-1
+226	7	<他们>_O	them	[0, 1, 2, 3, 4, 5, 6]	['he', 'went', 'back', 'to', 'his', 'room', 'and', 'sat']	-1
+227	8	<他的>_Pa	his	[14, 15, 16, 17, 18, 19, 20]	['close', 'the', 'dormitory', 'door', ',', '"', 'curl', 'hair']	-1
+228	6	<它的>_Pa	its	[1, 2, 3, 4, 5, 6, 7]	['miso', 'swung', 'his', 'tail', 'and', 'ran', 'away', '.']	-1
+229	1	<你>_S	you	[0, 1, 2]	['have', 'a', 'good', 'day']	-1
+230	1	<你>_S	you	[0, 1, 2, 3]	['is', 'it', 'funny', 'over', 'there', '?']	-1
+231	10	<它>_Pa	it	[5, 6, 7, 8, 9, 10, 11]	['"', 'wang', '"', 'a', ',', 'tail', 'fluttering', 'particularly']	-1
+232	9	<它的>_Pa	its	[4, 5, 6, 7, 8, 9, 10]	['to', 'switch', 'languages', 'skillfully', ',', 'pronunciation', 'standards', 'speak']	-1
+233	0	<它的>_Pa	its	[0]	['the', 'ears', 'trembled', ',', 'the', 'dog', "'s", 'claws', 'shrank', ',', 'and', 'he', 'retreated', ',', 'supposing', 'himself', 'to', 'be', 'concealed', '.']	-1
+233	4	<它>_S	it	[4, 5, 6, 7, 8, 9, 10]	['the', 'dog', "'s", 'claws', 'shrank', ',', 'and', 'he']	-1
+234	5	<他>_S	he	[0, 1, 2, 3, 4, 5, 6]	['ignoring', 'its', 'retreat', ',', 'fang', 'opened', 'the', 'learning']	-1
+235	0	<它们>_S	they	[0, 1, 2, 3]	['it', "'s", 'all', 'about', 'the']	-1
+236	0	<它的>_Pa	its	[0, 1, 2, 3]	['the', 'exhilarating', 'ears', 'withered', '.']	-1
+237	1	<我>_S	i	[0, 1]	['do', 'you', 'know', 'you', 'can', 'read', 'faster', 'than', 'you', 'should', 'now', '?']	-1
+237	7	<你>_S	you	8	you	1
+238	17	<我>_S	i	[20, 21, 22, 23, 24, 25, 26]	['you', 'will', 'be', 'let', 'to', 'play', 'in', 'the']	-1
+239	1	<我>_S	i	[0, 1, 2, 3, 4]	['"', 'it', 'is', 'expected', 'that', 'there']	-1
+239	4	<我们>_O	us	[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]	['that', 'there', 'will', 'be', 'no', 'more', 'than', 'fifteen', 'days', 'before', 'the', 'move', ',', '"', 'fang', 'said', '.']	-1
+241	1	<它>_S	it	3	it	1
+241	9	<它>_S	it	32	it	1
+241	15	<他>_S	he	[13, 14, 15, 16, 17, 18, 19]	[',', 'there', 'is', 'a', 'good', 'command', ',', 'but']	-1
+242	17	<它>_S	it	[22]	[',', 'can', 'not', 'let', 'the', 'hair', 'destroyed', '.']	-1
+243	0	<你>_S	you	1	you	1
+243	7	<你>_S	you	[12]	[',', 'keep', 'going', 'with', 'the', 'learning', 'machine', '!']	-1
+244	17	<他的>_Pa	his	[25, 26]	[',', 'the', 'dog', 'is', 'still', 'tearful', 'marks', '.']	-1
+245	14	<他>_S	he	[17]	[',', 'first', 'to', 'solve', 'the', 'matter', 'at', 'hand', '.']	-1
+247	7	<他>_S	he	10	he	1
+248	6	<他的>_Pa	his	[5, 6, 7, 8]	['paper', 'today', '.', 'the', 'newsletter', 'has', 'been', 'set', 'up', '.', 'nothing', 'important', 'will', 'not', 'disturb', 'him', '.']	-1
+249	3	<它>_S	it	5	it	1
+250	13	<他的>_Pa	his	[13, 14, 15, 16, 17, 18, 19]	[',', '"', 'was', 'curly', 'hair', 'and', 'had', 'an', 'a', '+', 'score', '.']	-1
+250	26	<我的>_Pa	my	[9]	['the', 'neighbor', "'s", 'dog', ',', '"', 'was', 'curly', 'hair', 'and', 'had', 'an', 'a', '+', 'score', '.']	-1
+251	15	<他的>_Pa	his	[16, 17]	['on', 'the', 'dormitory', 'to', 'write', 'a', 'thesis', ',', 'what', 'happened', 'online', 'he', 'still', 'do', 'not', 'know', '.']	-1
+252	2	<他>_O	him	[0, 1, 2, 3, 4, 5]	['the', 'south', 'wind', 'will', 'learn', 'the', 'message']	-1
+254	11	<他的>_Pa	his	[11]	['-', 'short', 'target', 'caller', ',', 'the', 'final', 'target', 'caller', 'dog', '.']	-1
+254	16	<他的>_Pa	his	[15, 16]	['caller', ',', 'the', 'final', 'target', 'caller', 'dog', '.']	-1
+255	0	<他的>_Pa	his	[0, 1, 2, 3, 4, 5]	['short-term', 'goals', 'were', 'long', 'overdue', ',', 'and']	-1
+256	10	<我的>_Pa	my	[7, 8, 9, 10]	[',', '"', '"', 'neighbor', "'s", 'dog', ',', '"', 'once', 'again', 'on', 'the', 'day', "'s", 'hot', 'search', 'list', '.']	-1
+257	1	<我的>_Pa	my	[0, 1, 2, 3]	['"', 'the', 'neighbor', "'s", 'dog']	-1
+257	22	<它>_S	it	[15, 16]	['most', 'painstaking', ',', 'and', 'most', 'satisfying', '.']	-1
+258	13	<它>_S	it	14	it	1
+258	30	<我的>_Pa	my	[]	['the', 'name', 'of', 'the', 'painting', ',', 'no', 'one', 'would', 'think', 'it', 'is', 'a', 'dog', ',', 'or', 'a', 'small', 'pet', 'dog', '.']	-1
+259	12	<它们>_S	they	[11, 12, 13, 14, 15, 16, 17]	[',', 'seems', 'to', 'be', 'too', 'extraordinary', ',', 'but']	-1
+260	10	<他>_O	him	[10, 11, 12, 13, 14, 15, 16]	['the', 'little', 'poodle', 'he', 'had', 'met', 'on', 'campus']	-1
+260	22	<他>_S	he	20	he	1
+260	30	<他>_S	he	35	he	1
+261	1	<它>_S	it	[0, 1, 2, 3, 4]	['"', 'a', 'little', 'more', 'than', 'that']	-1
+262	11	<它>_O	it	[12, 13, 14, 15, 16, 17, 18]	['looked', 'at', 'for', 'a', 'few', 'seconds', ',', 'even']	-1
+262	15	<他们>_S	they	[19]	['even', 'can', 'not', 'understand', ',', 'but', 'the', 'heart', 'hair', ',', 'the', 'body', 'can', 'not', 'help', 'shaking', 'feeling', '.']	-1
+262	18	<他们>_S	they	[18, 19, 20, 21, 22, 23, 24, 25]	[',', 'even', 'can', 'not', 'understand', ',', 'but', 'the', 'heart', 'hair', ',', 'the', 'body', 'can', 'not', 'help', 'shaking', 'feeling', '.']	-1
+263	11	<他的>_Pa	his	11	his	1
+264	6	<他>_S	he	[6, 7, 8]	['!', 'have', 'you', 'even', 'drawn', 'such', 'a', 'picture', 'of', 'fang', "'s", 'dog', '?', '"']	-1
+265	18	<你>_S	you	[16, 17, 18]	[',', '"', 'to', 'see', 'how', 'will', 'drew', 'it', '.']	-1
+266	16	<他>_S	he	[17, 18, 19, 20, 21, 22, 23]	[',', 'or', 'it', 'wouldn', "'t", 'have', 'been', 'so']	-1
+267	24	<我>_S	i	22	i	1
+268	1	<它>_S	it	[0]	['"', 'still', 'worth', 'investing', 'in', ',', 'look', 'after', 'will', 'as', 'an', 'artist', '.', 'he', "'s", 'still', 'young', '.', '"']	-1
+268	7	<我>_S	i	[3, 4, 5, 6, 7, 8, 9]	['investing', 'in', ',', 'look', 'after', 'will', 'as', 'an']	-1
+269	10	<我的>_Pa	my	[7, 8, 9, 10, 11, 12, 13]	['painting', '"', 'the', 'neighbor', 'dog', '"', 'at', 'a']	-1
+269	18	<他的>_Pa	his	[14, 15, 16, 17, 18, 19, 20]	['a', 'high', 'price', ',', 'well', 'above', 'the', 'royalty']	-1
+270	14	<它>_S	it	[14, 15, 16, 17, 18, 19, 20]	['always', 'seem', 'not', 'to', 'be', 'cool', 'enough', 'to']	-1
+271	1	<你>_S	you	[0, 1, 2, 3, 4]	['"', 'the', 'test', 'in', 'the', 'morning']	-1
+273	10	<它>_S	it	[3, 4, 5, 6, 7, 8, 9]	['to', 'take', 'you', 'to', 'feel', 'the', 'breath', 'fluctuation']	-1
+274	4	<你>_O	you	[0, 1, 2, 3, 4, 5]	['"', 'that', "'s", 'it', '.', '"']	-1
+275	3	<他>_S	he	[3]	['that', 'we', 'meet', 'such', 'opportunities', ',', 'the', 'fastest', 'speed', 'to', 'get', 'the', 'hands', 'of', 'the', 'wang', 'tao', '.']	-1
+276	0	<他们>_S	they	[0, 1, 2, 3, 4, 5]	['the', 'two', 'men', 'reached', 'out', 'and', 'lightly']	-1
+277	4	<他的>_Pa	his	[5]	['to', 'construct', 'the', 'spatial', 'base', 'plate', 'with', 'the', 'ability', 'to', 'set', 'up', 'coordinates', '.']	-1
+278	11	<我们>_S	we	[9, 10]	['is', 'to', 'transform', 'this', 'kind', 'of', 'point', 'to', 'point', ',', 'point', 'to', 'point', '.', '"']	-1
+279	4	<我们>_S	we	[0, 1, 2, 3, 4, 5]	['"', 'it', 'just', 'takes', 'a', 'little', 'bit']	-1
+280	8	<我们的>_Pa_n	None	[5, 6, 7, 8, 9, 10, 11]	['energy', 'to', 'try', 'our', 'luck', ',', 'good', 'luck']	-1
+280	12	<我们>_S	we	18	we	1
+280	24	<我们的>_Pa_n	None	[22, 23]	[',', 'bad', 'luck', ',', 'we', 'have', 'to', 'waste', 'energy', 'try', 'more', 'times', '.', '"']	-1
+281	10	<他的>_Pa	his	[13, 14, 15]	[',', 'and', 'the', 'perceptual', 'consciousness', 'was', 'divided', 'into', 'more', 'than', 'ten', 'parts', ',', 'and', 'at', 'the', 'same', 'time', 'he', 'sensed', 'more', 'than', 'ten', 'completely', 'different', 'breath', 'of', 'space', '.']	-1
+282	19	<他的>_Pa	his	[22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]	[',', 'he', 'could', 'remember', 'all', 'the', 'coordinates', 'of', 'the', 'space', 'to', 'which', 'more', 'than', 'a', 'dozen', 'consciousness', 'came', 'in', 'contact', '.']	-1
+283	2	<他的>_Pa	his	3	his	1
+284	1	<你>_S	you	2	you	1
+285	1	<我们>_S	we	[0, 1, 2, 3, 4]	['"', 'get', 'started', '.', 'set', 'up']	-1
+286	3	<他>_S	he	[1, 2, 3, 4, 5, 6, 7]	['it', 'was', 'mizuki', 'who', 'deceived', 'everyone', '!', '"']	-1
+287	29	<他自己>_R	himself	29	himself	1
+288	2	<他>_R	himself	[0, 1, 2]	['sacrifice', 'yourself', '?']	-1
+289	2	<他>_S	he	6	he	1
+290	2	<我们>_S	we	[2, 3, 4, 5, 6, 7, 8]	['it', "'s", 'better', 'to', 'prepare', 'early', ',', '"']	-1
+291	7	<她的>_Pa	her	[5, 6, 7, 8, 9, 10, 11]	[',', 'even', 'in', 'the', 'memory', 'of', 'the', 'retrospective']	-1
+292	7	<她>_S	she	[9]	['the', 'imprint', ',', 'but', 'can', 'also', 'be', 'found', 'peeking', 'memory', 'lin', 'sheng', '.']	-1
+293	0	<他>_S	he	[0]	['big', 'deal', 'to', 'open', 'the', 'strongest', 'of', 'that', 'special', 'state', ',', 'summon', 'all', 'of', 'the', 'dominating', 'power', ',', 'into', 'their', 'own', '.']	-1
+293	3	<他的>_Pa	his	[1, 2, 3, 4, 5, 6, 7]	['deal', 'to', 'open', 'the', 'strongest', 'of', 'that', 'special']	-1
+294	0	<他>_S	he	[]	['disconnect', 'and', 'tiangong', 'xia', "'s", 'connection', ',', 'lin', 'sheng', 'quietly', 'gazed', 'at', 'just', 'built', 'a', 'new', 'door', 'of', 'evil', 'spirits', '.', 'mind', 'back', 'to', 'the', 'original', 'thinking', '.']	-1
+294	18	<他的>_Pa	his	[16, 17, 18, 19, 20, 21, 22]	['door', 'of', 'evil', 'spirits', '.', 'mind', 'back', 'to']	-1
+295	3	<他>_S	he	5	he	1
+296	1	<他>_S	he	[0, 1, 2, 3, 4, 5]	['otherwise', ',', 'it', 'would', 'not', 'be', 'so']	-1
+297	28	<他们>_S	they	[30]	[',', 'where', 'to', 'answer', 'out', '.']	-1
+298	5	<他们>_S	they	11	they	1
+299	13	<他>_S	he	[12, 13, 14, 15, 16, 17, 18]	['other', 'people', ',', 'chuckling', 'not', 'only', 'said', ':']	-1
+300	0	<他们>_S	they	10	they	1
+300	15	<他们>_S	they	[18, 19]	[',', 'felt', 'that', 'miao', 'yi', 'also', 'did', 'not', 'need', 'to', 'hit', 'their', 'own', 'mountain', 'door', 'to', 'their', 'own', 'color', ',', 'after', 'all', ',', 'miao', 'yi', 'is', 'donglai', 'hole', 'owner', ',', 'just', 'took', 'office', 'was', 'smashed', 'the', 'sign', 'but', 'a', 'disgrace', '.']	-1
+301	2	<他们>_S	they	[3]	['thing', 'must', 'say', 'clearly', ',', 'otherwise', 'once', 'poked', 'up', 'can', 'not', 'bear', 'the', 'responsibility', ',', 'song', 'fu', 'zhengse', 'baoquan', 'said', ':', '"', 'cave', 'master', ',', 'this', 'matter', 'is', 'not', 'what', 'i', 'wait', 'for', '!', '"']	-1
+301	11	<他们>_S	they	[8, 9, 10, 11, 12, 13, 14]	['otherwise', 'once', 'poked', 'up', 'can', 'not', 'bear', 'the']	-1
+302	29	<他>_S	he	[34, 35, 36, 37, 38, 39, 40, 41, 42]	['at', 'all', ',', 'so', 'it', 'was', 'not', 'there', ',', 'only', 'to', 'hold', 'the', 'fist', "'", 'honest', "'", 'to', 'explain', ':', '"', 'the', 'lord', 'of', 'the', 'cave', 'just', 'came', 'may', 'not', 'know', 'the', 'situation', ',', 'the', 'jailers', 'from', 'the', 'eastern', 'city', 'have', 'not', 'been', 'sent', ',', 'i', 'wait', 'for', 'the', 'food', 'is', 'all', 'their', 'own', 'handling', ',', 'in', 'order', 'to', 'eat', ',', 'subordinates', 'temporarily', 'left', 'for', 'a', 'while', ',', 'did', 'not', 'think', 'that', 'this', 'happened', '.', '"']	-1
+302	62	<我>_S	i	79	i	1
+302	72	<我>_S	i	[94, 95, 96, 97, 98, 99, 100, 101]	[',', 'subordinates', 'temporarily', 'left', 'for', 'a', 'while', ',', 'did', 'not', 'think', 'that', 'this', 'happened', '.', '"']	-1
+303	21	<它>_S	it	22	it	1
+304	27	<我>_S	i	[]	['what', 'we', 'do', '.', 'if', 'there', 'is', 'half', 'a', 'falsehood', ',', 'ask', 'me', 'song', 'fu', 'not', 'to', 'die', '!', '"']	-1
+305	6	<他>_S	he	[7, 8, 9, 10]	[',', 'in', 'a', 'gloomy', 'tone', ':', '"', 'is', 'there', 'anyone', 'coming', 'to', 'my', 'hole', 'to', 'make', 'trouble', '?', '"']	-1
+306	10	<他们>_S	they	12	they	1
+307	24	<你们>_S	you	29	you	1
+307	29	<你们>_S	you	29	you	1
+308	2	<他们>_S	they	[0, 1, 2, 3, 4, 5, 6]	['this', 'time', 'how', 'to', 'make', 'a', 'statement', 'to']	-1
+309	5	<他>_S	he	7	he	1
+310	9	<他>_S	he	[10, 11, 12, 13]	[',', 'shook', 'his', 'head', 'slightly', 'and', 'said', 'with', 'a', 'smile', ',', '"', 'world', 'is', 'like', 'chess', ',', 'a', 'man', 'of', 'hot', 'blood', 'is', 'not', 'only', 'a', 'hero', '!', '"']	-1
+311	1	<我>_S	i	1	i	1
+312	3	<他>_S	he	[0, 1, 2, 3, 4, 5]	['the', 'words', 'fell', ',', 'the', 'whole', 'figure']	-1
+312	12	<他>_S	he	[13, 14]	[',', 'in', 'the', 'shaking', 'quietly', 'disappeared', 'without', 'a', 'trace', '.']	-1
+313	5	<他>_S	he	[2, 3, 4, 5, 6, 7, 8]	['face', 'staring', 'at', 'his', 'throne', 'without', 'expression', ',']	-1
+313	10	<他>_S	he	[11, 12, 13, 14, 15, 16, 17]	['the', 'back', 'of', 'his', 'hand', 'to', 'song', 'fu']	-1
+314	14	<他>_S	he	[20]	[',', 'indifferently', 'said', ':', '"', 'this', 'is', 'not', 'what', 'i', 'wait', 'for', ',', 'song', 'fu', 'why', 'the', 'crime', '?', '"']	-1
+315	8	<他>_S	he	[5, 6, 7, 8, 9, 10, 11]	[',', 'stared', 'at', 'him', ',', 'one', 'word', 'cold']	-1
+315	24	<你>_S	you	38	you	1
+316	0	<我>_S	i	0	i	1
+317	0	<他>_Pa	his	[1, 2, 3, 4, 5, 6, 7]	['course', ',', 'the', 'mouth', 'will', 'not', 'say', ',']	-1
+318	15	<你>_S	you	[]	['does', 'not', 'forget', 'that', 'there', 'is', 'also', 'a', 'mouth', 'to', 'explain', ',', 'not', 'dumb', '.', '"']	-1
+318	30	<我>_S	i	[39]	[',', 'not', 'dumb', '.', '"']	-1
+319	15	<他们>_S	they	23	they	1
+319	27	<我们>_S	we	[35, 36, 37, 38]	[',', 'for', 'the', 'time', 'being', ',', 'no', 'suspicious', 'people', 'have', 'been', 'found', '.', '"']	-1
+320	8	<你们的>_Pa	yours	[10, 11, 12, 13, 14, 15, 16]	['us', ',', 'why', 'did', 'not', 'find', 'a', 'word']	-1
+320	12	<你们>_S	you	[10, 11, 12, 13, 14, 15, 16]	['us', ',', 'why', 'did', 'not', 'find', 'a', 'word']	-1
+320	15	<他>_O	him	[15, 16]	['find', 'a', 'word', '!', '"']	-1
+321	4	<他>_S	he	[4, 5, 6, 7, 8]	['to', 'hear', 'the', 'sound', ',', 'quickly', 'turned', 'around', ',', 'but', 'saw', 'that', 'killing', 'god', 'like', 'yan', 'xiu', 'a', 'pair', 'of', 'plate', 'axe', 'has', 'been', 'angry', 'and', 'split', '.']	-1
+322	8	<他们>_S	they	[10, 11, 12]	[',', 'the', 'two', 'on', 'a', 'close', 'match', ',', 'coupled', 'with', 'a', 'single', 'statement', 'and', 'qiu', 'shaoqun', 'joined', 'forces', ',', 'the', 'situation', 'of', 'song', 'fu', 'suddenly', 'became', 'precarious', '.']	-1
+323	35	<他的>_Pa	his	[28, 29, 30, 31, 32, 33, 34]	['the', 'two', 'guns', 'pierced', 'through', 'the', 'mana', 'defense']	-1
+323	42	<他的>_Pa	his	[37, 38, 39, 40, 41]	['hard', 'into', 'the', 'chest', '.']	-1
+324	10	<他>_S	he	[10, 11, 12, 13, 14, 15, 16]	['back', 'at', 'miao', 'yi', ',', 'shivering', 'lips', ',']	-1
+324	15	<他>_Pa	his	[17]	[',', 'eyes', 'of', 'anger', 'can', 'not', 'be', 'described', '.']	-1
+325	1	<它>_S	it	[0, 1, 2, 3, 4, 5]	['"', 'on', 'the', 'east', 'campus', '?']	-1
+326	29	<他>_S	he	[25, 26, 27, 28, 29, 30, 31]	['but', 'the', 'tone', 'of', 'their', 'voice', 'told', 'them', 'that', 'the', 'east', 'campus', 'was', 'dangerous', '.']	-1
+327	18	<他们>_S	they	[]	['but', 'it', 'seems', 'that', 'chen', 'ge', 'said', 'there', 'is', 'some', 'truth', '.']	-1
+328	18	<他>_S	he	[6, 7, 8, 9, 10, 11, 12]	['is', 'serious', ',', 'chen', 'ge', 'continues', 'to', 'tell']	-1
+329	16	<它>_S	it	[19, 20, 21, 22, 23, 24, 25]	[',', 'paint', 'black', 'as', 'ink', ',', 'as', 'if']	-1
+330	3	<他>_S	he	[]	['enhance', 'their', 'own', 'strength', ',', 'and', 'can', 'muddle', 'the', 'school', 'pool', 'of', 'dead', 'water', ',', 'cover', 'the', 'college', 'in', 'another', '"', 'murderer', '"', '.']	-1
+330	11	<他>_S	he	[]	['muddle', 'the', 'school', 'pool', 'of', 'dead', 'water', ',', 'cover', 'the', 'college', 'in', 'another', '"', 'murderer', '"', '.']	-1
+331	13	<你>_S	you	[10, 11, 12, 13]	[',', 'faster', 'and', 'with', 'an', 'erratic', 'look', 'in', 'your', 'eyes', '.', 'your', 'kid', 'is', 'really', 'not', 'good', 'at', 'lying', '.', '"']	-1
+331	18	<你的>_Pa	your	18	your	1
+332	8	<你>_S	you	16	you	1
+333	14	<我们>_S	we	[15, 16, 17, 18, 19, 20, 21]	['after', 'reading', ',', 'to', 'avoid', 'the', 'wind', 'first']	-1
+334	40	<他们>_S	they	[53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]	['sound', 'of', 'plastic', 'pots', 'falling', ',', 'the', 'sound', 'of', 'conversation', ',', 'standing', 'downstairs', 'can', 'hear', 'clearly', '.']	-1
+335	6	<他>_S	he	[5]	[',', 'followed', 'by', 'four', 'students', 'into', 'the', 'first', 'building', '.']	-1
+336	20	<他们>_S	they	[16, 17, 18, 19, 20, 21, 22]	['his', 'bedroom', 'did', 'their', 'own', 'thing', 'as', 'if']	-1
+337	24	<我>_S	i	[30, 31, 32, 33, 34, 35, 36]	['"', 'how', 'many', 'times', 'have', 'you', 'said', 'that', '?', '"']	-1
+338	1	<你>_S	you	8	you	1
+338	10	<你的>_Pa	your	[8, 9, 10, 11, 12, 13, 14]	['you', '.', 'you', "'re", 'lame', ',', 'aren', "'t"]	-1
+339	25	<我>_S	i	29	i	1
+340	8	<他>_S	he	13	he	1
+340	12	<他>_S	he	18	he	1
+341	17	<我们的>_Pa	our	[16, 17, 18, 19, 20, 21, 22]	['we', 'used', 'to', 'put', 'the', 'luggage', '.', '"']	-1
+342	27	<他们的>_Pa	their	[30, 31]	['others', 'threw', 'debris', 'and', 'luggage', 'on', 'the', 'fourth', 'bed', '.']	-1
+343	4	<她的>_Pa	her	[0, 1, 2, 3, 4, 5, 6]	['"', 'the', 'bird', 'arched', 'his', 'fist', 'and', 'led']	-1
+344	30	<他>_O	him	45	him	1
+345	28	<他>_S	he	[]	[',', 'can', 'not', 'stand', '.']	-1
+346	10	<他>_S	he	[13, 14, 15, 16, 17, 18, 19]	[',', 'even', 'though', 'his', 'legs', 'and', 'feet', 'were']	-1

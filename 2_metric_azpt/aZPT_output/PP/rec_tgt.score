@@ -1,0 +1,10 @@
+SRC_ZP:<他>_S	Ref_ZP:he	Correct:508	Incorrect:254	Acc:0.6666666666666666
+SRC_ZP:<他的>_Pa	Ref_ZP:his	Correct:23	Incorrect:32	Acc:0.41818181818181815
+SRC_ZP:<她>_S	Ref_ZP:she	Correct:4	Incorrect:50	Acc:0.07407407407407407
+SRC_ZP:<她的>_Pa	Ref_ZP:her	Correct:1	Incorrect:4	Acc:0.2
+SRC_ZP:<我>_S	Ref_ZP:i	Correct:0	Incorrect:1	Acc:0.0
+SRC_ZP:<他>_O	Ref_ZP:him	Correct:0	Incorrect:1	Acc:0.0
+SRC_ZP:<它>_S	Ref_ZP:it	Correct:0	Incorrect:4	Acc:0.0
+SRC_ZP:<我们>_S	Ref_ZP:we	Correct:0	Incorrect:2	Acc:0.0
+SRC_ZP:<他们的>_Pa	Ref_ZP:their	Correct:0	Incorrect:1	Acc:0.0
+Finally Correct entities:536	 Incorrect:349	 Score:0.6056497175141243
