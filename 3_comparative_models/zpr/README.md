@@ -16,7 +16,7 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
 
 ZPR model based on ``[ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT](https://aclanthology.org/2020.acl-main.482/)''. We didn't use the multi-task version. We only run the recovery task. This method is based on Transformers which provides by hugging face. The BERT model we used is bert-base-chinese.
 
-1. Dataset:
+1. Dataset:   
     1.1 The training data are put in data dir, QA_Forum is the dataset for QA domain, Movie_Subtitle is for Movie Subtitle and General_Domain are for others.
     
     |Dataset|General_Domain|Movie_Subtitle|QA_Forum|
@@ -26,14 +26,14 @@ ZPR model based on ``[ZPR2: Joint Zero Pronoun Recovery and Resolution using Mul
     
     1.2 testset are putted on 1_testset_mzprt
 
-2. Training:
+2. Training:    
     2.1 Trainging code and script are release on ZPR dir.
    ```bash
         # config_recover*.json are the training configure, e.g
         sh run.sh config_recover.json
    ```
    
-4. Generation:
+4. Generation:    
     4.1 Turn the testset into input format(json)
     ```bash
        sh ./script/turn_oracle_2_zpr.sh testset
