@@ -1,7 +1,7 @@
 ## ReConstructor
 
 ### Models
-1. ReConstructor, a model proposed by Wang et al. AAAI 2018
+1. ReConstructor, a model proposed by Wang et al. AAAI 2018.  
 ![](./rec.png)
 
 ### Usage:
