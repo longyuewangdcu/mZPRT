@@ -26,3 +26,7 @@ aZPT score:
     -n, --num-neighbors NUM_NEIGHBORS   #Number of neighbors
     -o, --output OUTPUT
 ```
+
+Here are the components of aZPT score, which is used to reproduce the main results in our paper.  
+
+![](../3_comparative_models/Main_result.png)
