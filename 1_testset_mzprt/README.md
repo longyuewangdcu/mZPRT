@@ -15,6 +15,7 @@ Multi-domain Zero Pronoun Recovery and Translation Dataset
 │    ├──context-aware                               # Processed testset for Doc-level MT, hear we only provide previous sentences (only one)
 │    │    ├──original                               # Same as the context-agnostic version   
 │    │    ├──zp-labeled                                 # Same as the context-agnostic version   
+│    ├──labeled-target                               # Processed target-side with ZP-label
 └── README.md
 ```
 
