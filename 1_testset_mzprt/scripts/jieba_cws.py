@@ -8,7 +8,7 @@ def jieba_cws(string):
 
 if __name__ == '__main__':
     
-    jieba.load_userdict('./userdict.txt')
+    jieba.load_userdict('/Users/scewiner/Documents/Project/mZPRT/1_testset_mzprt/scripts/userdict.txt')
     with sys.stdin as f:
         for line in f:
             line_cws = jieba_cws(line)
