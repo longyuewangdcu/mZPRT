@@ -31,6 +31,7 @@ We release a benchmark for Zero Pronoun Recovery and Translation, this benchmark
     │   ├── processed              # tokenized and BPEed testset
     │   │   ├── context-agnostic   # original/oracle testset for sent-level
     │   │   ├── context-aware      # original/oracle testset for doc-level
+    │   │   ├── labeled-target     # target sequences with ZP-label
     │   ├── raw                    # raw testset for each domain
     │   ├── script                 # script for preprocessing and scoring bleu
     ├── 2_metric_azpt              # Our evaluation metric
