@@ -8,10 +8,10 @@ Title: [A Benchmark for Zero Pronoun Recovery and Translation]()
 If you use this benchmark, Please cite our paper:
 
 ```bibtex
-@inproceedings{xxxxx,
-  title={A Benchmark for Zero Pronoun Recovery and Translation},
-  author={Mingzhou Xu  and Longyue Wong, Derek F. Wong, Hongye Liu, Linfeng Song, Lidia S. Chao,Shuming Shi and Zhaopeng Tu},
-  booktitle={xxxx},
+@inproceedings{xu2022guofeng,
+  title={GuoFeng: A Benchmark for Zero Pronoun Recovery and Translation},
+  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  pages={11266--11278},
   year={2022},
 }
 ```
